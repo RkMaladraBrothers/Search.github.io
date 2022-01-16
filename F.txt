@@ -1,0 +1,78 @@
+document.write(`
+<tr>
+   <td><a href="#family" rel="modal:open">Family Drama (2021)</a></td>
+   <td>Telugu/Tamil, Kannada/Malayalam</td>
+  </tr>
+  <div id="family" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4494', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Family Drama (2021) 720p SONYLIV WEB-DL x264 Multi [Telugu Org + Tamil + Malayalam + Kannada ] AAC 2.0 ESubs <span class="File">[File_Size: 1GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4504', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Family Drama (2021) Sonyliv 720p HQ HDRip x264 Multi [Tamil +Telugu Org + Kannada +Malayalam ] AAC2.0 ESub <span class="File">[File_Size: 746MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4505', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Family Drama (2021) Sonyliv HQ HDRip x264 Multi [Tamil+ Telugu Org + Kannada] AAC2.0 450MB ESub <span class="File">[File_Size: 467MB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Family" rel="modal:open">The Family Man <b>S02</b></a></td>
+   <td>Hindi</td>
+  </tr>
+  <div id="Family" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4204', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Family Man 2021 S02 Hindi Amazon Original Complete Web Series 480p HDRip .mkv <span class="File">[File_Size: 1.3GB]</span></p>
+  </div>
+
+  <tr>
+   <td><a href="#F9" rel="modal:open">Fast & Furious 9 (2021)</a><span style="display: none;">F9 Fast saga</span></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="F9" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2992', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> F9 The Fast Saga (2021) 720p HEVC HDRip Dual Audio (Theatre Cleaned HQ Hindi +English Org) x265 ESub <span class="File">[File_Size: 819MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4986', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> F9 Fast 9 The Fast Saga (2021) 720p 10bit WEBRip x265 HEVC Dual Audio [Org GPLAY Hindi DDP 5.1 ~ 384Kbps + English AAC 5.1] ESub <span class="File">[File_Size: 1.4GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4987', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> F9 Fast 9 The Fast Saga (2021) 480p BluRay Dual Audio (Hindi+English) x264 ESubs <span class="File">[File_Size: 485MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4989', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> F9 Fast 9 The Fast Saga (2021) 720p10bit HEVC BluRay Dual Audio (Hindi 5.1 +English 2.0) AAC x265 ESubs <span class="File">[File_Size: 941MB]</span></p>
+  </div>
+
+  <tr>
+   <td><a href="#Finch" rel="modal:open">Finch (2021)</a></td>
+   <td>English</td>
+  </tr>
+  <div id="Finch" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4690', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Finch (2021) 720p10bit WEBRip 6CH x265 HEVC ESubs <span class="File">[File_Size: 938MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4691', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Finch (2021) 1080p10bit WEBRip 6CH x265 HEVC ESubs <span class="File">[File_Size: 1.8GB]</span></p>
+  </div>
+
+  <tr>
+   <td><a href="#" rel="modal:open">Flight (2021)</a></td>
+   <td>English</td>
+  </tr>
+  <div id="" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4239', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Flight (2021) 480p BMS WEB-DL AAC2.0 x264 ESub <span class="File">[File_Size: 591MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4240', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Flight (2021) 720p BMS WEB-DL AAC2.0 x264 ESub <span class="File">[File_Size: 1.4GB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Free" rel="modal:open">Free Guy (2021)</a></td>
+   <td>Hindi/Tamil, Telugu/English</td>
+  </tr>
+  <div id="Free" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3280', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Free Guy (2021) 720p WEBRip Dual Audio (Hindi Cam Cleaned +English) x264 <span class="File">[File_Size: 1GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3281', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Free Guy (2021) 480p WEBRip Dual Audio (Hindi Cam Cleaned +English) x264 <span class="File">[File_Size: 396MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3283', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Free Guy (2021) 720p English HDRip x264 <span class="File">[File_Size: 796MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3284', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Free Guy (2021) 1080p HDRip English DD5.1 x264 <span class="File">[File_Size: 1.4GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3289', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Free Guy (2021) 720p10bit HEVC WEBRip x265 Dual Audio (Hindi Cam Cleaned +English) ESubs <span class="File">[File_Size: 693MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3301', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Free Guy (2021) 720p BrRip 2CH x265 HEVC ESub <span class="File">[File_Size: 858MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3323', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Free Guy (2021) 720p10bit BluRay 6CH x265 HEVC ESubs <span class="File">[File_Size: 1.1GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4070', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Free Guy (2021) 480p DSNP BluRay Dual Audio (Hindi +English) x264 Esub <span class="File">[File_Size: 396MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4071', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Free Guy (2021) BRRip 720p HEVC x265 Multi (AAC 2.0) [Tamil + Telugu + Hindi + English ] ESub <span class="File">[File_Size: 753MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4072', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Free Guy (2021) 720p HEVC DSNP WEB-DL x265 [Telugu + Tamil + Hindi + English ] ESubs <span class="File">[File_Size: 1.2GB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Friends" rel="modal:open">Friends the Reunion (2021)</a></td>
+   <td>English</td>
+  </tr>
+  <div id="Friends" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3701', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Friends the Reunion (2021) 720p English x264 (DD5.1 - 192Kbps AAC) 900MB ESub <span class="File">[File_Size: 939MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3702', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Friends Reunion ( 2021 ) English WEBRip 480p x264 ESubs <span class="File">[File_Size: 280MB]</span></p>
+  </div>
+  `);

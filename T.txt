@@ -1,0 +1,201 @@
+document.write(`
+  <tr>
+   <td><a href="#Tabbar" rel="modal:open">Tabbar (2021)</a></td>
+   <td>Hindi</td>
+  </tr>
+  <div id="Tabbar" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4004', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Tabbar (2021) S01 <span class="E">E01_E8</span> Sonyliv Hindi 720p HDRip x264</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4022', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Tabbar(2021) S01 <span class="E">E01_E8</span> Hindi Sonyliv 480p WebRip x264</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4107', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Tabbar (2021) S01 <span class="E">E01_E8</span> HINDI Internal Sonyliv 720p10bit WEBRip 2CH x265.HEVC ESubs ~ Streamion</p>
+  </div>
+
+<tr>
+    <td><a href="#Tadap" rel="modal:open">Tadap (2021)</a></td>
+    <td>Hindi</td>
+  </tr>
+  <div id="Tadap" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5411', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Tadap (2021) Hindi 480p HQ PreDVD Rip x264 <span class="File">[File_Size: 401MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5412', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Tadap (2021) Hindi 720p HQ PreDVD Rip x264 <span class="File">[File_Size: 1GB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5413', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Tadap (2021) Hindi 1080p HQ PreDVD Rip x264 <span class="File">[File_Size: 1.9GB]</span></p>
+</div>
+
+  <tr>
+   <td><a href="#Tathagat" rel="modal:open">Tathagat (2020)</a></td>
+   <td>Hindi</td>
+  </tr>
+  <div id="Tathagat" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4406', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Tathagat (2020) 480p HDRip Hindi x264 ESubs <span class="File">[File_Size: 270MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4407', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Tathagat (2020) 720p HEVC HDRip Hindi x265 ESubs <span class="File">[File_Size: 493MB]</span></p>
+  </div>
+
+  <tr>
+   <td><a href="#Tenant" rel="modal:open">The Tenant (2021)</a></td>
+   <td>Hindi</td>
+  </tr>
+  <div id="Tenant" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2693', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Tenant (2021) 720p HEVC HDRip Hindi x265 ESub <span class="File">[File_Size: 567MB]</span></p>
+  </div>
+
+  <tr>
+    <td><a href="#Tender" rel="modal:open">The Tender Bar (2022)</a></td>
+    <td>English</td>
+  </tr>
+  <div id="Tender" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5866', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Tender Bar (2022) 480p AMZN WebRip ENGLISH x264 ESubs <span class="File">[File_Size: 321MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5867', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Tender Bar (2022) 720p10bit AMZN WebRip ENGLISH 6CH x265 ESubs <span class="File">[File_Size: 716MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5868', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Tender Bar (2022) 1080p10bit AMZN WebRip ENGLISH 6CH x265 ESubs <span class="File">[File_Size: 1.6GB]</span></p>
+</div>
+
+  <tr>
+   <td><a href="#Thalaivi" rel="modal:open">Thalaivi (2021)</a></td>
+   <td>Hindi/Tamil, Telugu/Malayalam/Kannada</td>
+  </tr>
+  <div id="Thalaivi" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2792', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Thalaivi (2021) Tamil Proper HQ PreDVDRip x264 AAC <span class="File">[File_Size: 700MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2793', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Thalaivi (2021) Tamil 720p Proper HQ PreDVD x264 AAC <span class="File">[File_Size: 1.4GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3395', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Thalaivii (2021) Hindi 720p10bit HEVC WEB-DL x265 ESub <span class="File">[File_Size: 819MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3396', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Thalaivii (2021) 480p Hindi WEB-DL x264 ESub <span class="File">[File_Size: 445MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3397', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Thalaivii (2021) [Hindi - 720p HD AVC - x264 - DD5.1 - ESubs] <span class="File">[File_Size: 1.7GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3398', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Thalaivii (2021) [Hindi - 720p HDRip - x264 - DD5.1 - ESubs] <span class="File">[File_Size: 1.4GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3880', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Thalaivii (2021) Tamil 720p AMZN WEB-DL x265 DDP5.1 HEVC ESubs <span class="File">[File_Size: 1.6GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3881', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Thalaivii (2021) Telugu 720p AMZN WEB-DL x265 DDP5.1 HEVC ESubs <span class="File">[File_Size: 1GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3882', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Thalaivii (2021) Malayalam 720p AMZN WEB-DL H.264 DDP5.1 ESubs <span class="File">[File_Size: 1.9GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3883', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Thalaivii (2021) Kannada 720p AMZN WEB-DL x265 DDP5.1 HEVC ESubs <span class="File">[File_Size: 1.6GB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Threesome" rel="modal:open">Threesome <b>S01</b> (2021)</a></td>
+   <td>SWEDISH</td>
+  </tr>
+  <div id="Threesome" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2498', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Threesome (2021) S01E01 The Threesome SWEDISH 720p10bit WEBRip 2CHx265 HEVC ESubs <span class="File">[File_Size: 101MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2499', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Threesome (2021) S01E02 Aftermath SWEDISH 720p10bit WEBRip 2CHx265 HEVC ESubs <span class="File">[File_Size: 89MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2500', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Threesome (2021) S01E03 Kentucky Lemonade SWEDISH 720p10bit WEBRip 2CHx265 HEVC ESubs <span class="File">[File_Size: 102MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2501', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Threesome (2021) S01E04 Bar Therapy SWEDISH 720p10bit WEBRip 2CHx265 HEVC ESubs <span class="File">[File_Size: 96MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2502', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Threesome (2021) S01E05 My Name Is Siri SWEDISH 720p10bit WEBRip 2CHx265 HEVC ESubs <span class="File">[File_Size: 83MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2503', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Threesome (2021) S01E06 The Beauty and the Shittyness of Love SWEDISH 720p10bit WEBRip 2CHx265 HEVC ESubs <span class="File">[File_Size: 75MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2504', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Threesome (2021) S01E07 Happy Anniversary SWEDISH 720p10bit WEBRip 2CHx265 HEVC ESubs <span class="File">[File_Size: 86MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2505', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Threesome (2021) S01E08 Säsongsavslutning I Love Him SWEDISH 720p10bit WEBRip 2CHx265 HEVC ESubs <span class="File">[File_Size: 69MB]</span></p>
+  </div>
+
+<tr>
+    <td><a href="#Tick" rel="modal:open">Tick Tick BOOM (2021)</a></td>
+    <td>Hindi/English</td>
+  </tr>
+  <div id="Tick" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5106', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Tick Tick BOOM ! (2021) 720p NF WEB-DL Dual Audio (Hindi +English) DDP5.1 Atmos x264 MSubs <span class="File">[File_Size: 1.9GB]</span></p>
+<p class="Box" onclick="window.open('https://t.me/c/1501644510/5142', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Tick Tick BOOM ! (2021) 480p NF WEB-DL Dual Audio (Hindi +English) x264 MSubs <span class="File">[File_Size: 393MB]</span></p>
+<p class="Box" onclick="window.open('https://t.me/c/1501644510/5186', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Tick Tick BOOM ! (2021) 1080p10bit WEBRip 6CH x265 HEVC ESubs <span class="File">[File_Size: 1.8GB]</span></p>
+<p class="Box" onclick="window.open('https://t.me/c/1501644510/5143', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Tick Tick BOOM ! (2021) 720p NF WEB-DL Dual Audio (Hindi +English)AAC2.0 x264 MSubs <span class="File">[File_Size: 1.1GB]</span></p>
+<p class="Box" onclick="window.open('https://t.me/c/1501644510/5187', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Tick Tick BOOM ! (2021) 720p10bit WEBRip 6CH x265 HEVC ESubs <span class="File">[File_Size: 834MB]</span></p>
+</div>
+
+  <tr>
+   <td><a href="#Till_Death" rel="modal:open">Till Death (2021)</a></td>
+   <td>Hindi/English, Tamil/Telugu</td>
+  </tr>
+  <div id="Till_Death" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3744', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Till Death (2021) 720p BDRip Multi [Tamil +Telugu+ Hindi +English ] x264 ESubs <span class="File">[File_Size: 1GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3745', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Till Death (2021) 1080p BDRip Multi [Tamil +Telugu +Hindi+ English] Esubs <span class="File">[File_Size: 1.7GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3746', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Till Death (2021) 480p LPLAY WEB-DL Multi (Tamil +Telugu +Hindi +English) AAC2.0 x264 ESub <span class="File">[File_Size: 456MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3763', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Till Death (2021) 720p10bit HEVC BluRay x265 Dual Audio (Hindi +English) ESubs <span class="File">[File_Size: 465MB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Together" rel="modal:open">Together (2021)</a></td>
+   <td>English</td>
+  </tr>
+  <div id="Together" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2873', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Together (2021) 720p WEBRip 2CH x265 HEVC ESubs <span class="File">[File_Size: 545MB]</span></p>
+  </div>
+
+  <tr>
+    <td><a href="#Toofaan" rel="modal:open">Toofaan (2021)</a></td>
+    <td>Hindi/English</td>
+  </tr>
+  <div id="Toofaan" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5968', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Toofaan (2021) English [HQ HDRip - x264 - AAC - ESubs] <span class="File">[File_Size: 971MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5969', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> TOOFAAN (2021) Hindi HDRip - 720p - x264 - (DD5.1 - 192Kbps  AAC 2.0) - 1.4GB - ESub.mkv <span class="File">[File_Size: 1.5GB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5970', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> TOOFAAN (2021) Hindi HDRip - 250MB - x264 - AAC - ESub.mkv <span class="File">[File_Size: 243MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5971', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> TOOFAAN (2021) Hindi HDRip - 400MB - x264 - AAC - ESub.mkv <span class="File">[File_Size: 346MB]</span></p>
+</div>
+
+<tr>
+    <td><a href="#Tragedy" rel="modal:open">The Tragedy of Macbeth (2021)</a></td>
+    <td>English</td>
+  </tr>
+  <div id="Tragedy" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/6101', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Tragedy of Macbeth (2021) 720p10bit HEVC WEBRip 6CH x265 MSubs <span class="File">[File_Size: 772MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/6102', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Tragedy of Macbeth (2021) 1080p10bit HEVC WEBRip 6CH x265 MSubs <span class="File">[File_Size: 1.5GB]</span></p>
+</div>
+
+  <tr>
+   <td><a href="#Train" rel="modal:open">Train to Busan Presents (2021)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Train" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4408', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Train to Busan Presents - Peninsula (2020) 480p BluRay x264 Dual Audio (Hindi+English) ESubs <span class="File">[File_Size: 350MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4409', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Train to Busan Presents - Peninsula (2020) 720p 10bit BluRay x265 HEVC Dual Audio [Org TV-DL Hindi DDP5.1 ~224Kbps+ English DDP5.1] ESub ~ PSA <span class="File">[File_Size: 1.5GB]</span></p>
+  </div>
+
+  <tr>
+   <td><a href="#Trance" rel="modal:open">Trance (2020)</a></td>
+   <td>Malayalam</td>
+  </tr>
+  <div id="Trance" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4410', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Trance (2020) 720p WebRip x264 Malayalam AAC 5.1 ESubs ~ Fairlove <span class="File">[File_Size: 1.6GB]</span></p>
+  </div>
+
+<tr>
+    <td><a href="#True" rel="modal:open">True Story (2021)</a></td>
+    <td>Hindi/English</td>
+  </tr>
+  <div id="True" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5242', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> True Story (2021) S01 <span class="E">E01_E07</span> 720p NF WebRip Dual Audio (Hindi +English) AAC 5.1 x264 MSubs</p>
+</div>
+
+  <tr>
+   <td><a href="#Tryst" rel="modal:open">Tryst With Destiny (2021)</a></td>
+   <td>Hindi/Tamil/Telugu, Bengali/Kannada/Malayalam </td>
+  </tr>
+  <div id="Tryst" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4643', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Tryst With Destiny (2021) S01 <span class="E">E01_E04</span> 1080p Sony WEB-DL Multi (Hindi +Tamil +Telugu +Bengali +Kannada +Malayalam ) AAC2.0 x264 Esubs</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4655', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Tryst With Destiny (2021) S01 <span class="E">E01_E04</span> 720p SONYLIV WEB-DL x264 (AAC 2.0) [Telugu + Tamil + Hindi + Malayalam + Kannada + Bengali ] ESubs</p>
+  </div>
+  <tr>
+   <td><a href="#Tuck" rel="modal:open">Tuck Jagadish (2021)</a></td>
+   <td>Telugu</td>
+  </tr>
+  <div id="Tuck" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2701', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Tuck Jagadish (2021) Telugu AMZN 720p HDRip x264 DD5.1 ESubs <span class="File">[File_Size: 1.4GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2702', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Tuck Jagadish (2021) AMZN Telugu HDRip x264 ESubs <span class="File">[File_Size: 694MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2703', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Tuck Jagadish (2021) AMZN Telugu HDRipx264 ESubs <span class="File">[File_Size: 399MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2704', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Tuck Jagadish (2021) 720p AMZN WEB-DL DDP5.1 HEVC ESubs <span class="File">[File_Size: 1.8GB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Tughlaq" rel="modal:open">Tughlaq Durbar (2021)</a></td>
+   <td>Tamil/Telugu</td>
+  </tr>
+  <div id="Tughlaq" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2816', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Tughlaq Durbar (2021) HDRip x264 Dual Audio [Tamil +Telugu] Esub <span class="File">[File_Size: 437MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2817', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Tughlaq Durbar (2021) HDRip x264 Dual Audio [Tamil+ Telugu] Esub <span class="File">[File_Size: 756MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2818', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Tughlaq Durbar (2021) 720p HDRip x264 Dual Audio [Tamil +Telugu] DD5.1 Esub <span class="File">[File_Size: 1.4GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2820', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Tughlaq Durbar (2021) 1080p HDRip x264 Dual Audio [Tamil +Telugu] DD5.1 ESub <span class="File">[File_Size: 1.9GB]</span></p>
+  </div>
+  `);

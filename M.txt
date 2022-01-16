@@ -1,0 +1,468 @@
+document.write(`
+  <tr>
+   <td><a href="#Maestro" rel="modal:open">Maestro (2021)</a></td>
+   <td>Telugu</td>
+  </tr>
+  <div id="Maestro" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2963', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Maestro (2021) Telugu 720p HS-DSNP WEB-DL DDP5.1 HEVC ESubs <span class="File">[File_Size: 1.1GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2967', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Maestro (2021) Telugu HDRip x264 400MB Esub <span class="File">[File_Size: 408MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2968', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Maestro (2021) Telugu HDRip x264 ESub <span class="File">[File_Size: 700MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2969', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Maestro (2021) Telugu 1080p TRUE-HD HEVC x265 UNTOUCHED DDP5.1 ESub <span class="File">[File_Size: 1.9GB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#MGR" rel="modal:open">MGR Magan (2021)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="MGR" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4640', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> MGR Magan (2021) 480p Tamil HQ HDRip x264 HE-AAC Esub <span class="File">[File_Size: 403MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4641', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> MGR Magan (2021) 720p Tamil HDRip x265 HEVC AC3 DD5.1 ~ 160kbps ESubs <span class="File">[File_Size: 1.4GB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Mahanati" rel="modal:open">Mahanati (2018)</a></td>
+   <td>Hindi/Telugu</td>
+  </tr>
+  <div id="Mahanati" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4002', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Mahanati (2018) 480p UNCUT Dual Audio (Hindi +Telugu) HDRip x264 ESub <span class="File">[File_Size: 596MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4003', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Mahanati (2018) 720p HEVC UNCUT Dual Audio (Hindi +Telugu) HDRip x265 ESub <span class="File">[File_Size: 937MB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Maid" rel="modal:open">Maid <b>S01</b> (2021)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Maid" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3676', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Maid (2021) 480p HDRip HEVC NF S01 E(01-05) Dual Audio (Hindi +English) x265 MSub <span class="File">[File_Size: 738MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3677', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Maid (2021) 480p HDRip HEVC NF S01 E(06-10) Dual Audio (Hindi +English) x265 MSub <span class="File">[File_Size: 821MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3654', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Maid (2021) S01 <span class="E">E01_E10</span> WebRip 720p Dual Audio (Hindi+English) AAC 5.1 x264 MSubs</p>
+  </div>
+  <tr>
+   <td><a href="#Malignant" rel="modal:open">Malignant (2021)</a></td>
+   <td>Hindi/English, Tamil/Telugu</td>
+  </tr>
+  <div id="Malignant" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2766', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Malignant (2021) HMAX English HDRip x264 400MB ESub <span class="File">[File_Size: 406MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2767', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Malignant (2021) HMAX English HDRip DD5.1 x264 720p ESub <span class="File">[File_Size: 945MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2807', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Malignant (2021) 720p10bit HMAX WEBRip 6CH x265 HEVC ESubs <span class="File">[File_Size: 909MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2808', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Malignant (2021) 1080p10bit HMAX WEBRip 6CH x265 HEVC ESubs <span class="File">[File_Size: 1.9GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4220', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Malignant (2021) 480p WEB-DL Dual Audio (Hindi+English) x264 Esub <span class="File">[File_Size: 388MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4221', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Malignant (2021) 720p10bit HEVC WEB-DL Dual Audio (Hindi 5.1 +English 2.0) x265 ESub <span class="File">[File_Size: 883MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4236', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Malignant (2021) 720p HDRip Multi [Tamil +Telugu+ Hindi +English ] x264 ESubs <span class="File">[File_Size: 1.4GB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Manapenne" rel="modal:open">Oh Manapenne (2021)</a></td>
+   <td>Tamil/Telugu, Kannada/Malayalam</td>
+  </tr>
+  <div id="Manapenne" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4237', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Oh Manapenne ! (2021) HDRip 720p HEVC x265 Multi [Tamil + Telugu + Kannada + Malayalam] AAC2.0 ESub <span class="File">[File_Size: 855MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4238', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Oh Manapenne ! (2021) HDRip 720p x264 Multi [Tamil + Telugu + Kannada + Malayalam] AAC2.0 ESub <span class="File">[File_Size: 1.4GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4259', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Oh Manapenne ! (2021) Kannada HDRip x264 Esubs <span class="File">[File_Size: 408MB]</span></p>
+  </div>
+
+<tr>
+    <td><a href="#Mandaar" rel="modal:open">Mandaar <b>S01</b> (2021)</a></td>
+    <td>Hindi/English</td>
+  </tr>
+  <div id="Mandaar" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5087', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Mandaar (2021) S01 <span class="E">E01_E05</span> 720p HoiChoi WEB-DL BENGALI AAC2.0 x264 ESubs ~ NEW1ON</p>
+</div>
+
+  <tr>
+   <td><a href="#Many" rel="modal:open">The Many Saints of Newark (2021)</a></td>
+   <td>English</td>
+  </tr>
+  <div id="Many" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3673', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Many Saints of Newark (2021) 720p10bit WEBRip 6CH x265 HEVC ESubs <span class="File">[File_Size: 773MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3682', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Many Saints of Newark (2021) 1080p10bit WEBRip 6CH x265 HEVC ESubs <span class="File">[File_Size: 1.6GB]</span></p>
+  </div>
+
+<tr>
+    <td><a href="#Masters" rel="modal:open">Masters of the Universe Revelation (2021)</a></td>
+    <td>English</td>
+  </tr>
+  <div id="Masters" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5252', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Masters of the Universe Revelation (2021) S01 <span class="E">E01_E10</span> NF WebRip 720p English 5.1 x264 MSubs</p>
+</div>
+
+  <tr>
+   <td><a href="#Matrix" rel="modal:open">The Matrix</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Matrix" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2689', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Matrix (1999) 1080p10bit BluRay 6CH x265 HEVC ESubs <span class="File">[File_Size: 1.6GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3196', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Matrix 1 (1999) BluRay Dual Audio ( Hindi+English) 480p ESub <span class="File">[File_Size: 412MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2690', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Matrix Reloaded (2003) REMASTERED 720p10bit BluRay 6CH x265 HEVC ESubs <span class="File">[File_Size: 1.4GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3197', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Matrix 2 Reloaded (2003) BluRay Dual Audio (Hindi+English) 480p ESub <span class="File">[File_Size: 418MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2691', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Matrix Revolutions (2003) REMASTERED 720p10bit BluRay 6CH x265 HEVC ESubs <span class="File">[File_Size: 1.2GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3198', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Matrix 3 Revolutions (2003) BluRay Dual Audio (Hindi+English) 480p ESub <span class="File">[File_Size: 390MB]</span></p>
+  </div>
+
+<tr>
+    <td><a href="#Matsya" rel="modal:open">Matsya Kaand (2021)</a></td>
+    <td>Hindi</td>
+  </tr>
+  <div id="Matsya" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5024', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Matsya Kaand (2021) S01 <span class="E">E01_E11</span> MX Hindi 720p HEVC HDRip x265 ESub</p>
+</div>
+
+  <tr>
+   <td><a href="#Maya" rel="modal:open">Maya and the Three <b>S01</b> (2021)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Maya" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4334', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Maya and the Three (2021) S01 <span class="E">E01_E09</span> NF 480p WebRip Dual Audio (Hindi+English) x264 MSubs</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4345', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Maya and the Three (2021) S01 <span class="E">E01_E09</span> NF 720p WebRip Dual Audio (Hindi+English) AAC 5.1 x264 MSubs</p>
+  </div>
+  <tr>
+   <td><a href="#Meenakshi" rel="modal:open">Meenakshi Sundareshwar (2021)</a></td>
+   <td>Hindi/English, Tamil/Telugu</td>
+  </tr>
+  <div id="Meenakshi" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4666', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Meenakshi Sundareshwar (2021) 720p NF WEB-DL x264 (DDP5.1 ~ 192Kbps) Dual Audio [Hindi + English] MSubs <span class="File">[File_Size: 840MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4667', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Meenakshi Sundareshwar (2021) 720p NF WEB-DL x264 (DDP5.1 ~ 192Kbps) Multi [Telugu + Tamil + Hindi + English] ESubs <span class="File">[File_Size: 1.2GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4675', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Meenakshi Sundareshwar (2021) 480p NF WEB-DL Multi (Hindi +English +Tamil +Telugu) AAC2.0 x264 MSubs <span class="File">[File_Size: 639MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4689', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Meenakshi Sundareshwar (2021) 480p NF Hindi WebRip x264 MSubs <span class="File">[File_Size: 382MB]</span></p>
+  </div>
+
+  <tr>
+   <td><a href="#Midnight" rel="modal:open">Midnight Mass <b>S01</b> (2021)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Midnight" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> <a href="#Midnight1" rel="modal:open" style="background: white;"> Midnight Mass (2021) S01 720p NF WEBRip x264 MSubs</a></p>
+   <p class="Box"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> <a href="#Midnight2" rel="modal:open" style="background: white;"> Midnight Mass (2021) S01 480p WEB-DL x264 Dual Audio (Hindi+English) ESubs</a></p>
+   <p class="Box"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> <a href="#Midnight3" rel="modal:open" style="background: white;"> Midnight Mass (2021) S01 1080p HEVC WEB-DL x265 Dual Audio [(Hindi+English) DD5.1] Esubs</a></p>
+   <p class="Box"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> <a href="#Midnight4" rel="modal:open" style="background: white;"> Midnight Mass(2021) S01 NF WebRip 720p x265 HEVC 10Bit Dual Audio (Hindi+English) AAC 5.1 MSubs</a></p>
+  </div>
+
+  <div id="Midnight1" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3354', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Midnight Mass (2021) S01E01 720p NF WEBRip x264 MSubs <span class="File">[File_Size: 349MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3355', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Midnight Mass (2021) S01E02 720p NF WEBRip x264 MSubs <span class="File">[File_Size: 352MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3356', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Midnight Mass (2021) S01E03 720p NF WEBRip x264 MSubs <span class="File">[File_Size: 358MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3357', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Midnight Mass (2021) S01E04 720p NF WEBRip x264 MSubs <span class="File">[File_Size: 245MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3358', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Midnight Mass (2021) S01E05 720p NF WEBRip x264 MSubs <span class="File">[File_Size: 214MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3359', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Midnight Mass (2021) S01E06 720p NF WEBRip x264 MSubs <span class="File">[File_Size: 308MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3360', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Midnight Mass (2021) S01E07 720p NF WEBRip x264 MSubs <span class="File">[File_Size: 240MB]</span></p>
+  </div>
+
+  <div id="Midnight2" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3362', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Midnight Mass (2021) S01E01 480p WEB-DL x264 Dual Audio (Hindi+English) ESubs <span class="File">[File_Size: 196MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3363', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Midnight Mass (2021) S01E02 480p WEB-DL x264 Dual Audio (Hindi+English) ESubs <span class="File">[File_Size: 210MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3364', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Midnight Mass (2021) S01E03 480p WEB-DL x264 Dual Audio (Hindi+English) ESubs <span class="File">[File_Size: 215MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3365', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Midnight Mass (2021) S01E04 480p WEB-DL x264 Dual Audio (Hindi+English) ESubs <span class="File">[File_Size: 232MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3366', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Midnight Mass (2021) S01E05 480p WEB-DL x264 Dual Audio (Hindi+English) ESubs <span class="File">[File_Size: 205MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3367', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Midnight Mass (2021) S01E06 480p WEB-DL x264 Dual Audio (Hindi+English) ESubs <span class="File">[File_Size: 222MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3368', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Midnight Mass (2021) S01E07 480p WEB-DL x264 Dual Audio (Hindi+English) ESubs <span class="File">[File_Size: 213MB]</span></p>
+  </div>
+
+  <div id="Midnight3" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3370', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Midnight Mass (2021) S01E01 1080p HEVC WEB-DL x265 Dual Audio [(Hindi+English) DD5.1] Esubs <span class="File">[File_Size: 1.1GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3371', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Midnight Mass (2021) S01E02 1080p HEVC WEB-DL x265 Dual Audio [(Hindi+English) DD5.1] Esubs <span class="File">[File_Size: 1.1GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3372', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Midnight Mass (2021) S01E03 1080p HEVC WEB-DL x265 Dual Audio [(Hindi+English) DD5.1] Esubs <span class="File">[File_Size: 728MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3373', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Midnight Mass (2021) S01E04 1080p HEVC WEB-DL x265 Dual Audio [(Hindi+English) DD5.1] Esubs <span class="File">[File_Size: 581MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3374', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Midnight Mass (2021) S01E05 1080p HEVC WEB-DL x265 Dual Audio [(Hindi+English) DD5.1] Esubs <span class="File">[File_Size: 592MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3375', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Midnight Mass (2021) S01E06 1080p HEVC WEB-DL x265 Dual Audio [(Hindi+English) DD5.1] Esubs <span class="File">[File_Size: 957MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3376', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Midnight Mass (2021) S01E07 1080p HEVC WEB-DL x265 Dual Audio [(Hindi+English) DD5.1] Esubs <span class="File">[File_Size: 837MB]</span></p>
+  </div>
+
+  <div id="Midnight4" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3383', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Midnight Mass(2021) S01 E01 NF WebRip 720p x265 HEVC 10Bit Dual Audio (Hindi+English) AAC 5.1 MSubs <span class="File">[File_Size: 445MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3384', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Midnight Mass(2021) S01 E02 NF WebRip 720p x265 HEVC 10Bit Dual Audio (Hindi+English) AAC 5.1 MSubs <span class="File">[File_Size: 516MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3385', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Midnight Mass(2021) S01 E03 NF WebRip 720p x265 HEVC 10Bit Dual Audio (Hindi+English) AAC 5.1 MSubs <span class="File">[File_Size: 498MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3386', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Midnight Mass(2021) S01 E04 NF WebRip 720p x265 HEVC 10Bit Dual Audio (Hindi+English) AAC 5.1 MSubs <span class="File">[File_Size: 504MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3387', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Midnight Mass(2021) S01 E05 NF WebRip 720p x265 HEVC 10Bit Dual Audio (Hindi+English) AAC 5.1 MSubs <span class="File">[File_Size: 444MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3388', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Midnight Mass(2021) S01 E06 NF WebRip 720p x265 HEVC 10Bit Dual Audio (Hindi+English) AAC 5.1 MSubs <span class="File">[File_Size: 569MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3389', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Midnight Mass(2021) S01 E07 NF WebRip 720p x265 HEVC 10Bit Dual Audio (Hindi+English) AAC 5.1 MSubs <span class="File">[File_Size: 553MB]</span></p>
+  </div>
+
+<tr>
+    <td><a href="#Miseducation" rel="modal:open">The Miseducation of Bindu (2021)</a></td>
+    <td>English</td>
+  </tr>
+  <div id="Miseducation" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5203', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Miseducation of Bindu (2021) 720p HEVC AMZN WEB-DL ENGLISH DDP5.1 x265 ESubs <span class="File">[File_Size: 1.1GB]</span></p>
+</div>
+
+  <tr>
+   <td><a href="#My" rel="modal:open"> My Brother My Sister <span style="display:none">Mio Fratello, Mia Sorella</span> (2021)</a></td>
+   <td>English</td>
+  </tr>
+  <div id="My" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3885', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Mio Fratello, Mia Sorella a.k.a My Brother My Sister (2021) 480p NF WEB-DL ENGLISH DUBBED AAC x264 MSubs <span class="File">[File_Size: 473MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3886', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Mio Fratello, Mia Sorella a.k.a My Brother My Sister (2021) 720p NF WEB-DL ENGLISH DUBBED AAC 5.1 x264 MSubs <span class="File">[File_Size: 1.2GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3887', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Mio Fratello, Mia Sorella a.k.a My Brother My Sister (2021) ITALIAN 720p NF WEBRip DDP5.1 x264 MSubs <span class="File">[File_Size: 1.3GB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Mixte" rel="modal:open">Mixte Voltaire High <b>S01</b> (2021)</a></td>
+   <td>English</td>
+  </tr>
+  <div id="Mixte" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2834', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Mixte Voltaire High (2021) S01E01 WebRip 720p x265 HEVC 10Bit English 5.1 ESub <span class="File">[File_Size: 227MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2835', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Mixte Voltaire High (2021) S01E02 WebRip 720p x265 HEVC 10Bit English 5.1 ESub <span class="File">[File_Size: 217MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2836', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Mixte Voltaire High (2021) S01E03 WebRip 720p x265 HEVC 10Bit English 5.1 ESub <span class="File">[File_Size: 254MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2837', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Mixte Voltaire High (2021) S01E04 WebRip 720p x265 HEVC 10Bit English 5.1 ESub <span class="File">[File_Size: 201MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2838', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Mixte Voltaire High (2021) S01E05 WebRip 720p x265 HEVC 10Bit English 5.1 ESub <span class="File">[File_Size: 154MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2839', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Mixte Voltaire High (2021) S01E06 WebRip 720p x265 HEVC 10Bit English 5.1 ESub <span class="File">[File_Size: 165MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2840', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Mixte Voltaire High (2021) S01E07 WebRip 720p x265 HEVC 10Bit English 5.1 ESub <span class="File">[File_Size: 169MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2841', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Mixte Voltaire High (2021) S01E08 WebRip 720p x265 HEVC 10Bit English 5.1 ESub <span class="File">[File_Size: 239MB]</span></p>
+  </div>
+
+<tr>
+    <td><a href="#Mogul" rel="modal:open">Mogul Mowgli (2021)</a></td>
+    <td>English</td>
+  </tr>
+  <div id="Mogul" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5202', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Mogul Mowgli (2021) 720p HEVC AMZN WEB-DL ENGLISH DDP5.1 x265 ESubs <span class="File">[File_Size: 930MB]</span></p>
+</div>
+
+  <tr>
+   <td><a href="#Money" rel="modal:open">Money Heist <b>S05</b> (2021)</a></td>
+   <td>Hindi/English/SPANISH</td>
+  </tr>
+  <div id="Money" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2374', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Money Heist (2021) 480p HEVC NF S05 PART 1 Complete E(01 - 05)Dual Audio (Hindi +English) x265 MSubs <span class="File">[File_Size: 784MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2375', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Money Heist (2021) 720p HEVC NF S05 PART 1 Complete E(01 - 05) Dual Audio (Hindi+English) x265 MSub <span class="File">[File_Size: 1.5GB]</span></p>
+   <p class="Box"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i><a href="#mh5_1" rel="modal:open" style="background: white;"> Money Heist S05 SPANISH 720p NF WEBRip x264 MSubs</a></p>
+   <p class="Box"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i><a href="#mh5_2" rel="modal:open" style="background: white;"> Money Heist S05 480p WEB-DL Multi (Hindi +English +Spanish) x264 MSub</a></p>
+   <p class="Box"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i><a href="#mh5_3" rel="modal:open" style="background: white;"> Money Heist S05 720p HDRip Multi (Tamil+Telugu +Hindi +English) x264 Esub</a></p>
+   <p class="Box"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i><a href="#mh5_4" rel="modal:open" style="background: white;"> Money Heist S05 720p 10bit NF WEBRip Dual Audio ( Hindi+English) AAC 5.1 MSubs x265</a></p>
+   <p class="Box"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i><a href="#mh5_5" rel="modal:open" style="background: white;"> Money Heist S05 1080p10bit Multi (Hindi +Spanish +English) x265 WEB-DL MSubs</a></p>
+  </div>
+
+  <div id="mh5_1" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2352', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Money Heist S05E01 SPANISH 720p NF WEBRip x264 MSubs <span class="File">[File_Size: 318MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2353', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Money Heist S05E02 SPANISH 720p NF WEBRip x264 MSubs <span class="File">[File_Size: 409MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2354', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Money Heist S05E03 SPANISH 720p NF WEBRip x264 MSubs <span class="File">[File_Size: 313MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2355', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Money Heist S05E04 SPANISH 720p NF WEBRip x264 MSubs <span class="File">[File_Size: 398MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2356', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Money Heist S05E05 SPANISH 720p NF WEBRip x264 MSubs <span class="File">[File_Size: 382MB]</span></p>
+  </div>
+
+  <div id="mh5_2" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2361', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Money Heist S05E01 480p WEB-DL Multi (Hindi +English +Spanish) x264 MSub <span class="File">[File_Size: 177MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2362', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Money Heist S05E02 480p WEB-DL Multi (Hindi +English +Spanish) x264 MSub <span class="File">[File_Size: 187MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2363', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Money Heist S05E03 480p WEB-DL Multi (Hindi +English +Spanish) x264 MSub <span class="File">[File_Size: 177MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2364', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Money Heist S05E04 480p WEB-DL Multi (Hindi +English +Spanish) x264 MSub <span class="File">[File_Size: 184MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2365', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Money Heist S05E05 480p WEB-DL Multi (Hindi +English +Spanish) x264 MSub <span class="File">[File_Size: 195MB]</span></p>
+  </div>
+
+  <div id="mh5_3" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2367', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Money Heist S05E01 720p HDRip Multi (Tamil+Telugu +Hindi +English) x264 Esub <span class="File">[File_Size: 533MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2368', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Money Heist S05E02 720p HDRip Multi (Tamil+Telugu +Hindi +English) x264 Esub <span class="File">[File_Size: 534MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2369', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Money Heist S05E03 720p HDRip Multi (Tamil+Telugu +Hindi +English) x264 Esub <span class="File">[File_Size: 533MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2370', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Money Heist S05E04 720p HDRip Multi (Tamil+Telugu +Hindi +English) x264 Esub <span class="File">[File_Size: 534MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2371', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Money Heist S05E05 720p HDRip Multi (Tamil+Telugu +Hindi +English) x264 Esub <span class="File">[File_Size: 542MB]</span></p>
+  </div>
+
+  <div id="mh5_4" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Money Heist S05E01 720p 10bit NF WEBRip Dual Audio ( Hindi+English) AAC 5.1 MSubs x265 <span class="File">[File_Size: 407MB]</span></p>
+   <p class="Box" onclick="window.open('https', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Money Heist S05E02 720p 10bit NF WEBRip Dual Audio ( Hindi+English) AAC 5.1 MSubs x265 <span class="File">[File_Size: 426MB]</span></p>
+   <p class="Box" onclick="window.open('https', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Money Heist S05E03 720p 10bit NF WEBRip Dual Audio ( Hindi+English) AAC 5.1 MSubs x265 <span class="File">[File_Size: 407MB]</span></p>
+   <p class="Box" onclick="window.open('https', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Money Heist S05E04 720p 10bit NF WEBRip Dual Audio ( Hindi+English) AAC 5.1 MSubs x265 <span class="File">[File_Size: 422MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2397', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Money Heist S05E05 720p 10bit NF WEBRip Dual Audio ( Hindi+English) AAC 5.1 MSubs x265 <span class="File">[File_Size: 458MB]</span></p>
+  </div>
+
+  <div id="mh5_5" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2421', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Money Heist S05E01 1080p10bit Multi (Hindi +Spanish +English) x265 WEB-DL MSubs <span class="File">[File_Size: 656MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2422', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Money Heist S05E02 1080p10bit Multi (Hindi +Spanish +English) x265 WEB-DL MSubs <span class="File">[File_Size: 738MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2423', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Money Heist S05E03 1080p10bit Multi (Hindi +Spanish +English) x265 WEB-DL MSubs <span class="File">[File_Size: 602MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2424', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Money Heist S05E04 1080p10bit Multi (Hindi +Spanish +English) x265 WEB-DL MSubs <span class="File">[File_Size: 730MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2425', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Money Heist S05E05 1080p10bit Multi (Hindi +Spanish +English) x265 WEB-DL MSubs <span class="File">[File_Size: 682MB]</span></p>
+  </div>
+
+<tr>
+    <td><a href="#money" rel="modal:open">Money Heist <b>S05 Vol.2</b> (2021)</a></td>
+    <td>Hindi/English</td>
+  </tr>
+  <div id="money" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5400', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Money Heist (2021) S05 <span class="E">E06_E10</span> 720p NF WEB-DL Multi (Hindi +Tamil +Telugu +English) DDP2.0 x264 ESubs</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5406', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Money Heist (2021) S05  <span class="E">E06_E10</span> 480p NF WEB-DL Multi (Hindi +Tamil +Telugu +English) AAC2.0 x264 MSubs</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5414', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Money Heist S05 <span class="E">E06_E10</span> 1080p 10bit WEBRip x265 HEVC [Org NF Hindi DDP 5.1 ~768Kbps + English AAC 5.1] MSubs</p>
+</div>
+
+<tr>
+    <td><a href="#MH" rel="modal:open">Money Honey Director's Cut <b>S01</b> (2021)</a></td>
+    <td>Bengali</td>
+  </tr>
+  <div id="MH" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5035', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Money Honey Director's Cut (2021) 720p WEB-DL Bengali S01 E(01-08) Complete Combined File <span class="File">[File_Size: 1.2GB]</span></p>
+</div>
+
+  <tr>
+   <td><a href="#Money_Mafia" rel="modal:open">Money Mafia <b>S01</b> (2021)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Money_Mafia" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3172', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Money Mafia S01 <span class="E">E01_E04</span> WebRip 720p Hindi English AAC 2.0 x264 ESub</p>
+  </div>
+  <tr>
+   <td><a href="#Moonbound" rel="modal:open">Moonbound (2021)</a></td>
+   <td>English</td>
+  </tr>
+  <div id="Moonbound" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2926', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Moonbound (2021) English 720p WEB-DL x264 ESubs <span class="File">[File_Size: 646MB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Saga" rel="modal:open">Mumbai Saga (2021)</a></td>
+   <td>Hindi</td>
+  </tr>
+  <div id="Saga" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2508', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Mumbai (2021) Hindi 720p HDRip x264 AAC 5.1 ESubs Full Bollywood Movie.mkv <span class="File">[File_Size: 1GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2509', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Mumbai Saga (2021) Hindi 720p HEVC HDRip x265 AAC ESubs Full Bollywood Movie.mkv <span class="File">[File_Size: 678MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2510', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Mumbai Saga (2021) Hindi 480p HDRip x264 AAC ESubs Full Bollywood Movie.mkv <span class="File">[File_Size: 404MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2511', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Mumbai Saga (2021) Hindi HDRip - 1080p - HEVC - x265 - (DD5.1 - 192Kbps AAC 2.0) - 1.3GB - ESub.mkv <span class="File">[File_Size: 1.3GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2512', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Mumbai Saga (2021) Hindi TRUE HD - 720p - AVC - (DD5.1 - 192Kbps AAC 2.0) - 1.8GB - ESub.mkv <span class="File">[File_Size: 1.8GB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#DIARIES" rel="modal:open">MUMBAI DIARIES 26-11 (2021)</a></td>
+   <td>Hindi/Tamil/Telugu</td>
+  </tr>
+  <div id="DIARIES" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2677', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Mumbai Diaries 26/11 (2021) AMZN 480p HEVC Hindi S01 Complete All In One File x265 MSub <span class="File">[File_Size: 944MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2679', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Mumbai Diaries 26/11 (2021) AMZN 720p HEVC Hindi S01 Complete All In One File x265 MSub <span class="File">[File_Size: 1.9GB]</span></p>
+   <p class="Box"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i><a href="#d1" rel="modal:open" style="background: white;"> Mumbai Diaries (2021) S01 720p AMZN WEB-DL DDP5.1 HEVC x265 ESub</a></p>
+   <p class="Box"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i><a href="#d2" rel="modal:open" style="background: white;"> Mumbai Diaries (2021) 720p HDRip Multi (Tamil +Telugu +Hindi) S01 ESubs</a></p>
+   <p class="Box"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i><a href="#d3" rel="modal:open" style="background: white;"> MUMBAI DIARIES 26-11 (2021) S01 480p HDRip Multi (Tamil +Telugu +Hindi) ESub</a></p>
+   <p class="Box"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i><a href="#d4" rel="modal:open" style="background: white;"> Mumbai Diaries S01 WebRip 720p Hindi AAC 5.1 x264 MSubs</a></p>
+  </div>
+  <div id="d1" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2624', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Mumbai Diaries (2021) S01E01 Diagnosis 720p AMZN WEB-DL DDP5.1 HEVC x265 ESub <span class="File">[File_Size: 1.1GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2625', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Mumbai Diaries (2021) S01E02 Complications 720p AMZN WEB-DL DDP5.1 HEVC x265 ESub <span class="File">[File_Size: 829MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2626', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Mumbai Diaries (2021) S01E03 Malignant 720p AMZN WEB-DL DDP5.1 HEVC x265 ESub <span class="File">[File_Size: 747MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2627', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Mumbai Diaries (2021) S01E04 Anatomy 720p AMZN WEB-DL DDP5.1 HEVC x265 ESub <span class="File">[File_Size: 808MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2628', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Mumbai Diaries (2021) S01E05 Side Effects 720p AMZN WEB-DL DDP5.1 HEVC x265 ESub <span class="File">[File_Size: 881MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2629', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Mumbai Diaries (2021) S01E06 Relapse 720p AMZN WEB-DL DDP5.1 HEVC x265 ESub <span class="File">[File_Size: 963MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2630', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Mumbai Diaries (2021) S01E07 Remission 720p AMZN WEB-DL DDP5.1 HEVC x265 ESub <span class="File">[File_Size: 922MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2631', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Mumbai Diaries (2021) S01E08 Recovery 720p AMZN WEB-DL DDP5.1 HEVC x265 ESub <span class="File">[File_Size: 707MB]</span></p>
+  </div>
+  <div id="d2" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2653', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Mumbai Diaries (2021) 720p HDRip Multi (Tamil +Telugu +Hindi) S01E01 ESubs <span class="File">[File_Size: 384MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2654', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Mumbai Diaries (2021) 720p HDRip Multi (Tamil +Telugu +Hindi) S01E02 ESubs <span class="File">[File_Size: 372MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2655', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Mumbai Diaries (2021) 720p HDRip Multi (Tamil +Telugu +Hindi) S01E03 ESubs <span class="File">[File_Size: 244MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2656', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Mumbai Diaries (2021) 720p HDRip Multi (Tamil +Telugu +Hindi) S01E04 ESubs <span class="File">[File_Size: 372MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2657', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Mumbai Diaries (2021) 720p HDRip Multi (Tamil +Telugu +Hindi) S01E05 ESubs <span class="File">[File_Size: 376MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2658', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Mumbai Diaries (2021) 720p HDRip Multi (Tamil +Telugu +Hindi) S01E06 ESubs <span class="File">[File_Size: 380MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2659', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Mumbai Diaries (2021) 720p HDRip Multi (Tamil +Telugu +Hindi) S01E07 ESubs <span class="File">[File_Size: 384MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2660', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Mumbai Diaries (2021) 720p HDRip Multi (Tamil +Telugu +Hindi) S01E08 ESubs <span class="File">[File_Size: 370MB]</span></p>
+  </div>
+  <div id="d3" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2667', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> MUMBAI DIARIES 26-11 (2021) S01 EP01 - Diagnosis 480p HDRip Multi (Tamil +Telugu +Hindi) ESub <span class="File">[File_Size: 153MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2668', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> MUMBAI DIARIES 26-11 (2021) S01 EP02 - Complications 480p HDRip Multi (Tamil +Telugu +Hindi) ESub <span class="File">[File_Size: 117MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2669', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> MUMBAI DIARIES 26-11 (2021) S01 EP03 - Malignant 480p HDRip Multi (Tamil +Telugu +Hindi) ESub <span class="File">[File_Size: 103MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2670', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> MUMBAI DIARIES 26-11 (2021) S01 EP04 - Anatomy 480p HDRip Multi (Tamil +Telugu +Hindi) ESub <span class="File">[File_Size: 114MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2671', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> MUMBAI DIARIES 26-11 (2021) S01 EP05 - Side - Effects 480p HDRip Multi (Tamil +Telugu +Hindi) ESub <span class="File">[File_Size: 122MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2672', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> MUMBAI DIARIES 26-11 (2021) S01 EP06 - Relapse 480p HDRip Multi (Tamil +Telugu +Hindi) ESub <span class="File">[File_Size: 133MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2673', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> MUMBAI DIARIES 26-11 (2021) S01 EP07 - Remission 480p HDRip Multi (Tamil +Telugu +Hindi) ESub <span class="File">[File_Size: 124MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2674', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> MUMBAI DIARIES 26-11 (2021) S01 EP08 - Recovery 480p HDRip Multi (Tamil +Telugu +Hindi) ESub <span class="File">[File_Size: 97MB]</span></p>
+  </div>
+  <div id="d4" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2731', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Mumbai Diaries S01 E01 WebRip 720p Hindi AAC 5.1 x264 MSubs <span class="File">[File_Size: 465MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2732', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Mumbai Diaries S01 E02 WebRip 720p Hindi AAC 5.1 x264 MSubs <span class="File">[File_Size: 347MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2733', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Mumbai Diaries S01 E03 WebRip 720p Hindi AAC 5.1 x264 MSubs <span class="File">[File_Size: 337MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2734', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Mumbai Diaries S01 E04 WebRip 720p Hindi AAC 5.1 x264 MSubs <span class="File">[File_Size: 374MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2735', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Mumbai Diaries S01 E05 WebRip 720p Hindi AAC 5.1 x264 MSubs <span class="File">[File_Size: 414MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2736', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Mumbai Diaries S01 E06 WebRip 720p Hindi AAC 5.1 x264 MSubs <span class="File">[File_Size: 448MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2737', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Mumbai Diaries S01 E07 WebRip 720p Hindi AAC 5.1 x264 MSubs <span class="File">[File_Size: 456MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2738', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Mumbai Diaries S01 E08 WebRip 720p Hindi AAC 5.1 x264 MSubs <span class="File">[File_Size: 427MB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Realms" rel="modal:open">Mortal Kombat Legends Battle of the Realms (2021)</a></td>
+   <td>English</td>
+  </tr>
+  <div id="Realms" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2270', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Mortal Kombat Legends Battle of the Realms (2021) 720p WEBRip 2CH x265 HEVC ESubs <span class="File">[File_Size: 455MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2271', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Mortal Kombat Legends Battle of the Realms (2021) 1080p WEBRip 6CH x265 HEVC ESubs <span class="File">[File_Size: 935MB]</span></p>
+  </div>
+
+  <tr>
+   <td><a href="#Most" rel="modal:open">Most Dangerous Game (2020)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Most" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3202', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Most Dangerous Game (2020) 480p WEB-DL x264 Dual Audio (Hindi+English) ESub <span class="File">[File_Size: 415MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3203', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Most Dangerous Game (2020) 720p WEB-DL x264 Dual Audio (Hindi DD5.1 +English) ESub <span class="File">[File_Size: 1.1GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3204', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Most Dangerous Game (2020) 720p10bit HEVC WEB-DL x265 Dual Audio (Hindi+English) ESub <span class="File">[File_Size: 687MB]</span></p>
+  </div>
+
+<tr>
+    <td><a href="#most" rel="modal:open">Most Eligible Bachelor (2021)</a></td>
+    <td>Telugu</td>
+  </tr>
+  <div id="most" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5094', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Most Eligible Bachelor (2021) 720p AHA WEB-DL x265 Telugu (DD+ 5.1 - 192Kbps & AAC 2.0) ESubs ~ TheDNK <span class="File">[File_Size: 792MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5095', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Most Eligible Bachelor (2021) 1080p AHA WEB-DL x265 Telugu (DD+ 5.1 - 192Kbps & AAC 2.0) ESubs ~ TheDNK <span class="File">[File_Size: 1GB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5099', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Most Eligible Bachelor (2021) 480p Telugu AHA HDRip x264 Esub <span class="File">[File_Size: 407MB]</span></p>
+</div>
+
+  <tr>
+   <td><a href="#Hills" rel="modal:open">Murder in the Hills <b>S01</b> (2021)</a></td>
+   <td>Hindi</td>
+  </tr>
+  <div id="Hills" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2444', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Murder in the Hills (2021) S01 E01 WebRip 720p Hindi Dubbed AAC2.0 x264 <span class="File">[File_Size: 211MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2445', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Murder in the Hills (2021) S01 E02 WebRip 720p Hindi Dubbed AAC2.0 x264 <span class="File">[File_Size: 203MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2446', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Murder in the Hills (2021) S01 E03 WebRip 720p Hindi Dubbed AAC2.0 x264 <span class="File">[File_Size: 204MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2447', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Murder in the Hills (2021) S01 E04 WebRip 720p Hindi Dubbed AAC2.0 x264 <span class="File">[File_Size: 188MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2448', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Murder in the Hills (2021) S01 E05 WebRip 720p Hindi Dubbed AAC2.0 x264 <span class="File">[File_Size: 204MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2449', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Murder in the Hills (2021) S01 E06 WebRip 720p Hindi Dubbed AAC2.0 x264 <span class="File">[File_Size: 183MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2450', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Murder in the Hills (2021) S01 E07 WebRip 720p Hindi Dubbed AAC2.0 x264 <span class="File">[File_Size: 210MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2451', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Murder in the Hills (2021) S01 E08 WebRip 720p Hindi Dubbed AAC2.0 x264 <span class="File">[File_Size: 287MB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Name" rel="modal:open">My Name <b>S01</b> (2021) <span style="display:none">Undercover</span></a></td>
+   <td>Hindi/English/Korean</td>
+  </tr>
+  <div id="Name" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4119', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> My Name A.K.A Undercover (2021) S01 <span class="E">E01_E08</span> 720p 10bit NF WEBRip x265 HEVC [Hindi DDP5.1 ~ 640Kbps + Korean AAC 2.0 + English AAC 2.0] Msub</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4128', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> My Name A.K.A Undercover (2021) S01 <span class="E">E01_E08</span> 1080p 10bit NF WEBRip x265 HEVC [Hindi DDP5.1 ~ 640Kbps + Korean AAC 2.0 + English AAC 2.0] Msub</p>
+  </div>
+  <tr>
+   <td><a href="#son" rel="modal:open">My son (2021)</a></td>
+   <td>English</td>
+  </tr>
+  <div id="son" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2933', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Hearts of the Down Under and the My Son a.k.a My Son (2021) 720p10bit WEBRip 6CH x265 HEVC ESub <span class="File">[File_Size: 596MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2939', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Hearts of the Down Under and the My Son a.k.a My Son (2021) 1080p10bit WEBRip 6CH x265 HEVC ESub <span class="File">[File_Size: 1.1GB]</span></p>
+  </div>
+`);

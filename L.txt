@@ -1,0 +1,236 @@
+document.write(`
+  <tr>
+   <td><a href="#Lamb" rel="modal:open">Lamb (2021)</a></td>
+   <td>English</td>
+  </tr>
+  <div id="Lamb" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4554', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Lamb (2021) ICELANDIC 1080p10bit WEBRip 6CH x265 HEVC ESubs <span class="File">[File_Size: 1.4GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4553', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Lamb (2021) ICELANDIC 720p10bit WEBRip 6CH x265 HEVC ESubs <span class="File">[File_Size: 662MB]</span></p>
+  </div>
+
+<tr>
+    <td><a href="#last" rel="modal:open">Last Night in Soho (2021)</a></td>
+    <td>English</td>
+  </tr>
+  <div id="last" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5052', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Last Night in Soho (2021) 720p10bit WEBRip 6CH x265 HEVC ESubs <span class="File">[File_Size: 818Mb]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5060', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Last Night in Soho (2021) 1080p10bit WEBRip 6CH x265 HEVC ESubs <span class="File">[File_Size: 1.6GB]</span></p>
+</div>
+
+  <tr>
+   <td><a href="#Last" rel="modal:open">Last Man Down (2021)</a></td>
+   <td>English</td>
+  </tr>
+  <div id="Last" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4413', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Last Man Down (2021) 720p10bit BluRay 6CH x265 HEVC ESubs ~ PSA <span class="File">[File_Size: 701MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4414', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Last Man Down (2021) 1080p10bit BluRay 6CH x265 HEVC ESubs ~ PSA <span class="File">[File_Size: 1.3GB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Lego" rel="modal:open">Lego Star Wars Terrifying Tales (2021)</a></td>
+   <td>English</td>
+  </tr>
+  <div id="Lego" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3683', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Lego Star Wars Terrifying Tales (2021) 720p10bit WEBRip 6CH x265 HEVC ESubs <span class="File">[File_Size: 320MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3684', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Lego Star Wars Terrifying Tales (2021) 1080p HS-DSNP WEB-DL DDP5.1 HEVC MSubs <span class="File">[File_Size: 1.1GB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Lift" rel="modal:open">Lift (2021)</a></td>
+   <td>Tamil</td>
+  </tr>
+  <div id="Lift" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3678', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Lift (2021) DSNP - HS Tamil HDRip x264 ESub <span class="File">[File_Size: 723MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3679', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Lift (2021) DSNP - HS Tamil 720p HDAVC UNTOUCHED x264 DDP5.1 ESub <span class="File">[File_Size: 1.5GB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Lighthouse" rel="modal:open">The Lighthouse (2019)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Lighthouse" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4205', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Lighthouse (2019) 480p BluRay x264 Dual Audio (Hindi+ English) ESub <span class="File">[File_Size: 356MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4206', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Lighthouse (2019) 720p10bit HEVC BluRay x265 Dual Audio (Hindi 5.1 + English 2.0 ) ESub <span class="File">[File_Size: 729MB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#little" rel="modal:open">Little Big Mouth (2021)</a></td>
+   <td>English</td>
+  </tr>
+  <div id="little" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4271', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Little Big Mouth (2021) 720p NF WEB-DL ENGLISH DDP5.1 x264 MSubs <span class="File">[File_Size: 1.9GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4285', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Little Big Mouth (2021) 480p NF WEB-DL x264 MSubs <span class="File">[File_Size: 496MB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Little" rel="modal:open">Little Things <b>S03 S04</b></a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Little" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3948', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Little Things S03 <span class="E">E01_E08</span> WebRip 720p Hindi English AAC 5.1 x264 MSubs</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3967', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Little Things S03<span class="E">E01_E08</span> WebRip Hindi English 480p MSubs </p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4014', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Little Things (2021) S04 <span class="E">E01_E08</span> 1080p NF WEB-DL Dual Audio (Hindi +English) DDP5.1 x264 MSubs</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4030', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Little Things (2021) S04 <span class="E">E01_E08</span> 720p NF WEB-DL Hindi DDP5.1 x264 ESub</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4050', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Little Things (2021) S04 <span class="E">E01_E08</span> 720p10bit Hindi NF-WEB-DL AAC2.0 HEVC ESub ~DARKNESS</p>
+  </div>
+  <tr>
+   <td><a href="#Locke" rel="modal:open">Locke And Key <b>S01</b> (2020)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Locke" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3170', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Locke And Key (2020) S01 <span class="E">E01_E05</span> 480p HEVC HDrip x265 ESUb <span class="File">[File_Size: 617MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3171', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Locke & Key (2020) S01 <span class="E">E06_E10</span> Web-Rip x265 HEVC 480p Hindi & English ESubs <span class="File">[File_Size: 534MB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#locke" rel="modal:open">Locke and Key <b>S02</b> (2021)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="locke" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4273', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Locke and Key (2021) S02 <span class="E">E01_E10</span> 720p NF WEB-DL Dual Audio (Hindi+English) DD+5.1 Atmos x264 MSubs</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4286', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Locke and Key (2021) S02 <span class="E">E01_E10</span> 480p NF WEB-DL Dual Audio (Hindi +English) ESubs</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4297', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Locke and Key (2021) S02 <span class="E">E01_E10</span> 720p NF WEB-DL Dual Audio (Hindi +English) AAC 5.1 ESubs</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4314', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Locke and Key (2021) S02 <span class="E">E01_E10</span> 720p10bit NF WEB-DL Dual Audio (Hindi 5.1 +English 2.0) AAC HEVC x265 ESubs</p>
+  </div>
+
+  <tr>
+    <td><a href="#Lost" rel="modal:open">The Lost Daughter (2021)</a></td>
+    <td>Hindi/English</td>
+  </tr>
+  <div id="Lost" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5776', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Lost Daughter (2021) 480p NF WebRip (Hindi +English) x264 MSubs <span class="File">[File_Size: 373MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5777', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Lost Daughter (2021) 720p 10bit NF WEBRip x265 HEVC [Hindi DDP 2.0 ~128Kbps + English AAC 5.1] ESub <span class="File">[File_Size: 839MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5778', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Lost Daughter (2021) 1080p 10bit NF WEBRip x265 HEVC [Org NF Hindi DDP 5.1 ~640Kbps + English AAC 5.1] ESub <span class="File">[File_Size: 1.9GB]</span></p>
+</div>
+
+<tr>
+    <td><a href="#Lost1" rel="modal:open">Lost in Space <b>S03</b> (2021)</a></td>
+    <td>Hindi/English</td>
+  </tr>
+  <div id="Lost1" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5392', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Lost in Space (2021) S03 <span class="E">E01_E08</span> 720p 10bit WEBRip x265 HEVC [Hindi DDP 2.0 ~128Kbps + English AAC 2.0] MSubs</p>
+</div>
+
+  <tr>
+   <td><a href="#Love_101" rel="modal:open">Love 101 <b>S02</b> (2021) <span style="display: none;">Aşk 101 Ask</span></a></td>
+   <td>Turkish/English</td>
+  </tr>
+  <div id="Love_101" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3601', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Love 101 a.k.a Aşk 101 (2021) S02 <span class="E">E01_E08</span> 720p NF WEB-DL Dual Audio (Turkish +English) DDP5.1 x264 MSubs</p>
+  </div>
+
+  <tr>
+   <td><a href="#Love_Hard" rel="modal:open">Love Hard (2021)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Love_Hard" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4676', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Love Hard (2021) 480p NF WEB-DL Dual Audio (Hindi +English) AAC2.0 x264 MSubs <span class="File">[File_Size: 401MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4677', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Love Hard (2021) 720p NF WEB-DL Dual Audio (Hindi +English) AAC2.0 x264 MSubs <span class="File">[File_Size: 1.2GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4722', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Love Hard (2021) 720p10bit WEBRip Dual Audio (Hindi+English)AAC 5.1 x265 ESubs <span class="File">[File_Size: 1Gb]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Love_Blind" rel="modal:open">Love Is Blind <b>S01</b> (2021)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Love_Blind" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3419', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Love Is Blind (2021) S01 <span class="E">E01_E14</span> 720p 10bit NF WEBRip Dual Audio (English+Hindi) ESubs x265</p>
+  </div>
+  <tr>
+   <td><a href="#Love" rel="modal:open">Love Story (2021)</a></td>
+   <td>Telugu</td>
+  </tr>
+  <div id="Love" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3399', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Love Story (2021) Telugu HQ PreDVD 720p x264 HQ Line Audio <span class="File">[File_Size: 1.7GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3400', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Love Story (2021) Telugu Real HQ PreDVD 720p x264 HQ Line Audio <span class="File">[File_Size: 945MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3401', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Love Story (2021) Telugu Real HQ PreDVD x264 - HQ Line Audio <span class="File">[File_Size: 418MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4307', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Love Story (2021) 480p Telugu AHA HDRip x264 Esub <span class="File">[File_Size: 398MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4308', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Love Story (2021) 720p Telugu AHA HDRip x264 ESub <span class="File">[File_Size: 693MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4309', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Love Story (2021) 720p Telugu AHA TRUE HDRip x264 Esub <span class="File">[File_Size: 1.3GB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Lucifer" rel="modal:open">Lucifer <b>S05_Part-AB & S06</b> (2021)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Lucifer" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i><a href="#ls5a" rel="modal:open" style="background: white;"> Lucifer 2020 [Season 05]
+     DUAL [Hindi + English] 480p HEVC S05 WebRip AAC ESub x265 </a></p>
+   <p class="Box"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i><a href="#ls5b" rel="modal:open" style="background: white;"> Lucifer [Season 05] PART-B DUAL [Hindi + English] 480p </a></p>
+   <p class="Box"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i><a href="#ls6_1" rel="modal:open" style="background: white;"> Lucifer (2021) S06 NF WEB-DL 480p x264 Dual Audio (Hindi+English) Esub </a></p>
+   <p class="Box"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i><a href="#ls6_2" rel="modal:open" style="background: white;"> Lucifer (2021) S06 Nothing 720p NF WEB-DL Dual Audio (Hindi +English) DDP5.1 x264 MSubs </a></p>
+   <p class="Box"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i><a href="#ls6_3" rel="modal:open" style="background: white;"> Lucifer (2021) S06 NF WEB-DL x264 720p Dual Audio (Hindi +English) ESubs </a></p>
+  </div>
+  <div id="ls5a" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3185', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Lucifer 2020 [Season 05] DUAL [Hindi + English] - 480p HEVC - S05 - E01-04 - WebRip - AAC - ESub - x265 <span class="File">[File_Size: 602MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3186', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Lucifer 2020 [Season 05] DUAL [Hindi + English] - 480p HEVC - S05 - E05-08 - WebRip - AAC - ESub - x265 <span class="File">[File_Size: 637MB]</span></p>
+  </div>
+  <div id="ls5b" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3188', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Lucifer S05E09 Dual Audio {Hindi-English} 480p WEB-DL ESub [BollYFlix].mkv <span class="File">[File_Size: 188MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3189', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Lucifer S05E10 Dual Audio {Hindi-English} 480p WEB-DL ESub [BollYFlix].mkv <span class="File">[File_Size: 204MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3190', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Lucifer S05E11 Dual Audio {Hindi-English} 480p WEB-DL ESub [BollYFlix].mkv <span class="File">[File_Size: 180MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3191', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Lucifer S05E12 Dual Audio {Hindi-English} 480p WEB-DL ESub [BollYFlix].mkv <span class="File">[File_Size: 191MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3192', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Lucifer S05E13 Dual Audio {Hindi-English} 480p WEB-DL ESub [BollYFlix].mkv <span class="File">[File_Size: 208MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3193', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Lucifer S05E14 Dual Audio {Hindi-English} 480p WEB-DL ESub [BollYFlix].mkv <span class="File">[File_Size: 189MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3194', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Lucifer S05E15 Dual Audio {Hindi-English} 480p WEB-DL ESub [BollYFlix].mkv <span class="File">[File_Size: 214MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3195', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Lucifer S05E16 Dual Audio {Hindi-English} 480p WEB-DL ESub [BollYFlix].mkv <span class="File">[File_Size: 182MB]</span></p>
+  </div>
+  <div id="ls6_1" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2768', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Lucifer (2021) S06E01 NF WEB-DL 480p x264 Dual Audio (Hindi+English) Esub <span class="File">[File_Size: 159MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2769', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Lucifer (2021) S06E02 NF WEB-DL 480p x264 Dual Audio (Hindi+English) Esub <span class="File">[File_Size: 184MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2770', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Lucifer (2021) S06E03 NF WEB-DL 480p x264 Dual Audio (Hindi+English) Esub <span class="File">[File_Size:149MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2771', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Lucifer (2021) S06E04 NF WEB-DL 480p x264 Dual Audio (Hindi+English) Esub <span class="File">[File_Size:147MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2772', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Lucifer (2021) S06E05 NF WEB-DL 480p x264 Dual Audio (Hindi+English) Esub <span class="File">[File_Size: 155MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2773', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Lucifer (2021) S06E06 NF WEB-DL 480p x264 Dual Audio (Hindi+English) Esub <span class="File">[File_Size: 179MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2774', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Lucifer (2021) S06E07 NF WEB-DL 480p x264 Dual Audio (Hindi+English) Esub <span class="File">[File_Size: 193MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2775', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Lucifer (2021) S06E08 NF WEB-DL 480p x264 Dual Audio (Hindi+English) Esub <span class="File">[File_Size: 183MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2776', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Lucifer (2021) S06E09 NF WEB-DL 480p x264 Dual Audio (Hindi+English) Esub <span class="File">[File_Size: 217MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2777', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Lucifer (2021) S06E10 NF WEB-DL 480p x264 Dual Audio (Hindi+English) Esub <span class="File">[File_Size: 175MB]</span></p>
+  </div>
+  <div id="ls6_2" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2756', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Lucifer (2021) S06E01 Nothing Ever Changes Around Here 720p NF WEB-DL Dual Audio (Hindi +English) DDP5.1 x264 MSubs <span class="File">[File_Size: 802MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2757', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Lucifer (2021) S06E02 Buckets Of Baggage 720p NF WEB-DL Dual Audio (Hindi +English) DDP5.1 x264 MSubs <span class="File">[File_Size: 954MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2758', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Lucifer (2021) S06E03 Yabba Dabba Do Me 720p NF WEB-DL Dual Audio (Hindi +English) DDP5.1 x264 MSubs <span class="File">[File_Size: 711MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2759', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Lucifer (2021) S06E04 Pin the Tail on the Daddy 720p NF WEB-DL Dual Audio (Hindi +English) DDP5.1 x264 MSubs <span class="File">[File_Size: 785MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2760', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Lucifer (2021) S06E05 The Murder of Lucifer Morningstar 720p NF WEB-DL Dual Audio (Hindi +English) DDP5.1 x264 MSubs <span class="File">[File_Size: 764MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2761', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Lucifer (2021) S06E06 a Lot Dirtier than That 720p NF WEB-DL Dual Audio (Hindi +English) DDP5.1 x264 MSubs <span class="File">[File_Size: 935MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2762', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Lucifer (2021) S06E07 My Best Friends Wedding 720p NF WEB-DL Dual Audio (Hindi +English) DDP5.1 x264 MSubs <span class="File">[File_Size: 994MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2763', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Lucifer (2021) S06E08 Save The Devil Save The World 720p NF WEB-DL Dual Audio (Hindi +English) DDP5.1 x264 MSubs <span class="File">[File_Size: 941MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2764', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Lucifer (2021) S06E09 Goodbye Lucifer 720p NF WEB-DL Dual Audio (Hindi +English) DDP5.1 x264 MSubs <span class="File">[File_Size: 1.1GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2765', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Lucifer (2021) S06E10 Partners Till The End 720p NF WEB-DL Dual Audio (Hindi +English) DDP5.1 x264 MSubs <span class="File">[File_Size: 978MB]</span></p>
+  </div>
+  <div id="ls6_3" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2779', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Lucifer (2021) S06E01 NF WEB-DL x264 720p Dual Audio (Hindi +English) ESubs <span class="File">[File_Size: 437MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2780', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Lucifer (2021) S06E02 NF WEB-DL x264 720p Dual Audio (Hindi +English) ESubs <span class="File">[File_Size: 504MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2781', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Lucifer (2021) S06E03 NF WEB-DL x264 720p Dual Audio (Hindi +English) ESubs <span class="File">[File_Size: 408MB]<< /span>/p>
+      <p class="Box" onclick="window.open('https://t.me/c/1501644510/2782', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Lucifer (2021) S06E04 NF WEB-DL x264 720p Dual Audio (Hindi +English) ESubs <span class="File">[File_Size: 404MB]</span></p>
+      <p class="Box" onclick="window.open('https://t.me/c/1501644510/2783', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Lucifer (2021) S06E05 NF WEB-DL x264 720p Dual Audio (Hindi +English) ESubs <span class="File">[File_Size: 425MB]</span></p>
+      <p class="Box" onclick="window.open('https://t.me/c/1501644510/2784', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Lucifer (2021) S06E06 NF WEB-DL x264 720p Dual Audio (Hindi +English) ESubs <span class="File">[File_Size: 492MB]</span></p>
+      <p class="Box" onclick="window.open('https://t.me/c/1501644510/2785', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Lucifer (2021) S06E07 NF WEB-DL x264 720p Dual Audio (Hindi +English) ESubs <span class="File">[File_Size: 528MB]</span></p>
+      <p class="Box" onclick="window.open('https://t.me/c/1501644510/2786', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Lucifer (2021) S06E08 NF WEB-DL x264 720p Dual Audio (Hindi +English) ESubs <span class="File">[File_Size: 501MB]</span></p>
+      <p class="Box" onclick="window.open('https://t.me/c/1501644510/2787', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Lucifer (2021) S06E09 NF WEB-DL x264 720p Dual Audio (Hindi +English) ESubs <span class="File">[File_Size: 594MB]</span></p>
+      <p class="Box" onclick="window.open('https://t.me/c/1501644510/2788', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Lucifer (2021) S06E10 NF WEB-DL x264 720p Dual Audio (Hindi +English) ESubs <span class="File">[File_Size: 482MB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Luna_Park" rel="modal:open">Luna Park <b>S01</b> (2021)</a></td>
+   <td>Italian/English</td>
+  </tr>
+  <div id="Luna_Park" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3595', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Luna Park (2021) S01 <span class="E">E01_E06</span> 720p NF WEB-DL Dual Audio (Italian +English) DDP5.1 x264 MSubs</p>
+  </div>
+`);

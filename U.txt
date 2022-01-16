@@ -1,0 +1,49 @@
+document.write(`
+  <tr>
+   <td><a href="#Udaan" rel="modal:open">Udaan (2021)</a></td>
+   <td>English</td>
+  </tr>
+  <div id="Udaan" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2473', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Udaan.2021.720p.AMZN.WEB-DL.x265.DDP.2.0.Hindi.ESubs <span class="File">[File_Size: 937MB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Udanpirappe" rel="modal:open">Udanpirappe (2021)</a></td>
+   <td>Tamil</td>
+  </tr>
+  <div id="Udanpirappe" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3910', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Udanpirappe (2021) AMZN 480p Tamil HDRip x264 Esub <span class="File">[File_Size: 422MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3911', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Udanpirappe (2021) Tamil 720p HEVC TRUE-HDRip x265 DDP5.1 (192kbps) ESubs <span class="File">[File_Size: 1GB]</span></p>
+  </div>
+
+<tr>
+    <td><a href="#Unforgivable" rel="modal:open">The Unforgivable (2021)</a></td>
+    <td>Hindi/English</td>
+  </tr>
+  <div id="Unforgivable" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5493', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Unforgivable (2021) 480p NF WEB-DL Dual Audio (Hindi +English) AAC2.0 x264 MSubs <span class="File">[File_Size: 431MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5494', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Unforgivable (2021) 720p NF WEB-DL Dual Audio (Hindi +English) AAC5.1 x264 MSubs <span class="File">[File_Size: 1.1GB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5495', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Unforgivable (2021) 720p 10bit HEVC NF WEBRip  [Hindi AAC 5.1 +English AAC 5.1] x265 ESub ~ Immortal <span class="File">[File_Size: 963MB]</span></p>
+</div>
+
+  <tr>
+   <td><a href="#Unholy" rel="modal:open">The Unholy (2021)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Unholy" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4596', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Unholy (2021) 480p BluRay Dual Audio (Hindi +English) AAC x264 ESub <span class="File">[File_Size: 301MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4597', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Unholy (2021) 720p BluRay Dual Audio (Hindi 2.0+ English 5.1) AAC x264 ESub <span class="File">[File_Size: 1.2GB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Unlikely" rel="modal:open">The Unlikely Murderer <b>S01</b> (2021)</a></td>
+   <td>Hindi/Swedish</td>
+  </tr>
+  <div id="Unlikely" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4668', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> The Unlikely Murderer (2021) S01 <span class="E">E01_E05</span> 720p NF WEB-DL Dual Audio (Swedish +Hindi) DDP5.1 x264 MSubs ~ REVOLT</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4702', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> The Unlikely Murderer S01 <span class="E">E01_E05</span> 720p10bit WEBRip Dual Audio (Hindi +Swedish) x265 ESub</p>
+  </div>
+  `);

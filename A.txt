@@ -1,0 +1,301 @@
+document.write(`
+  <tr>
+    <td><a href="#83" rel="modal:open">83 (2021)</a></td>
+    <td>Hindi/English</td>
+  </tr>
+  <div id="83" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5683', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> 83 (2021) Hindi 480p HQ PreDVD Rip x264 <span class="File">[File_Size: 461MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5684', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> 83 (2021) Hindi HQ PreDVD Rip x264 <span class="File">[File_Size: 704MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5685', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> 83 (2021) Hindi 720p HQ PreDVD Rip x264 <span class="File">[File_Size: 1.2GB]</span></p>
+</div>
+
+  <tr>
+   <td><a href="#Aafat" rel="modal:open">Aafat-e-Ishq (2021)</a></td>
+   <td>Hindi</td>
+  </tr>
+  <div id="Aafat" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4499', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Aafat-e-Ishq (2021) 720p Zee5 Hindi WEB-DL x264 AAC2.0 ESub ~NEW1ON <span class="File">[File_Size: 833MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4503', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Aafat-e-Ishq (2021) 480p Hindi Zee5 WEB-DL x264 <span class="File">[File_Size: 257MB]</span></p>
+  </div>
+
+<tr>
+    <td><a href="#Aamis" rel="modal:open">Aamis (2019)</a></td>
+    <td>English</td>
+  </tr>
+  <div id="Aamis" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5608', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Aamis (The Ravening) Aasamese 480p (2019) <span class="File">[File_Size: 400MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5609', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Aamis ( The Ravening ) ( 2019 ) Aasamese 720p WEB-DL DD5.1 x264 Esubs <span class="File">[File_Size: 1.3GB]</span></p>
+</div>
+
+<tr>
+    <td><a href="#Aarya" rel="modal:open">Aarya <b>S02</b> (2021)</a></td>
+    <td>Hindi/Bengali/Kannada, Malayalam/Marathi, Tamil/Telugu</td>
+  </tr>
+  <div id="Aarya" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5476', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Aarya (2021) S02 <span class="E">E01_E08</span> 480p DSNP WEB-DL Multi (Hindi+Bengali +Kannada +Malayalam+ Marathi+ Tamil + Telugu) AAC2.0 x264 MSubs</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5485', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Aarya (2021) S02 <span class="E">E01_E08</span> 720p DSNP WEB-DL Multi (Hindi+Bengali +Kannada +Malayalam+ Marathi+ Tamil + Telugu) AAC2.0 x264 ESubs</p>
+</div>
+
+  <tr>
+   <td><a href="#Aashram" rel="modal:open">Aashram <b>S01 S02</b></a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Aashram" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4375', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Aashram (2020) Hindi S01 <span class="E">E01_E09</span> 720p WEBRip x264 AAC ESubs.mkv</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4384', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Aashram S02 <span class="E">E01_E09</span> WebRip 720p Hindi AAC x264 ESub .mkv</p>
+  </div>
+  <tr>
+   <td><a href="#Ada" rel="modal:open">Ada Twist Scientist <b>S01</b> (2021)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Ada" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3495', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Ada Twist Scientist (2021) S01 <span class="E">E01_E06</span> WebRip x265 HEVC 10Bit 720p Dual Audio (Hindi +English) 5.1 MSubs</p>
+  </div>
+
+  <tr>
+    <td><a href="#After" rel="modal:open">After Life <b>S03</b> (2022)</a></td>
+    <td>English</td>
+  </tr>
+  <div id="After" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/6080', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> After Life (2022) S03 <span class="E">E01_E06</span> 720p NF WEB-DL ENGLISH AAC5.1 x264 MSubs</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/6087', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> After Life (2022) S03 <span class="E">E01_E06</span> 1080p NF WEB-DL ENGLISH DDP5.1 x264 ESubs ~Archie</p>
+</div>
+
+  <tr>
+   <td><a href="#Afterlife" rel="modal:open">Afterlife of the Party (2021)</a></td>
+   <td>English</td>
+  </tr>
+  <div id="Afterlife" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2295', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Afterlife of the Party (2021) 720p 10bit WEBRip English 5.1 x265</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2296', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Afterlife of the Party (2021) 480p WEBRip English x264</p>
+  </div>
+  <tr>
+   <td><a href="#After" rel="modal:open">After We Fell (2021)</a></td>
+   <td>English</td>
+  </tr>
+  <div id="After" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2560', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> After We Fell (2021) English 480p HDCAM <span class="File">[File_Size: 301MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2561', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> After We Fell (2021) English 720p HDCAM <span class="File">[File_Size: 845MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4162', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> After We Fell (2021) 1080p10bit WEBRip 6CH x265 HEVC ESubs <span class="File">[File_Size: 1.4GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4163', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> After We Fell (2021) 720p10bit WEBRip 6CH x265 HEVC ESubs <span class="File">[File_Size: 720MB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Aisa" rel="modal:open">Aisa Waisa Pyaar (2021)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Aisa" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4417', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Aisa Waisa Pyaar (2021) 480p HEVC HDRip S01 Complete Combined File x265 ESub <span class="File">[File_Size: 273MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4425', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Aisa Waisa Pyaar (2021) 720p HEVC HDRip S01 Complete Combined File x265 ESub <span class="File">[File_Size: 588MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4449', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Aisa Waisa Pyaar (2021) S01 <span class="E">E01_E04</span> WebRip 720p Hindi AAC 2.0 x264</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4454', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Aisa Waisa Pyaar (2021) S01 <span class="E">E01_E04</span> 1080p AMZN WEB-DL Hindi DDP2.0 H.264 ~Telly</p>
+  </div>
+  <tr>
+   <td><a href="#Akkad" rel="modal:open">Akkad Bakkad Rafu Chakkar <b>S01</b> (2021)</a></td>
+   <td>Hindi</td>
+  </tr>
+  <div id="Akkad" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4586', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Akkad Bakkad Rafu Chakkar (2021) S01 <span class="E">E01_E10</span> 720p AMZN WEB-DL Hindi DDP5.1 HEVC ESubs ~ REVOLT</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4606', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Akkad Bakkad Rafu Chakkar (2021) S01 <span class="E">E01_E10</span> 480p AMZN WEB-DL Hindi AAC2.0 x264 Esubs</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4618', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Akkad Bakkad Rafu Chakkar (2021) S01 <span class="E">E01_E10</span> 1080p HEVC AMZN WEB-DL Hindi DDP5.1 x265 Esubs</p>
+  </div>
+
+  <tr>
+    <td><a href="#Ala" rel="modal:open">Ala Vaikunthapurramuloo (2020)</a></td>
+    <td>Unofficial Hindi Dubbed</td>
+  </tr>
+  <div id="Ala" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/6093', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Ala Vaikunthapurramuloo (2020) 720p HDRip Unofficial Hindi Dubbed x264 AAC <span class="File">[File_Size: 1.2GB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/6094', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Ala Vaikunthapurramuloo (2020) 480p HDRip Unofficial Hindi Dubbed x264 AAC <span class="File">[File_Size: 542MB]</span></p>
+</div>
+
+  <tr>
+   <td><a href="#Alice" rel="modal:open">Alice in Borderland <b>S01</b> (2020)</a></td>
+   <td>Japanese/English</td>
+  </tr>
+  <div id="Alice" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4598', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Alice in Borderland (2020) S01 <span class="E">E01_E08</span> Dual Audio (Japanese +English) 720p10bit WEBRip 2CH x265 HEVC ESubs</p>
+  </div>
+
+  <tr>
+    <td><a href="#Apex" rel="modal:open">Apex (2021)</a></td>
+    <td>Hindi/English, Telugu/Tamil</td>
+  </tr>
+  <div id="Apex" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5965', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Apex (2021) 720p LGP WEB-DL x264 [Telugu + Tamil + Hindi + English ] (AAC 2.0 - 96Kbps) ~TheDNK <span class="File">[File_Size: 1.8GB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5990', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Apex (2021) 480p LPLAY WEB-DL Multi (Hindi +Tamil +Telugu +English) AAC2.0 x264 ESubs <span class="File">[File_Size: 422MB]</span></p>
+</div>
+
+<tr>
+    <td><a href="#Archive" rel="modal:open">Archive 81 <b>S01</b> (2022)</a></td>
+    <td>Hindi/English</td>
+  </tr>
+  <div id="Archive" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/6060', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Archive 81 (2022) S01 <span class="E">E01_E08</span> 480p NF WEB-DL (Hindi +English) AAC2.0 x264 MSubs</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/6070', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Archive 81 (2022) S01 <span class="E">E01_E08</span> 720p NF WEB-DL (Hindi +English) AAC5.1 x264 MSubs</p>
+</div>
+
+  <tr>
+   <td><a href="#Army" rel="modal:open">Army of the Dead (2021)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Army" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4365', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Army of the Dead (2021) HDRip 1080p HEVC (DD5.1) [English + Hindi] ESub <span class="File">[File_Size: 1.4GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4575', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Army of the Dead (2021) HDRip 720p x264 Dual Audio [English + Hindi] DD5.1 ESub <span class="File">[File_Size: 1.2GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4576', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Army of the Dead (2021) HDRip x264 Dual Audio [English + Hindi] ESub <span class="File">[File_Size: 469MB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#army" rel="modal:open">Army Of Thieves (2021)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="army" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4479', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Army of Thieves (2021) 720p WEBSCREENER WEBRip x264 ESub <span class="File">[File_Size: 797MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4480', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Army of Thieves (2021) 1080p WEBSCREENER WEBRip DD2.0 x264 ESub <span class="File">[File_Size: 1.4GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4516', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Army of Thieves (2021) 720p10bit Hindi Only NF-WEB-DL AAC2.0 HEVC x265 ESubs ~ DARKNESS <span class="File">[File_Size: 511MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4517', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Army of Thieves (2021) 720p NF WEB-DL Dual Audio (Hindi +English) DDP2.0 x264 ESubs ~ SPECT3R <span class="File">[File_Size: 1.8GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4518', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Army Of Thieves (2021) 720p NF HQ HDRip x264 Dual Audio [English DDP5.1 ~ 192Kbps +Hindi AAC2.0 ] Esubs <span class="File">[File_Size: 966MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4519', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Army of Thieves (2021) 720p NF HQ HDRip x264 Dual Audio (Hindi+English) (DDP5.1 ~ 192Kbps + AAC 2.0) ESub <span class="File">[File_Size: 1.1GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4522', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Army of Thieves (2021) 480p NF HQ HDRip x264 Dual Audio [English +Hindi] AAC2.0 ESub <span class="File">[File_Size: 468MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4523', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Army of Thieves (2021) 1080p NF HQ HDRip x264 Dual Audio [English +Hindi] DD5.1 ~ 192Kbps <span class="File">[File_Size: 1.6GB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Eken" rel="modal:open">Eken Babu <b>S05</b> (2021)</a></td>
+   <td>Bengali</td>
+  </tr>
+  <div id="Eken" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3900', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Eken Babu (2021) S05 <span class="E">E01_E06</span> 720p BENGALI HoiChoi WEB-DL AAC H.264 ESubs ~ NEW1ON</p>
+  </div>
+
+  <tr>
+    <td><a href="#Animal" rel="modal:open">Animal <b>S01</b> (2021)</a></td>
+    <td>Hindi/English</td>
+  </tr>
+  <div id="Animal" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/4981', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Animal (2021) S01 <span class="E">E01_E04</span> NF WebRip 720p Dual Audio (Hindi +English) AAC 5.1 x264 MSubs</p>
+</div>
+
+  <tr>
+   <td><a href="#Ankahi" rel="modal:open">Ankahi Kahaniya (2021)</a></td>
+   <td>Hindi/English, Telugu/Tamil</td>
+  </tr>
+  <div id="Ankahi" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3002', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Ankahi Kahaniya (2021) 720p NF WEB-DL x264 DD5.1 Multi [Telugu + Tamil + Hindi + English] MSub <span class="File">[File_Size: 1.1GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3034', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Ankahi Kahaniya (2021) NF WebRip Hindi 480p ESub <span class="File">[File_Size: 299MB]</p>
+  </div>
+
+  <tr>
+   <td><a href="#Annabelle" rel="modal:open">Annabelle Sethupathi (2021)</a></td>
+   <td>Hindi/Kannada, Telugu/Tamil/Malayalam</td>
+  </tr>
+  <div id="Annabelle" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3003', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Annabelle Rathore [Annabelle Sethupathi] (2021) Hindi 720p HD AVC - UNTOUCHED x264 DD5.1 ESub <span class="File">[File_Size: 1.4GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3004', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Annabelle Sethupathi (2021) Tamil 480p UNTOUCHED x264 DD5.1 ESubs <span class="File">[File_Size: 696MB]</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3005', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Annabelle Sethupathi (2021) Tamil 720p TRUE-HD x264 UNTOUCHED DDP5.1 ESub <span class="File">[File_Size: 1.4GB]</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3006', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Annabelle Sethupathi (2021) Telugu 720p HEVC UNTOUCHED x264 DDP5.1 ESubs <span class="File">[File_Size: 1.3GB]</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3008', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Annabelle Rathore [ Annabelle Sethupathi] (2021) Hindi 480p DSNP WEB-DL DDP5.1 x264 <span class="File">[File_Size: 425MB]</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3009', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Annabelle Sethupathi (2021) Tamil + Malayalam 1080p TRUE-HD x264 UNTOUCHED DDP5.1 Esub <span class="File">[File_Size: 1.6GB]</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3065', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Annabelle Sethupathi (2021) Kannada TRUE WEB-DL 720p AVC UNTOUCHED DD5.1 AAC 2.0ESub <span class="File">[File_Size: 1.5GB]</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3066', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Annabelle Sethupathi (2021) Kannada HQ HDRip x264 ESub <span class="File">[File_Size: 702MB]</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3067', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Annabelle Sethupathi (2021) Kannada HQ HDRip x264 ESub <span class="File">[File_Size: 404MB]</p>
+  </div>
+
+<tr>
+    <td><a href="#Annaatthe" rel="modal:open">Annaatthe (2021) <span style="display: none;">Peddanna</span></a></td>
+    <td>Hindi/Tamil/Telugu</td>
+  </tr>
+  <div id="Annaatthe" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5268', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Peddanna a.k.a Annaatthe (2021) 720p HEVC SUNNXT WEB-DL Telugu (DD+ 5.1 - 192Kbps) x265 ESubs ~ TheDNK <span class="File">[File_Size: 1.2GB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5270', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Annaatthe (2021) 720p HEVC SUNNXT WEB-DL Tamil (DDP5.1 ~ 192Kbps) x265 ESubs ~ TheDNK <span class="File">[File_Size: 1.2GB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5273', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Annaatthe (2021) 480p WEB-DL Dual Audio (Hindi +Tamil) x264 ESubs <span class="File">[File_Size: 549MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5274', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Annaatthe (2021) 720p HEVC WEB-DL Dual Audio (Hindi +Tamil) x265 ESubs <span class="File">[File_Size: 858MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5275', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Annaatthe (2021) 720p WEB-DL Dual Audio (Hindi +Tamil) DD5.1 x264 ESubs <span class="File">[File_Size: 1.5GB]</span></p>
+</div>
+
+  <tr>
+   <td><a href="#Another" rel="modal:open">Another Life <b>S01 S02</b></a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Another" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3938', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Another Life (2019) S01 <span class="E">E01_E10</span> 720p10bit WEBRip Dual Audio (Hindi+English) 5.1 x265 HEVC ESubs</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3916', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Another Life (2021) S02 <span class="E">E01_E10</span> 480p WEBRip Dual Audio (Hindi+English) ESubs</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3927', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Another Life (2021) S02 <span class="E">E01_E10</span> 720p WEBRip Dual Audio (Hindi 5.1 +English) ESubs</p>
+  </div>
+
+<tr>
+    <td><a href="#Antim" rel="modal:open">Antim The Final Truth (2021)</a></td>
+    <td>Hindi</td>
+  </tr>
+  <div id="Antim" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5358', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Antim The Final Truth (2021)480p Hindi HQ PreDVD Rip x264 <span class="File">[File_Size: 405MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5359', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Antim The Final Truth (2021) 1CD HQ PreDVD Rip x264 <span class="File">[File_Size: 702MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5360', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Antim The Final Truth (2021) 720p Hindi HQ PreDVD Rip x264 <span class="File">[File_Size: 1.1GB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5658', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Antim - The Final Truth (2021) 720p HQ ZEE5 WEB-DL Hindi AAC 2.0 x264 ESubs ~ TheDNK <span class="File">[File_Size: 1.2GB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5665', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Antim - The Final Truth (2021) 480p ZEE5 WEB-DL Hindi AAC 2.0 x264 ESubs <span class="File">[File_Size: 403MB]</span></p>
+</div>
+
+<tr>
+    <td><a href="#Aranyak" rel="modal:open">Aranyak <b>S01</b> (2021)</a></td>
+    <td>Hindi</td>
+  </tr>
+  <div id="Aranyak" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5451', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Aranyak (2021) S01 <span class="E">E01_E08</span> 480p NF WebRip Hindi x264 MSubs</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5460', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Aranyak (2021) S01 <span class="E">E01_E08</span> 720p NF WebRip Hindi AAC 5.1 x264 MSubs</p>
+</div>
+
+<tr>
+    <td><a href="#Atrangi" rel="modal:open">Atrangi (2021)</a></td>
+    <td>Hindi/Tamil</td>
+  </tr>
+  <div id="Atrangi" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5659', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Atrangi Re (2021) 720p DSNP WEB-DL (Hindi +Tamil) DDP5.1 x264 ESub <span class="File">[File_Size: 1.6GB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5660', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Atrangi Re (2021) 480p HEVC DSNP WEB-DL [Tamil + Hindi] AAC2.0 x265 ESubs ~ TheDNK <span class="File">[File_Size: 559MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5661', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Atrangi Re (2021) 720p HEVC DSNP WEB-DL [Tamil + Hindi] AAC2.0 x265 ESubs ~ TheDNK <span class="File">[File_Size: 888MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5662', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Atrangi Re (2021) 720p HEVC DSNP WEB-DL [Tamil + Hindi] (DD+ 5.1 - 192Kbps) x265 ESubs ~ TheDNK <span class="File">[File_Size: 1.1GB]</span></p>
+</div>
+
+  <tr>
+   <td><a href="#Avane" rel="modal:open">Avane Srimannarayana (2019)</a></td>
+   <td>Hindi/Kannada</td>
+  </tr>
+  <div id="Avane" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3416', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Avane Srimannarayana (2019) 480p UNCUT HDRip Dual Audio (Hindi + Kannada) x264 ESub <span class="File">[File_Size: 634MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3417', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Avane Srimannarayana (2019) 720p HEVC UNCUT HDRip Dual Audio (Hindi + Kannada) x265 ESub <span class="File">[File_Size: 999MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3418', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Avane Srimannarayana (2019) 720p UNCUT HDRip Dual Audio (Hindi + Kannada) x264 ESub <span class="File">[File_Size: 1.6GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3447', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Avane Srimannarayana (2019) 720p10bit WEB-DL Dual Audio (Hindi ORG 2.0 +Kannada DD5.1) HEVC x265 ESub <span class="File">[File_Size: 987MB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Avrodh" rel="modal:open">Avrodh The Siege Within <b>S01</b> (2020)</a></td>
+   <td>English</td>
+  </tr>
+  <div id="Avrodh" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3297', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Avrodh The Siege Within (2020) S01 Complete <span class="E">E01_E09</span> 720p Sonyliv WEBRip AAC x264</p>
+  </div>
+  `);
+  

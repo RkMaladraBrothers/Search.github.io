@@ -1,0 +1,59 @@
+document.write(`
+  <tr>
+   <td><a href="#Warning" rel="modal:open">Warning (2021)</a></td>
+   <td>English</td>
+  </tr>
+  <div id="Warning" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4485', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Warning (2021) 720p10bit BluRay 6CH x265 HEVC ESubs <span class="File">[File_Size: 582MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4486', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Warning (2021) 1080p10bit BluRay 6CH x265 HEVC ESubs <span class="File">[File_Size: 1.1GB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Worth" rel="modal:open">What Is Life Worth (2020)</a></td>
+   <td>English</td>
+  </tr>
+  <div id="Worth" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2419', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Worth aka What Is Life Worth (2020) 720p10bit NF WEBRip 6CH x265 HEVC ESubs <span class="File">[File_Size: 665MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2420', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Worth aka What Is Life Worth (2020) 1080p10bit NF WEBRip 6CH x265 HEVC ESubs <span class="File">[File_Size: 1.3GB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#What" rel="modal:open">What We Do In The Shadows <b>S01 S02</b></a></td>
+   <td>English</td>
+  </tr>
+  <div id="What" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4779', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> What.We.Do.In.The.Shadows.S02 <span class="E">E01_E10</span> .720p.AMZN.WEBRip.x264-GalaxyTV.mkv</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4789', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> What.We.Do.In.The.Shadows.S03 <span class="E">E01_E10</span> .720p.AMZN.WEBRip.x264-GalaxyTV.mkv</p>
+  </div>
+
+  <tr>
+    <td><a href="#Wheel" rel="modal:open">The Wheel Of Time <b>S01</b> (2021)</a></td>
+    <td>Hindi/English</td>
+  </tr>
+  <div id="Wheel" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5709', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> The Wheel Of Time (2021) S01 <span class="E">E01_E08</span> 720p10bit HEVC AMZN WEBRip [ORG AMZN Hindi DDP2.0 ~128Kbps + English AAC 2.0] x265 ESubs</p>
+</div>
+
+  <tr>
+    <td><a href="#Whistleblower" rel="modal:open">Whistleblower <b>S01</b> (2021)</a></td>
+    <td>Hindi</td>
+  </tr>
+  <div id="Whistleblower" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5529', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> The Whistleblower (2021) S01 <span class="E">E01_E09</span> 720p WebRip Hindi AAC 2.0 x264</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5540', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> The Whistleblower (2021) S01 <span class="E">E01_E09</span> 480p WebRip Hindi x264</p>
+</div>
+
+<tr>
+    <td><a href="#Witcher" rel="modal:open">The Witcher <b>S02</b> (2021)</a></td>
+    <td>Hindi/English</td>
+  </tr>
+  <div id="Witcher" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5568', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> The Witcher (2021) S02 <span class="E">E01_E08</span> 480p NF WEB-DL (Hindi +English) AAC2.0 x264 MSubs</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5577', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> The Witcher (2021) S02 <span class="E">E01_E08</span> 720p NF WEB-DL (Hindi +English) AAC2.0 x264 MSubs</p>
+</div>
+
+  `);

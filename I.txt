@@ -1,0 +1,149 @@
+document.write(`
+<tr>
+    <td><a href="#Illegal" rel="modal:open">Illegal <b>S02</b> (2021)</a></td>
+    <td>Hindi</td>
+  </tr>
+  <div id="Illegal" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5276', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Illegal (2021) S02 <span class="E">E01_E08</span> 720p Hindi WEB-DL x264</p>
+</div>
+
+  <tr>
+    <td><a href="#Indori" rel="modal:open">Indori Ishq <b>S01</b> (2021)</a></td>
+    <td>Hindi</td>
+  </tr>
+  <div id="Indori" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5759', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Indori Ishq (2021) UNRATED 480p HEVC HDRip Hindi S01 Complete Web Series x265 AAC ESubs <span class="File">[File_Size: 766MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5760', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Indori Ishq (2021) UNRATED 720p HEVC HDRip Hindi S01 Complete Web Series x265 AAC ESubs <span class="File">[File_Size: 1.5GB]</span></p>
+</div>
+
+  <tr>
+   <td><a href="#Injustice" rel="modal:open">Injustice (2021)</a></td>
+   <td>English</td>
+  </tr>
+  <div id="Injustice" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3896', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Injustice (2021) 720p ENGLISH BluRay Rip 2CH x265 HEVC ESub <span class="File">[File_Size: 271MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3897', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Injustice (2021) 1080p ENGLISH BluRay Rip 6CH x264 ESub <span class="File">[File_Size: 1.5GB]</span></p>
+  </div>
+
+<tr>
+    <td><a href="#inside" rel="modal:open">Inside Edge <b>S03</b> (2021)</a></td>
+    <td>English</td>
+  </tr>
+  <div id="inside" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5378', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Inside Edge (2021) S03 <span class="E">E01_E10</span> 720p AMZN WEB-DL AAC5.1 x264</p>
+</div>
+
+  <tr>
+   <td><a href="#Inside" rel="modal:open">Inside Job <b>S01</b> (2021)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Inside" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4324', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Inside Job (2021) S01 <span class="E">E01_E10</span> NF WebRip 720p Dual Audio (Hindi+English) AAC 5.1 x264 MSubs</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4354', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Inside Job (2021) S01 <span class="E">E01_E10</span> NF WebRip 480p Dual Audio (Hindi+English) x264 MSubs</p>
+  </div>
+
+  <tr>
+   <td><a href="#Interstellar" rel="modal:open">Interstellar (2021)</a></td>
+   <td>Hindi_<b style="Color: yellow">HQ FanDub</b>/English</td>
+  </tr>
+  <div id="Interstellar" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4150', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Interstellar (2014) 480p BluRay x264 Dual Audio (Hindi HQ FanDub +English) ESub <span class="File">[File_Size: 552MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4151', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Interstellar (2014) 720p HEVC BluRay x265 Dual Audio (Hindi HQ FanDub +English) ESub <span class="File">[File_Size: 949MB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Into" rel="modal:open">Into The Night <b>S02</b> (2021)</a></td>
+   <td>English/French</td>
+  </tr>
+  <div id="Into" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> <a href="#Into1" rel="modal:open" style="background: white;">Into the Night (2021) S02 WebRip English 480p MSubs</a></p>
+   <p class="Box"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i><a href="#Into2" rel="modal:open" style="background: white;"> Into the Night (2021) S02 WebRip 720p English AAC 5.1 x264 MSubs </a></p>
+   <p class="Box"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i><a href="#Into3" rel="modal:open" style="background: white;"> Into the Night (2021) S02 WebRip 720p x265 HEVC 10Bit English AAC 5.1 MSubs </a></p>
+   <p class="Box"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i><a href="#Into4" rel="modal:open" style="background: white;"> Into The Night (2021) S02 FRENCH 720p NF WEBRipx264 MSubs </a></p>
+  </div>
+  <div id="Into1" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2605', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Into the Night (2021) S02 E01 WebRip English 480p MSubs <span class="File">[File_Size: 96MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2606', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Into the Night (2021) S02 E02 WebRip English 480p MSubs <span class="File">[File_Size: 101MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2607', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Into the Night (2021) S02 E03 WebRip English 480p MSubs <span class="File">[File_Size: 91MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2608', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Into the Night (2021) S02 E04 WebRip English 480p MSubs <span class="File">[File_Size: 88MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2609', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Into the Night (2021) S02 E05 WebRip English 480p MSubs <span class="File">[File_Size: 90MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2610', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Into the Night (2021) S02 E06 WebRip English 480p MSubs <span class="File">[File_Size: 96]</span></p>
+  </div>
+  <div id="Into2" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2618', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Into the Night (2021) S02 E01 WebRip 720p English AAC 5.1 x264 MSubs <span class="File">[File_Size: 329MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2619', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Into the Night (2021) S02 E02 WebRip 720p English AAC 5.1 x264 MSubs <span class="File">[File_Size: 345MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2620', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Into the Night (2021) S02 E03 WebRip 720p English AAC 5.1 x264 MSubs <span class="File">[File_Size: 312MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2621', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Into the Night (2021) S02 E04 WebRip 720p English AAC 5.1 x264 MSubs <span class="File">[File_Size: 303MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2622', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Into the Night (2021) S02 E05 WebRip 720p English AAC 5.1 x264 MSubs <span class="File">[File_Size: 309MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2623', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Into the Night (2021) S02 E06 WebRip 720p English AAC 5.1 x264 MSubs <span class="File">[File_Size: 330MB]</span></p>
+  </div>
+  <div id="Into3" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2632', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Into the Night (2021) S02 E01 WebRip 720p x265 HEVC 10Bit English AAC 5.1 MSubs <span class="File">[File_Size: 208MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2633', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Into the Night (2021) S02 E02 WebRip 720p x265 HEVC 10Bit English AAC 5.1 MSubs <span class="File">[File_Size: 192MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2634', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Into the Night (2021) S02 E03 WebRip 720p x265 HEVC 10Bit English AAC 5.1 MSubs <span class="File">[File_Size: 213MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2635', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Into the Night (2021) S02 E04 WebRip 720p x265 HEVC 10Bit English AAC 5.1 MSubs <span class="File">[File_Size: 203MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2636', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Into the Night (2021) S02 E05 WebRip 720p x265 HEVC 10Bit English AAC 5.1 MSubs <span class="File">[File_Size: 196MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2637', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Into the Night (2021) S02 E06 WebRip 720p x265 HEVC 10Bit English AAC 5.1 MSubs <span class="File">[File_Size: 290MB]</span></p>
+  </div>
+  <div id="Into4" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2647', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Into The Night (2021) S02E01 FRENCH 720p NF WEBRipx264 MSubs <span class="File">[File_Size: 158MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2648', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Into The Night (2021) S02E02 FRENCH 720p NF WEBRipx264 MSubs <span class="File">[File_Size: 156MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2649', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Into The Night (2021) S02E03 FRENCH 720p NF WEBRipx264 MSubs <span class="File">[File_Size: 156MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2650', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Into The Night (2021) S02E04 FRENCH 720p NF WEBRipx264 MSubs <span class="File">[File_Size: 156MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2651', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Into The Night (2021) S02E05 FRENCH 720p NF WEBRipx264 MSubs <span class="File">[File_Size: 166MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2652', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Into The Night (2021) S02E06 FRENCH 720p NF WEBRipx264 MSubs <span class="File">[File_Size: 181MB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Into_the_Wild" rel="modal:open">Into the Wild With Bear Grylls and Ajay Devgn (2021)</a></td>
+   <td>Hindi/English, Tamil/Telugu</td>
+  </tr>
+  <div id="Into_the_Wild" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4257', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Into the Wild With Bear Grylls and Ajay Devgn (2021) S01E01 720p AMZN WEB-DL Multi (Hindi +English +Tamil +Telugu) DDP2.0 HEVC x265 ESubs <span class="File">[File_Size: 1.5GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4258', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Into the Wild With Bear Grylls and Ajay Devgn (2021) S01E01 720p DSCV WEB-DL Hindi AAC2.0 HEVC x265 <span class="File">[File_Size: 253MB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Into_the_Wild1" rel="modal:open">Into The Wild With Bear Grylls and Vicky Kaushal (2021)</a></td>
+   <td>Hindi/English, Telugu/Tamil/Kannada, Malayalam/Bengali</td>
+  </tr>
+  <div id="Into_the_Wild1" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4858', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Into The Wild With Bear Grylls and Vicky Kaushal (2021) S01E01 Vicky Kaushal and Bear Grylls 720p AMZN WEB-DL HEVC Multi [Telugu + Tamil + Hindi + Malayalam + Kannada + Bengali + English ] DDP2.0 x265 ESubs ~ REVOLT <span class="File">[File_Size: 1.7GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4859', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Into The Wild With Bear Grylls and Vicky Kaushal (2021) S01E01 Vicky Kaushal and Bear Grylls 720p DSCV WEB-DL x264 (AAC 2.0 - 128Kbps) Multi [Telugu + Tamil + Hindi + Malayalam + Kannada + Bengali + English ] ESubs ~ TheDNK <span class="File">[File_Size: 929MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4866', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Into The Wild With Bear Grylls and Vicky Kaushal (2021) S01E01 Vicky Kaushal and Bear Grylls 480p AMZN WEB-DL HEVC Multi [Telugu + Tamil + Hindi + Malayalam + Kannada + Bengali + English ] AAC2.0 x264 ESubs <span class="File">[File_Size: 481MB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Intrusion" rel="modal:open">Intrusion (2021)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Intrusion" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3226', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Intrusion (2021) 720p NF WEB-DL x264 Dual Audio [ Hindi AAC5.1 + English AAC5.1 ] ESub <span class="File">[File_Size: 1GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3228', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Intrusion (2021) NF 480p WEB-DL x264 Dual Audio (Hindi+English) ESubs <span class="File">[File_Size: 306MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3229', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Intrusion (2021) 1080p NF WEB-DL x264 Dual Audio (Hindi 5.1 +English) ESubs <span class="File">[File_Size: 1.9GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3230', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Intrusion (2021) 720p NF WEB-DL x264 Dual Audio (Hindi 5.1 +English) ESubs <span class="File">[File_Size: 836MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3255', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Intrusion (2021) 1080p x265 10bit NF WEBRip AAC 5.1 Dual Audio (Hindi +English) ESubs <span class="File">[File_Size: 1.6GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3257', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Intrusion (2021) 720p 10bit NF WEBRip x265 Dual Audio (English+Hindi) AAC 5.1 ESubs <span class="File">[File_Size: 782MB]</span></p>
+  </div>
+
+<tr>
+    <td><a href="#IPC" rel="modal:open">420 IPC (2021)</a></td>
+    <td>Hindi</td>
+  </tr>
+  <div id="IPC" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5562', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> 420 IPC (2021) 480p ZEE5 WEB-DL Hindi AAC2.0 H.264 ESubs <span class="File">[File_Size: 258MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5563', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> 420 IPC (2021) 720p ZEE5 WEB-DL Hindi AAC2.0 H.264 ESubs <span class="File">[File_Size: 556MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5564', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> 420 IPC (2021) 1080p ZEE5 WEB-DL Hindi AAC2.0 H.264 ESubs <span class="File">[File_Size: 1.2GB]</span></p>
+</div>
+ `);

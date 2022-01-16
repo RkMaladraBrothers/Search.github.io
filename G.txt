@@ -1,0 +1,129 @@
+document.write(`
+ <tr>
+    <td><a href="#Gaia" rel="modal:open">Gaia (2021) </a></td>
+   <td>Hindi</td>
+  </tr>
+  <div id="Gaia" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3448', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Gaia (2021) 720p10bit BluRay 6CH x265 HEVC ESubs <span class="File">[File_Size: 833MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3449', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Gaia (2021) 1080p10bit BluRay 6CH x265 HEVC ESubs <span class="File">[File_Size: 1.6GB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Ganglands" rel="modal:open">Ganglands <b>S01</b> (2021)</a></td>
+   <td>English/FRENCH</td>
+  </tr>
+  <div id="Ganglands" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3474', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Ganglands (2021) S01 <span class="E">E01_E06</span> 720p 10bit NF WEBRip ENGLISH DUBBED AAC 5.1 x265 ESubs</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3481', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Ganglands (2021) S01 <span class="E">E01_E06</span> FRENCH 720p NF WEBRip x264 MSubs</p>
+  </div>
+
+  <tr>
+    <td><a href="#Ghostbusters" rel="modal:open">Ghostbusters Afterlife (2021)</a></td>
+    <td>English</td>
+  </tr>
+  <div id="Ghostbusters" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5790', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Ghostbusters Afterlife (2021) 720p 10bit HEVC AMZN WEBRip  English AAC 5.1 x265 MSubs <span class="File">[File_Size: 905MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5791', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Ghostbusters Afterlife (2021) 480p WebRip English x264 MSubs <span class="File">[File_Size: 334MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5792', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Ghostbusters Afterlife (2021) 1080p 10bit HEVC AMZN WEBRip English AAC 5.1 x265 MSubs <span class="File">[File_Size: 1.7GB]</span></p>
+</div>
+
+  <tr>
+   <td><a href="#Girgit" rel="modal:open">Girgit (2021)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Girgit" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4426', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Girgit (2021) S01 <span class="E">E01_E07</span> 480p Hindi WebRip ESub</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4434', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Girgit (2021) S01 <span class="E">E01_E07</span> 1080p HEVC MX WEB-DL Hindi AAC2.0 x265 ESub ~ Telly</p>
+  </div>
+  <tr>
+   <td><a href="#Glitter" rel="modal:open">Glitter (2021)</a></td>
+   <td>Hindi</td>
+  </tr>
+  <div id="Glitter" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4506', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Glitter (2021) S01 <span class="E">E01_E09</span> 720p Zee5 WEB-DL Hindi AAC2.0 HEVC x265 ESubs</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4525', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Glitter (2021) S01 <span class="E">E01_E09</span> Zee5 480p Hindi WebRip x264 ESub</p>
+  </div>
+
+<tr>
+    <td><a href="#Golondaaj" rel="modal:open">Golondaaj (2021)</a></td>
+    <td>Hindi</td>
+  </tr>
+  <div id="Golondaaj" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5036', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Golondaaj (2021) 480p Hindi HDCAMRip x264 <span class="File">[File_Size: 451MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5037', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Golondaaj (2021) 720p Hindi HDCAMRip x264 <span class="File">[File_Size: 1.2GB]</span></p>
+</div>
+
+  <tr>
+    <td><a href="#Gora" rel="modal:open">Gora <b>S01</b> (2022)</a></td>
+    <td>Bengali</td>
+  </tr>
+  <div id="Gora" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5869', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Gora (2022) S01 <span class="E">E01_E08</span> 720p Hoichoi WEB-DL Bengali AAC2.0 x264 ESubs</p>
+</div>
+
+  <tr>
+   <td><a href="#Green" rel="modal:open">The Green Knight (2021)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Green" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3987', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Green Knight (2021) 480p WEB-DLx264 ESubs <span class="File">[File_Size: 399MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3988', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Green Knight (2021) 720p10bit WEBRip 6CH x265 HEVC ESubs <span class="File">[File_Size: 850MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3989', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Green Knight (2021) 1080p 10bit WEBRip 6CH x265 HEVC Esubs <span class="File">[File_Size: 1.7GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3994', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Green Knight (2021) 480p BluRay Dual Audio (Hindi+English) x264 Esub <span class="File">[File_Size: 534MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3995', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Green Knight (2021) 720p10bit HEVC BluRay Dual Audio (Hindi+English) x265 Esub <span class="File">[File_Size: 797MB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Guilty" rel="modal:open">The Guilty (2021)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Guilty" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2849', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Guilty (2021) WEBSCREENER h.264 <span class="File">[File_Size: 598MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2850', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Guilty (2021) 720p WEBSCREENER x264 <span class="File">[File_Size: 795MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2851', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Guilty (2021) WEBSCREENER 720p HEVC HDRip English x265 AAC <span class="File">[File_Size: 452MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2867', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Guilty (2021) INTERNAL leaked 720p WEBRip 2CH x265 HEVC <span class="File">[File_Size: 378MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2852', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Guilty (2021) 1080p WEBSCREENER DD2.0 x264 <span class="File">[File_Size: 1.4GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3651', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Guilty (2021) 720p NF WEB-DL Dual Audio (English +Hindi) DDP5.1 Atmos x264 MSubs <span class="File">[File_Size: 1.4GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3652', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Guilty (2021) 1080p HQ NF WEB-DL VP9 Dual Audio (Hindi +English) DD+5.1 [Hindi + English] MSub <span class="File">[File_Size: 427MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3653', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Guilty (2021) 720p NF WEB-DL VP9 Dual Audio (Hindi +English) AAC 2.0 [Hindi + English] MSub <span class="File">[File_Size: 285MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3675', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Guilty (2021) 720p DOVI NF WEB-DL x265 HEVC Dual Audio (Hindi +English) DD+5.1 [Hindi + English] MSub <span class="File">[File_Size: 1.7GB]</span></p>
+  </div>
+  
+  <tr>
+    <td><a href="#Gullak" rel="modal:open">Gullak <b>S02</b> (2021)</a></td>
+    <td>Hindi</td>
+  </tr>
+  <div id="Gullak" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/4949', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Gullak (2020) S02 <span class="E">E01_E05</span> WebRip Hindi 480p ESub</p>
+</div>
+  
+  <tr>
+   <td><a href="#Gully" rel="modal:open">Gully Rowdy (2021)</a></td>
+   <td>Hindi/Telugu</td>
+  </tr>
+  <div id="Gully" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4636', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Gully Rowdy (2021) 1080p HS-DSNP WEB-DL Telugu AAC2.0 x265 HEVC ESubs ~ REVOLT <span class="File">[File_Size: 1.9GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4775', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Gully Rowdy (2021) 480p UNCUT Dual Audio (Hindi +Telugu) HDRip x264 ESub <span class="File">[File_Size: 490MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4776', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Gully Rowdy (2021) 720p HEVC UNCUT Dual Audio (Hindi +Telugu) HDRip x265 ESub <span class="File">[File_Size: 774MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4777', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Gully Rowdy (2021) 720p UNCUT Dual Audio (Hindi +Telugu) HDRip x264 ESub <span class="File">[File_Size: 1.2GB]</span></p>
+  </div>
+  
+  <tr>
+    <td><a href="#Gunjan" rel="modal:open">Gunjan Saxena The Kargil Girl (2020)</a></td>
+    <td>Hindi</td>
+  </tr>
+  <div id="Gunjan" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5440', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Gunjan Saxena The Kargil Girl 2020 WebRip Hindi 480p ESub <span class="File">[File_Size: 301MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5441', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Gunjan Saxena The Kargil Girl 2020 WebRip 720p Hindi AAC 5.1 x264 ESub <span class="File">[File_Size: 1GB]</span></p>
+</div>
+  `);

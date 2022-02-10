@@ -1,0 +1,161 @@
+document.write(`
+  <tr>
+   <td><a href="#Nakaab" rel="modal:open">Nakaab (2021)<span style=" display: none;">Nakab</span></a></td>
+   <td>Hindi</td>
+  </tr>
+  <div id="Nakaab" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2880', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Nakaab (2021) MX 480p HEVC HDRip Hindi S01 Complete File x265 ESub <span class="File">[File_Size: 679MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2882', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Nakaab (2021) MX 720p HEVC HDRip Hindi S01 Complete File x265 ESub <span class="File">[File_Size: 1.4GB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Naked" rel="modal:open">Naked Director <b>S02</b> (2021)</a></td>
+   <td>Japanese/English</td>
+  </tr>
+  <div id="Naked" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3315', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> The Naked Director (2021) S02 <span class="E">E01_E8</span> 480p Dual-Audio (English + Japanese) x264 MSubs</p>
+  </div>
+  <tr>
+   <td><a href="#Narcos" rel="modal:open">Narcos <b>S01 S02 S03</b> </a></td>
+   <td>Hindi</td>
+  </tr>
+  <div id="Narcos" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3794', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Narcos S01 <span class="E">E01_E10</span> 720p10bit NF WEB-DLx265 HEVC 2CH HINDI Dubbed ESub ~ DARKNESS</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3805', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Narcos S02 <span class="E">E01_E10</span> 720p10bit NF WEB-DLx265 HEVC 2CH HINDI Dubbed ESub ~ DARKNESS</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3816', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Narcos S03 <span class="E">E01_E10</span> 720p10bit NF WEB-DLx265 HEVC 2CH HINDI Dubbed ESub ~ DARKNESS</p>
+  </div>
+  <tr>
+   <td><a href="#Narcos_Mexico" rel="modal:open"> Narcos Mexico <b>S01 S02 S03</b></a></td>
+   <td>Hindi</td>
+  </tr>
+  <div id="Narcos_Mexico" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3826', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Narcos Mexico S01 <span class="E">E01_E10</span> 720p10bit NF WEB-DLx265 HEVC 2CH HINDI Dubbed ESub ~ DARKNESS</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3836', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Narcos Mexico S02 <span class="E">E01_E10</span> 720p10bit NF WEB-DLx265 HEVC 2CH HINDI Dubbed ESub ~ DARKNESS</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4692', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Narcos Mexico (2021) S03 <span class="E">E01_E10</span> 720p10bit WEBRip Dual Audio (Hindi +English) x265 ESubs</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4712', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Narcos Mexico (2021) S03 <span class="E">E01_E10</span> 480p WEBRip Dual Audio (Hindi +English) x264 ESubs</p>
+  </div>
+  <tr>
+   <td><a href="#Needle" rel="modal:open">Needle in a Timestack (2021)</a></td>
+   <td>English</td>
+  </tr>
+  <div id="Needle" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4402', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Needle in a Timestack (2021) 720p10bit BluRay 6CH x265 HEVC ESubs <span class="File">[File_Size: 535MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4403', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Needle in a Timestack (2021) 1080p10bit BluRay 6CH x265 HEVC ESubs <span class="File">[File_Size: 1.1GB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#N_E" rel="modal:open">Never Have I Ever <b>S02</b> (2021)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="N_E" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2981', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Never Have I Ever S02 <span class="E">E01_E10</span> 1080p NF WEB-DL DUAL AUDIO
+    ( HINDI - ENGLISH) DD+5.1.x264.mkv </p>
+  </div>
+  <tr>
+   <td><a href="#Nightbooks" rel="modal:open">Nightbooks (2021)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Nightbooks" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2920', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Nightbooks (2021) NF 480p WEB-DL x264 Dual Audio (Hindi +English) ESubs <span class="File">[File_Size: 335MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2921', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Nightbooks (2021) NF 720p WEB-DL x264 Dual Audio (Hindi 5.1 +English) ESubs <span class="File">[File_Size: 905MB]</span></p>
+  </div>
+
+  <tr>
+    <td><a href="#Nightmare" rel="modal:open">Nightmare Alley (2021)</a></td>
+    <td>English</td>
+  </tr>
+  <div id="Nightmare" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5830', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Nightmare Alley (2021) HDCAM x264 <br />👉🏻 Note :contains betting ads <span class="File">[File_Size: 847MB]</span></p>
+</div>
+
+  <tr>
+   <td><a href="#Night1" rel="modal:open">The Night House (2020)</a></td>
+   <td>English</td>
+  </tr>
+  <div id="Night1" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4189', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Night House (2020) 720p10bit BluRay 6CH x265 HEVC ESubs ~ PSA <span class="File">[File_Size: 599MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4190', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Night House (2020) 1080p10bit BluRay 6CH x265 HEVC ESubs ~ PSA <span class="File">[File_Size: 1.1GB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Night" rel="modal:open">Night Teeth (2021)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Night" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4181', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Night Teeth (2021) 480p WebRip Dual Audio (Hindi+English) x264 ESub <span class="File">[File_Size: 332MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4182', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Night Teeth (2021) 720p WebRip Dual Audio (Hindi+English) AAC 5.1 x264 ESub <span class="File">[File_Size: 1.10GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4188', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Teeth (2021) 720p 10bit WEBRip x265 HEVC Dual Audio [Hindi DDP5.1 ~ 640Kbps + English AAC 5.1] Esub ~ PSA <span class="File">[File_Size: 1.1GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4191', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Night Teeth (2021) 1080p 10bit WEBRip x265 HEVC Dual Audio [Hindi DDP5.1 ~ 640Kbps + English AAC 5.1] Esub ~ PSA <span class="File">[File_Size: 1.7GB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Nine_Perfect_Strangers" rel="modal:open">Nine Perfect Strangers <b>S01</b> (2021)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Nine_Perfect_Strangers" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3450', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Nine Perfect Strangers (2021) S01 <span class="E">E01_E08</span> AMZN WebRip Dual Audio (Hindi+English) 480p MSubs</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3459', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Nine Perfect Strangers (2021) S01 <span class="E">E01_E08</span> 720p10bit AMZN WEBRip Dual Audio (English +Hindi) 5.1 x265 ESubs</p>
+  </div>
+  <tr>
+   <td><a href="#Normal" rel="modal:open">Normal People <b>S01</b> (2020)</a></td>
+   <td>English</td>
+  </tr>
+  <div id="Normal" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3303', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Normal People (2020) S01 <span class="E">E01_E12</span> 720p WEBRip 2CH x265 HEVC ESub</p>
+  </div>
+  <tr>
+   <td><a href="#No_man" rel="modal:open">No Man of God (2021)</a></td>
+   <td>English</td>
+  </tr>
+  <div id="No_man" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4557', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> No Man of God (2021) 720p10bit BluRay 6CH x265 HEVC ESubs <span class="File">[File_Size: 675MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4558', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> No Man of God (2021) 1080p10bit BluRay 6CH x265 HEVC ESubs <span class="File">[File_Size: 1.4GB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#No_One" rel="modal:open">No One Gets Out Alive (2021)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="No_One" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3515', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> No One Gets Out Alive (2021) 720p NF WEB-DL Dual Audio (Hindi +English) DDP5.1 Atmos x264 MSubs <span class="File">[File_Size: 1.6GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3517', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> No One Gets Out Alive (2021) WebRip Dual Audio (Hindi +English) 480p MSubs <span class="File">[File_Size: 266MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3524', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> No One Gets Out Alive (2021) WebRip 720p x265 HEVC 10Bit Dual Audio (Hindi +English) AAC 5.1 MSubs <span class="File">[File_Size: 670MB]</span></p>
+  </div>
+
+  <tr>
+   <td><a href="#No_Time" rel="modal:open">No Time To Die (2021)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="No_Time" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3638', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> No Time To Die (2021) 480p Camrip HINDI x264 <span class="File">[File_Size: 469MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3639', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> No Time To Die (2021) 720p Camrip HINDI x264 <span class="File">[File_Size: 1.2GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3894', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> No Time To Die (2021) Camrip English 480p <span class="File">[File_Size: 421MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3895', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> No Time To Die (2021) Camrip 720p English AAC 2.0 x264 <span class="File">[File_Size: 1.3GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4815', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> No Time To Die (2021) 720p AMZN ENGLISH WEBRip x264 ESub <span class="File">[File_Size: 897MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4817', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> No Time To Die (2021) 1080p AMZN ENGLISH DD5.1 WEBRip x264 ESub <span class="File">[File_Size: 1.6GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4818', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> No Time To Die (2021) 480p AMZN ENGLISH WEB-DL x264 ESub <span class="File">[File_Size: 492MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4819', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> No Time To Die (2021) 720p10bit AMZN WEBRip x265 ENGLISH 2CH ESubs ~ DarknesS <span class="File">[File_Size: 867MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4820', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> No Time To Die (2021) 720p10bit HEVC Dual Audio (Hindi Cam Cleaned +English) HEVC x265 ESubs
+    Note : Watermark & betting ads included <span class="File">[File_Size: 1GB]</span></p>
+  </div>
+
+<tr>
+    <td><a href="#Nomad" rel="modal:open">Nomad River (2021)</a></td>
+    <td>English</td>
+  </tr>
+  <div id="Nomad" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5200', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> A Nomad River (2021) 720p HEVC AMZN WEB-DL ENGLISH DDP5.1 x265 ESubs <span class="File">[File_Size: 791MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5201', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> A Nomad River (2021) 1080p HEVC AMZN WEB-DL ENGLISH DDP5.1 x265 ESubs <span class="File">[File_Size: 1.6GB]</span></p>
+</div>
+`);

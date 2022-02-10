@@ -1,0 +1,283 @@
+document.write(`
+<tr>
+   <td><a href="#Haathi" rel="modal:open">Haathi Mere Saathi (2021)</a></td>
+   <td>Hindi</td>
+  </tr>
+  <div id="Haathi" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3144', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Haathi Mere Saathi (2021) EROS NOW 480p WebRip Hindi AAC2.0 <span class="File">[File_Size: 578MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3148', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Haathi Mere Saathi (2021) Hindi 720p HDRipx264 <span class="File">[File_Size: 1.3GB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Taubba" rel="modal:open">Hai Taubba <b>S3</b> (2021)</a></td>
+   <td>Hindi</td>
+  </tr>
+  <div id="Taubba" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2830', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Hai Taubba (2021) S03 E01 WebRip 720p Hindi AAC 2.0 x264 ESub <span class="File">[File_Size: 361MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2831', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Hai Taubba (2021) S03 E02 WebRip 720p Hindi AAC 2.0 x264 ESub <span class="File">[File_Size: 336MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2832', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Hai Taubba (2021) S03 E03 WebRip 720p Hindi AAC 2.0 x264 ESub <span class="File">[File_Size: 364MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2833', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Hai Taubba (2021) S03 E04 WebRip 720p Hindi AAC 2.0 x264 ESub <span class="File">[File_Size: 341MB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Halloween" rel="modal:open">Halloween Kills (2021)</a></td>
+   <td>English</td>
+  </tr>
+  
+  <div id="Halloween" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4048', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Halloween Kills (2021) 720p ENGLISH WEBRip x264 ESub <span class="File">[File_Size: 797MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4049', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Halloween Kills (2021) 1080p WEBRip ENGLISH DD5.1 x264 ESubs <span class="File">[File_Size: 1.4GB]</span></p>
+  </div>
+  
+  <tr>
+   <td><a href="#Happier" rel="modal:open">Happier Than Ever A Love Letter to Los Angeles (2021)</a></td>
+   <td>English</td>
+  </tr>
+  <div id="Happier" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2876', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Happier Than Ever A Love Letter to Los Angeles (2021) 720p10bit DSNP WEBRip DDP5.1 Atmos x265 HEVC MSubs <span class="File">[File_Size: 792MB]</span></p>
+  </div>
+
+<tr>
+    <td><a href="#Happily" rel="modal:open">Happily Never After (2021)</a></td>
+    <td>Gujarati</td>
+  </tr>
+  <div id="Happily" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/4933', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Happily Never After (2021) S01 <span class="E">E01_E05</span> 720p10bit OHO WEBRip 2CH x265 HEVC ESubs ~ Streamion</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/4939', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Happily Never After (2021) S01 <span class="E">E01_E05</span> 1080p OHO WEB-DL Gujarati AAC2.0 x264 ESubs ~HemSid(GameData)</p>
+</div>
+
+  <tr>
+   <td><a href="#Harder" rel="modal:open">The Harder They Fall (2021)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Harder" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4628', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Harder They Fall (2021) 480p NF WEB-DL Dual Audio (Hindi +English) AAC2.0 x264 ESub <span class="File">[File_Size: 666MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4629', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Harder They Fall (2021) 720p NF WEB-DL Dual Audio (Hindi +English) AAC2.0 x264 ESub <span class="File">[File_Size: 1.7GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4630', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Harder They Fall (2021) 720p NF HDRip Dual Audio (Hindi +English) AAC5.1 x264 Esub <span class="File">[File_Size: 1.2GB]</span></p>
+  </div>
+
+<tr>
+    <td><a href="#Harry" rel="modal:open">Harry Potter 20th Anniversary - Return to Hogwarts (2022)</a></td>
+    <td>Hindi/English</td>
+  </tr>
+  <div id="Harry" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5755', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Harry Potter 20th Anniversary - Return to Hogwarts (2022) 480p AMZN WEB-DL x265 [English (AAC 2.0)] ESubs ~ TheDNK <span class="File">[File_Size: 214MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5756', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Harry Potter 20th Anniversary - Return to Hogwarts (2022) 720p AMZN WEB-DL x265 [English (DD+ 5.1 - 192Kbps & AAC 2.0)] ESubs ~ TheDNK <span class="File">[File_Size: 663MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5757', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Harry Potter 20th Anniversary Return to Hogwarts (2022) 720p AMZN WEB-DL ENGLISH DDP5.1 HEVC ESubs <br />👉🏻 Note : Higher Bitrate  <span class="File">[File_Size: 1.3GB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5758', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Harry Potter 20th Anniversary - Return to Hogwarts (2022) 1080p AMZN WEB-DL x265 [English (DD+ 5.1 - 192Kbps & AAC 2.0)] ESubs ~ TheDNK <span class="File">[File_Size: 1.6GB]</span></p>
+</div>
+
+<tr>
+    <td><a href="#Hawkeye" rel="modal:open">Hawkeye <b>S01</b> (2021)</a></td>
+    <td>Hindi/English/Tamil, Telugu/Malayalam</td>
+  </tr>
+  <div id="Hawkeye" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5220', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Hawkeye (2021) <span style="color: red; background: yellow;">S01E01</span> 720p DSNP WEB-DL <span style="color: red; background: yellow;">ENGLISH</span> DDP5.1 ATMOS H.264 ESubs ~ MARK <span class="File">[File_Size: 1.3GB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5221', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Hawkeye (2021) <span style="color: red; background: yellow;">S01E02</span> 720p DSNP WEB-DL <span style="color: red; background: yellow;">ENGLISH</span> DDP5.1 ATMOS H.264 ESubs ~ MARK <span class="File">[File_Size: 1.2GB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5222', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Hawkeye (2021) <span style="color: red; background: yellow;">S01E01</span> Never Meet Your Heroes 720p HEVC DSNP WEB-DL x265 (DD+ 5.1 - 192Kbps) <span style="color: red; background: yellow;">[Telugu + Tamil + Hindi + Malayalam + English ]</span> MSub ~ TheDNK <span class="File">[File_Size: 639MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5223', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Hawkeye (2021) <span style="color: red; background: yellow;">S01E02</span> Hide and Seek 720p HEVC DSNP WEB-DL x265 (DD+ 5.1 - 192Kbps) <span style="color: red; background: yellow;">[Telugu + Tamil + Hindi + Malayalam + English ]</span> MSub ~ TheDNK <span class="File">[File_Size: 664MB]</span></p>
+  <p class="Box" onclick="window.open(''https://t.me/c/1501644510/5224, '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Hawkeye (2021) <span style="color: red; background: yellow;">S01E01</span> Never Meet Your Heroes 1080p HEVC DSNP WEB-DL x265 (DD+ 5.1 - 192Kbps) <span style="color: red; background: yellow;">[Telugu + Tamil + Hindi + Malayalam + English ]</span> MSub ~ TheDNK <span class="File">[File_Size: 935MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5225', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Hawkeye (2021) <span style="color: red; background: yellow;">S01E02</span> Hide and Seek 1080p HEVC DSNP WEB-DL x265 (DD+ 5.1 - 192Kbps) <span style="color: red; background: yellow;">[Telugu + Tamil + Hindi + Malayalam + English ]</span> MSub ~ TheDNK <span class="File">[File_Size: 972MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5228', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Hawkeye (2021) <span style="color: red; background: yellow;">S01E01</span> Never Meet Your Heroes 480p HS-DSNP WEB-DL Dual Audio <span style="color: red; background: yellow;">(Hindi +English)</span> x264 ESubs <span class="File">[File_Size: 157MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5229', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Hawkeye (2021) <span style="color: red; background: yellow;">S01E02</span> Hide and Seek 480p DSNP WEB-DL Dual Audio <span style="color: red; background: yellow;">(Hindi +English)</span> x264 ESubs <span class="File">[File_Size: 163MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5230', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Hawkeye (2021) <span style="color: red; background: yellow;">S01E01</span> Never Meet Your Heroes 720p10bit WEBRip 2CH x265 HEVC ESubs <span class="File">[File_Size: 234MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5231', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Hawkeye (2021) <span style="color: red; background: yellow;">S01E02</span> Hide and Seek 720p10bit WEBRip 2CH x265 HEVC ESubs <span class="File">[File_Size: 245MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5234', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Hawkeye (2021) <span style="color: red; background: yellow;">S01E01</span> Never Meet Your Heroes 720p10bit HEVC WEBRip Dual Audio <span style="color: red; background: yellow;">(Hindi +English)</span> AAC2.0 x265 MSubs  <span class="File">[File_Size: 253MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5235', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Hawkeye (2021) <span style="color: red; background: yellow;">S01E02</span> Hide and Seek 720p10bit HEVC WEBRip Dual Audio <span style="color: red; background: yellow;">(Hindi +English)</span> AAC2.0 x265 MSubs <span class="File">[File_Size: 264MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5236', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Hawkeye (2021) <span style="color: red; background: yellow;">S01E01</span> Never Meet Your Heroes 1080p10bit HEVC WEBRip Dual Audio <span style="color: red; background: yellow;">(Hindi DDP5.1 +English HE-AAC 2.0)</span> x265 MSubs <span class="File">[File_Size: 575MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5237', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Hawkeye (2021) <span style="color: red; background: yellow;">S01E02</span> Hide and Seek 1080p10bit HEVC WEBRip Dual Audio <span style="color: red; background: yellow;">(Hindi DDP5.1 +English HE-AAC 2.0)</span> x265 MSubs <span class="File">[File_Size: 597MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5519', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Hawkeye (2021) <span style="color: red; background: yellow;">S01E03</span> 720p10bit HEVC WEBRip <span style="color: red; background: yellow;">[Org DSNP Hindi DDP 5.1 ~ 192Kbps + English AAC 2.0]</span> x265 ESub <span class="File">[File_Size: 257MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5520', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Hawkeye (2021) S01E04 720p10bit HEVC WEBRip <span style="color: red; background: yellow;">[Org DSNP Hindi DDP 5.1 ~ 192Kbps + English AAC 2.0]</span> x265 MSubs <span class="File">[File_Size: 220MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5521', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Hawkeye (2021) S01E05 Ronin 480p HEVC DSNP WEB-DL <span style="color: red; background: yellow;">(Telugu + Tamil + Hindi + Malayalam + English)</span> AAC2.0 x265 MSub ~ TheDNK <span class="File">[File_Size: 260MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5522', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Hawkeye (2021) <span style="color: red; background: yellow;">S01E05</span> Ronin 720p HEVC DSNP WEB-DL <span style="color: red; background: yellow;">[Telugu + Tamil + Hindi + Malayalam + English ]</span> AAC2.0 x265 MSub ~ TheDNK <span class="File">[File_Size: 385MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5634', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Hawkeye (2021) <span style="color: red; background: yellow;">S01E06</span> This is Christmas 480p WEBRip <span style="color: red; background: yellow;">(Hindi +English)</span> x264 MSubs <span class="File">[File_Size: 205MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5635', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Hawkeye (2021) <span style="color: red; background: yellow;">S01E06</span> This is Christmas 720p10bit HEVC WEBRip <span style="color: red; background: yellow;">(Hindi +English)</span> x265 MSubs  <span class="File">[File_Size: 342MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5636', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Hawkeye (2021) <span style="color: red; background: yellow;">S01E06</span> This is Christmas 1080p10bit HEVC WEBRip <span style="color: red; background: yellow;">(Hindi +English)</span> x265 MSubs <span class="File">[File_Size: 771MB]</span></p>
+</div>
+
+<tr>
+    <td><a href="#Hellbound" rel="modal:open">Hellbound <b>S01</b> (2021)</a></td>
+    <td>Hindi/English/Korean</td>
+  </tr>
+  <div id="Hellbound" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5108', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Hellbound (2021) S01 <span class="E">E01_E06</span> 720p NF WEB-DL Multi (Hindi +English +Korean) DDP5.1 Atmos x264 MSubs ~ REVOLT</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5115', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Hellbound (2021) S01 <span class="E">E01_E06</span> 720p NF WEB-DL Multi (Hindi +English +Korean) DDP2.0 x264 MSubs ~ SPECT3R </p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5145', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Hellbound (2021) S01 <span class="E">E01_E06</span> WebRip 720p Dual Audio (Hindi +English) AAC 5.1 x264 MSubs</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5167', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Hellbound (2021) S01 <span class="E">E01_E06</span> 480p NF WEB-DL Dual Audio (Hindi +English) x264 ESubs</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5188', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Hellbound (2021) S01 <span class="E">E01_E06</span> 720p10bit HEVC NF WEBRip Dual Audio [Hindi+ English] AAC2.0 ESubs ~ Immortal</p>
+</div>
+
+  <tr>
+   <td><a href="#Hello" rel="modal:open">Hello Jack The Kindness Show (2021)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Hello" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4734', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Hello Jack The Kindness Show (2021) S01 <span class="E">E01_E07</span> ATVP WebRip 720p Dual Audio (Hindi +English) AAC 5.1 x264 ESub</p>
+  </div>
+
+  <tr>
+   <td><a href="#Helmet" rel="modal:open">Helmet (2021)</a></td>
+   <td>Hindi</td>
+  </tr>
+  <div id="Helmet" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2310', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Helmet (2021) Zee5 720p HDRip Hindi x264 ESub <span class="File">[File_Size: 958MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2311', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Helmet (2021) Zee5 480p HDRip Hindi x264 ESub <span class="File">[File_Size: 336MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2317', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Helmet (2021) [Hindi - HDRip - x264 - AAC - 400MB - ESubs] <span class="File">[File_Size: 401MB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#heman" rel="modal:open">He Man and the Masters of the Universe <b>S01</b> (2021)<span style=" display: none;">He-man and the Masters of the Universe</span></a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="heman" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2971', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> He-Man and the Masters of the Universe S01 <span class="E">E01_E10</span> WebRip 720p Dual Audio (Hindi +English) 5.1 MSubs </p>
+  </div>
+
+<tr>
+    <td><a href="#Hiccups" rel="modal:open">Hiccups and Hookups (2021)</a></td>
+    <td>Hindi/English, Tamil/Telugu/Bengali</td>
+  </tr>
+  <div id="Hiccups" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5297', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Hiccups and Hookups (2021) S01 <span class="E">E01_E08</span> 720p LPLAY WEB-DL Multi (Tamil +Telugu +Hindi +English +Bengali) AAC2.0 x264 (Hindi +English)Sub</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5312', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Hiccups and Hookups (2021) S01 <span class="E">E01_E08</span> 480p LPLAY WEB-DL Multi (Tamil +Telugu +Hindi +English +Bengali) AAC2.0 x264 (Hindi +English)Sub</p>
+</div>
+
+  <tr>
+   <td><a href="#Hitman" rel="modal:open">The Hitman's Wife's Bodyguard (2021)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Hitman" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2478', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Hitman's Wife's Bodyguard (2021) EXTENDED 720p WEBRip 2CH x265 HEVC ESubs <span class="File">[File_Size: 814MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2479', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Hitman's Wife's Bodyguard (2021) EXTENDED 1080p WEBRip 6CH x265 HEVC ESubs <span class="File">[File_Size: 1.7GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/5527', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Hitman's Wife's Bodyguard (2021) 480p BRRip EXTENDED (Hindi +English) x264 ESubs <span class="File">[File_Size: 383MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/5528', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Hitman's Wife's Bodyguard (2021) 720p10bit HEVC BRRip EXTENDED (Hindi +English) x265 ESubs <span class="File">[File_Size: 1GB]</span></p>
+  </div>
+
+<tr>
+    <td><a href="#Hit" rel="modal:open">Marvel's Hit - Monkey <b>S01</b> (2021)</a></td>
+    <td>English</td>
+  </tr>
+  <div id="Hit" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5003', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Marvel's Hit - Monkey (2021) S01 <span class="E">E01_E10</span> 720p HULU WebRip x264 Esubs</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5014', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Marvel's Hit - Monkey (2021) S01 <span class="E">E01_E10</span> 1080p HULU WEB-DL DDP5.1 x264 Esubs</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5041', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Marvel's Hit - Monkey (2021) S01 <span class="E">E01_E10</span> 720p10bit HULU WEBRip 2CH x265 HEVC Esubs</p>
+</div>
+
+  <tr>
+   <td><a href="#Home" rel="modal:open">Home Sweet Home Alone (2021)</a></td>
+   <td>Hindi/English, Tamil/Telugu/Malayalam</td>
+  </tr>
+  <div id="Home" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4876', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Home Sweet Home Alone (2021) 480p HS - DSNP WEB-DL Multi (Tamil +Telugu +Malayalam +Hindi +English) x264 MSubs <span class="File">[File_Size: 540MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4877', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Home Sweet Home Alone (2021) 720p HEVC HS - DSNP WEB-DL Multi (Tamil +Telugu +Malayalam +Hindi +English) DDP5.1 x265 MSubs <span class="File">[File_Size: 1.1GB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Honsla" rel="modal:open">Honsla Rakh (2021)</a></td>
+   <td>Punjabi</td>
+  </tr>
+  <div id="Honsla" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/5210', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Honsla Rakh (2021) 720p HEVC AMZN WEB-DL Punjabi (DD+ 5.1 ~ 192Kbps & AAC 2.0) x265 ESubs ~ TheDNK <span class="File">[File_Size: 971MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/5211', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Honsla Rakh (2021) 720p HEVC AMZN WEB-DL Punjabi DDP5.1 x265 ESubs ~REVOLT <span class="File">[File_Size: 1.8GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/5214', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Honsla Rakh (2021) 720p10bit HEVC AMZN WEB-DL PUNJABI DDP5.1 x265 ESubs <span class="File">[File_Size: 905MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/5215', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Honsla Rakh (2021) 480p10bit HEVC AMZN WEB-DL PUNJABI x265 ESubs <span class="File">[File_Size: 450MB]</span></p>
+  </div>
+
+  <tr>
+   <td><a href="#How" rel="modal:open">How to Make Out (2020) <span style="display: none;">T'as pécho</span></a></td>
+   <td>Hindi/French, Tamil/Telugu</td>
+  </tr>
+  <div id="How" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3504', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> How to Make Out a.k.a T'as pécho (2020) [1080p HDRip - Org Auds - Multi [Tamil +Telugu +Hindi +French ] - x264 - AAC - ESubs] <span class="File">[File_Size: 1.8GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3506', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> How to Make Out a.k.a T'as pécho (2020) [720p HDRip - Org Auds -Multi [Tamil + Telugu + Hindi French ] - x264 - AAC - ESubs] <span class="File">[File_Size: 963MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3507', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> How to Make Out a.k.a T'as pécho (2020) [HDRip - Org Auds - Multi [Tamil + Telugu + Hindi] - x264 - ESubs] <span class="File">[File_Size: 449MB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Hostages" rel="modal:open">Hostages <b>S02</b> (2020)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Hostages" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4466', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Hostages (2020) S02 <span class="E">E01_E12</span> WebRip 720p Hindi AAC x264 ESub</p>
+  </div>
+  <tr>
+   <td><a href="#Hostel" rel="modal:open">Hostel Daze <b>S02</b> (2021)</a></td>
+   <td>Hindi</td>
+  </tr>
+  <div id="Hostel" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/5721', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Hostel Daze (2021) 480p HEVC HDRip Hindi S02 Complete x265 ESub <span class="File">[File_Size: 418MB]</span></p>
+  </div>
+
+  <tr>
+    <td><a href="#House" rel="modal:open">The House (2022)</a></td>
+    <td>Hindi/English</td>
+  </tr>
+  <div id="House" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/6098', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The House (2022) 480p NF WEB-DL (Hindi +English) AAC2.0 x264 MSubs <span class="File">[File_Size: 410MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/6099', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The House (2022) 720p NF WEB-DL (Hindi +English) AAC 5.1 x264 MSubs <span class="File">[File_Size: 668MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/6100', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The House (2022) 720p NF WEB-DL (Hindi +English) DDP5.1 Atmos x264 MSubs <span class="File">[File_Size: 1.9GB]</span></p>
+</div>
+
+  <tr>
+   <td><a href="#House" rel="modal:open">House of Secrets The Burari Deaths <b>S01</b> (2021)</a></td>
+   <td>Hindi/English, Tamil/Telugu</td>
+  </tr>
+  <div id="House" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3760', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> House of Secrets The Burari Deaths (2021) S01 <span class="E">E01_E03</span> 720p NF WEB-DL Multi (Tamil +Telugu +Hindi +English) DDP5.1 Atmos x264 MSubs</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3764', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> House of Secrets The Burari Deaths (2021) S01 <span class="E">E01_E03</span> 480p NF WEB-DL Hindi x264 ESub</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3768', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> House of Secrets The Burari Deaths (2021) S01 <span class="E">E01_E03</span> 720p NF WEB-DL Hindi 5.1 x264 ESub</p>
+  </div>
+  <tr>
+   <td><a href="#Hum" rel="modal:open">Hum Do Hamare Do (2021)</a></td>
+   <td>Hindi</td>
+  </tr>
+  <div id="Hum" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4495', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Hum Do Hamare Do (2021) 480p Hindi HEVC DSNP WEB-DL x265 AAC 2.0 ~ 128Kbps ~ TheDNK <span class="File">[File_Size: 604MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4496', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Hum Do Hamare Do (2021) 720p HEVC Hindi DSNP WEB-DL x265 (DDP5.1 ~ 192Kbps + AAC 2.0) ~ TheDNK <span class="File">[File_Size: 1.1GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4497', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Hum Do Hamare Do (2021) 720p Hindi DSNP WEB-DL x264 (DDP5.1 ~ 192Kbps + AAC 2.0) ~ TheDNK <span class="File">[File_Size: 1.4GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4498', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Hum Do Hamare Do (2021) 1080p HEVC Hindi DSNP WEB-DL x265 DDP5.1 - 192Kbps ~ TheDNK <span class="File">[File_Size: 1.8GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4502', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Hum Do Hamare Do (2021) 480p Hindi DSNP WEB-DL x264 <span class="File">[File_Size: 394MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4515', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Hum Do Hamare Do (2021) HINDI 720p10bit WEBRip 6CH x265 HEVC ESubs ~ Streamion <span class="File">[File_Size: 1GB]</span></p>
+  </div>
+
+  <tr>
+    <td><a href="#Human" rel="modal:open">Human <b>S01</b> (2022)</a></td>
+    <td>Hindi</td>
+  </tr>
+  <div id="Human" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/6018', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Human (2022) S01 <span class="E">E01_E10</span> 720p HEVC WEB-DL Hindi 6CH x265 ESubs</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/6117', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Human (2022) S01 <span class="E">E01_E10</span> 480p WebRip Hindi x264 ESub</p>
+</div>
+
+  <tr>
+   <td><a href="#Hypnotic" rel="modal:open">Hypnotic (2021)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Hypnotic" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4442', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Hypnotic (2021) 480p NF WEB-DL Dual Audio (Hindi+English) x264 Esub <span class="File">[File_Size: 310MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4443', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Hypnotic (2021) 720p NF WEB-DL Dual Audio (Hindi+English) DDP5.1 Atmos x264 MSubs ~ Telly <span class="File">[File_Size: 1.4GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4444', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Hypnotic (2021) 1080p NF WEB-DL Dual Audio (Hindi+English) DDP5.1 Atmos x264 MSubs ~ Telly <span class="File">[File_Size: 1.7GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4445', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Hypnotic (2021) 720p NF WEB-DL Dual Audio (Hindi 5.1 +English 2.0) AAC x264 ESubs <span class="File">[File_Size: 807MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4552', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Hypnotic (2021) 720p10bit HEVC WEBRip NF Hindi Only DDP 2CH x265 ESubs ~ PSA ; DarknesS <span class="File">[File_Size: 401MB]</span></p>
+  </div>
+  `);

@@ -1,0 +1,268 @@
+document.write(`
+<tr>
+   <td><a href="#Death" rel="modal:open">Death Of Me (2020)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Death" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2943', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Death Of Me (2020) BMS 480p BluRay ORG Dual Audio (Hindi +English) x264 ESub <span class="File">[File_Size: 239MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2944', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Death Of Me (2020) BMS 720p HEVC BluRay ORG Dual Audio (Hindi +English) x265 ESub <span class="File">[File_Size: 495MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2945', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Death Of Me (2020) BMS 720p BluRay ORG Dual Audio (Hindi +English) x264 ESub <span class="File">[File_Size: 864MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3147', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Death of Me (2020) BluRay 720p x265 HEVC 10Bit Dual Audio (Hindi 2.0 +English 5.1) AAC ESub <span class="File">[File_Size: 893MB]</span></p>
+  </div>
+
+<tr>
+    <td><a href="#Dan" rel="modal:open">Dan Brown's The Lost Symbol (2021)</a></td>
+    <td>English</td>
+  </tr>
+  <div id="Dan" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5157', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Dan Brown's The Lost Symbol (2021) S01s <span class="E">E01_E10</span> 1080p10bit WEB-DL DDP5.1 x264 Esub</p>
+</div>
+
+  <tr>
+   <td><a href="#Dark" rel="modal:open">Dark Desire <b>S01</b> (2020)</a></td>
+   <td>Hindi/Spanish</td>
+  </tr>
+  <div id="Dark" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2883', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Dark Desire (2020) S01 <span class="E">E01_E18</span> 720p10bit WEB-DL Dual Audio (Hindi DD5.1 +Spanish)HEVC x265 ESubs</p>
+  </div>
+
+<tr>
+    <td><a href="#Darling" rel="modal:open">Darling (2021)</a></td>
+    <td>Marathi</td>
+  </tr>
+  <div id="Darling" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5937', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Darling (2021) 1080p HEVC AMZN WEB-DL Marathi DDP5.1 x265 ESubs ~ Atish <span class="File">[File_Size: 1.9GB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5938', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Darling (2021) 720p HEVC AMZN WEB-DL Marathi DDP5.1 x265 ESubs ~ Atish <span class="File">[File_Size: 843MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5939', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Darling (2021) 480p AMZN WEB-DL Marathi x265 ESubs ~ Atish <span class="File">[File_Size: 421MB]</span></p>
+</div>
+
+  <tr>
+   <td><a href="#Day" rel="modal:open">The Day Shall Come (2021)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Day" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4463', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Day Shall Come (2019) 480p WebRip x264 Dual Audio (Hindi+English) ESub <span class="File">[File_Size: 265MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4464', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Day Shall Come (2019) 720p WebRip Dual Audio (Hindi+English) AAC 5.1 x264 ESub <span class="File">[File_Size: 950MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4465', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Day Shall Come (2019) 1080p10bit WebRip x265 HEVC 10bit Dual Audio (Hindi+English) DDP 5.1 ESub <span class="File">[File_Size: 1.6GB]</span></p>
+  </div>
+
+<tr>
+    <td><a href="#Decoupled" rel="modal:open">Decoupled <b>S01</b> (2021)</a></td>
+    <td>Hindi/English</td>
+  </tr>
+  <div id="Decoupled" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5600', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Decoupled (2021) S01 <span class="E">E01_E08</span> 720p NF WEB-DL Multi (Hindi +English +Tamil +Telugu) AAC2.0 x264 MSubs</p>
+</div>
+
+<tr>
+    <td><a href="#Dhamaka" rel="modal:open">Dhamaka (2021)</a></td>
+    <td>Hindi/English, Tamil/Telugu</td>
+  </tr>
+  <div id="Dhamaka" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5104', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Dhamaka (2021) 480p NF WEB-DL Multi (Hindi +English +Tamil +Telegu) AAC2.0 x264 MSubs <span class="File">[File_Size: 852MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5105', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Dhamaka (2021) 720p NF WEB-DL Dual Audio (Hindi +English) DDP5.1 Atmos x264 MSubs  <span class="File">[File_Size: 1.5GB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5133', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Dhamaka (2021) 1080p10bit NF WEB-DL Hindi DDP5.1 x265 MSubs <span class="File">[File_Size: 1.5GB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5134', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Dhamaka (2021) 720p10bit HEVC Hindi NF WEB-DL AAC2.0 (Hindi+English)Sub ~ DARKNESS <span class="File">[File_Size: 623MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5135', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Dhamaka (2021) 480p Hindi NF WEB-DL x264 ESubs <span class="File">[File_Size: 330MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5136', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Dhamaka (2021) 1080p NF WEB-DL Hindi DD5.1 x264 ESubs <span class="File">[File_Size: 1.9GB]</span></p>
+</div>
+
+  <tr>
+    <td><a href="#Dhuandhaar" rel="modal:open">Dhuandhaar (2021)</a></td>
+    <td>Gujarati</td>
+  </tr>
+  <div id="Dhuandhaar" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/4926', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Dhuandhaar (2021) 480p GUJARATI ShemarooMe WEB-DL x264 ESub <span class="File">[File_Size: 386MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/4927', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Dhuandhaar (2021) 720p GUJARATI AAC2.0 ShemarooMe WEB-DL x264 ESub <span class="File">[File_Size: 1.4GB]</span></p>
+</div>
+
+<tr>
+    <td><a href="#Dickinson" rel="modal:open">Dickinson (2019) </a></td>
+    <td>English</td>
+  </tr>
+  <div id="Dickinson" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5615', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Dickinson (2019) S02 <span class="E">E01_E10</span> 720p ATVP WEBRip x264 ESubs</p>
+</div>
+
+  <tr>
+   <td><a href="#Dikkiloona" rel="modal:open">Dikkiloona (2021)</a></td>
+   <td>Tamil</td>
+  </tr>
+  <div id="Dikkiloona" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2721', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Dikkiloona (2021) Zee5 Tamil HDRip 1080p x265 HEVC ESub [File_Size: 1.3GB]</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2722', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Dikkiloona (2021) Zee5 Tamil 720p HDRip x264 Esub [File_Size: 1.3GB]</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2723', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Dikkiloona (2021) Zee5 Tamil HDRip x264 720p HEVC ESub [File_Size: 760MB]</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2724', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Dikkiloona (2021) Zee5 Tamil HDRip x264 ESub [File_Size: 412MB]</p>
+  </div>
+
+<tr>
+    <td><a href="#Dil" rel="modal:open">Dil Bekaraar <b>S01</b> (2021)</a></td>
+    <td>Hindi, Malayalam/Kannada, Telugu/Marathi/Bengal</td>
+  </tr>
+  <div id="Dil" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5320', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Dil Bekaraar (2021) S01 <span class="E">E01_E10</span> 480p DSNP WEB-DL Multi (Malayalam +Kannada +Telugu +Marathi +Bengali +Hindi) DD+5.1 x264 ESubs</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5331', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Dil Bekaraar (2021) S01 <span class="E">E01_E10</span> 720p DSNP WEB-DL Multi (Malayalam +Kannada +Telugu +Marathi +Bengali +Hindi) DD+5.1 x264 ESubs</p>
+</div>
+
+<tr>
+    <td><a href="#Distant" rel="modal:open">A Distant Place (2021)</a></td>
+    <td>Korean</td>
+  </tr>
+  <div id="Distant" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5285', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> A Distant Place (2021) 720p HEVC AMZN WEB-DL KOREAN DDP2.0 x265 ESubs ~ REVOLT <span class="File">[File_Size: 679MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5286', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> A Distant Place (2021) 1080p HEVC AMZN WEB-DL KOREAN DDP2.0 x265 ESubs ~ REVOLT <span class="File">[File_Size: 1.6GB]</span></p>
+</div>
+
+  <tr>
+   <td><a href="#Dive" rel="modal:open">Dive Club (2021)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Dive" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2380', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Dive Club S01 <span class="E">E01_E12</span> WebRip 720p Dual Audio (Hindi+English) AAC 5.1 x264 MSubs</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2398', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Dive Club S01 <span class="E">E01_E12</span> WebRip Dual Audio (Hindi+English) 480p MSubs</p>
+  </div>
+  <tr>
+   <td><a href="#Doctor" rel="modal:open">Doctor (2021)</a></td>
+   <td>Tamil/Telugu/Malayalam/Kannada</td>
+  </tr>
+  <div id="Doctor" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4664', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> DOCTOR (2021) HQ HDRip - 720p - (AAC 2.0) Multi [Tamil + Telugu + Malayalam + Kannada ] - ESub <span class="File">[File_Size: 1.5GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4665', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> DOCTOR (2021) HQ HDRip - 720p - HEVC - (AAC 2.0) - [Tamil + Telugu +Malayalam +Kannada ] x265 ESub <span class="File">[File_Size: 938MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4663', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Doctor (2021) [Tamil - TRUE-HDRip - x264 - AAC - ESub] <span class="File">[File_Size: 410MB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#breathe" rel="modal:open">Don't Breathe 2 (2021)</a></td>
+   <td>Hindi/English, Tamil/Telugu</td>
+  </tr>
+  <div id="breathe" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2348', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Dont Breathe 2 (2021) English HDRip x264 ESub <span class="File">[File_Size: 402MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2341', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Dont Breathe 2 (2021) 720p WEBRip x264 (no subs) <span class="File">[File_Size: 796MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2346', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Dont Breathe 2 (2021) English HDRip 720p x264 DD5.1 ESub <span class="File">[File_Size: 878MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2343', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Dont Breathe 2 (2021) 1080p WEBRip DD5.1 x264 (no subs) <span class="File">[File_Size: 1.4GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2349', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Dont Breathe 2 (2021) [English 1080p HDRip - x264 - DDP5.1 ESubs] <span class="File">[File_Size: 1.8GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4954', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Don't Breathe 2 (2021) 720p BMS WEB-DL x264 (AAC 5.1 - 320Kbps) Multi [Telugu + Tamil + Hindi + English ] ESubs ~TheDNK <span class="File">[File_Size: 1.9GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4955', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Don't Breathe 2 (2021) Blu-Ray 720p (DD5.1 ~ 192Kbps) Multi [Tamil + Telugu +Hindi + English ] x264 ESubs <span class="File">[File_Size: 1.3GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4956', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Don't Breathe 2 (2021) 480p BluRay Multi (Tamil +Telugu +Hindi +English) x264 ESubs <span class="File">[File_Size: 290MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4957', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Don't Breathe 2 (2021) 720p10bit HEVC BluRay Multi (Tamil +Telugu +Hindi +English) AAC5.1 x265 ESubs <span class="File">[File_Size: 1.3GB]</span></p>
+  </div>
+
+<tr>
+    <td><a href="#Dont" rel="modal:open">Don't Look Up (2021)</a></td>
+    <td>Hindi/English</td>
+  </tr>
+  <div id="Dont" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5675', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Don't Look Up (2021) 480p NF WEB-DL (English +Hindi) AAC2.0 x264 ESubs <span class="File">[File_Size: 649MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5676', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Don't Look Up (2021) 720p NF WEB-DL (English +Hindi) AAC5.1 x264 ESubs <span class="File">[File_Size: 1.6GB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5687', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Don't Look Up (2021) 480p WebRip (Hindi +English) x264 ESub <span class="File">[File_Size: 438MB]</span></p>
+</div>
+
+  <tr>
+   <td><a href="#Do_Re" rel="modal:open">Do Re and Mi (2021)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Do_Re" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3544', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Do Re and Mi (2021) S01 <span class="E">E01_E06</span> AMZN WebRip 720p x265 HEVC 10Bit Dual Audio (Hindi +English) AAC 5.1 MSubs</p>
+  </div>
+
+  <tr>
+    <td><a href="#Dr" rel="modal:open">Dr. Romantic <b>S01 S02</b> (2021)</a></td>
+    <td>Hindi</td>
+  </tr>
+  <div id="Dr" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5793', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Dr. Romantic S01 <span class="E">E01_E21</span> WebRip 720p Hindi AAC 2.0 x264</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5814', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Dr. Romantic S02 <span class="E">E01_E16</span> WebRip 720p Hindi AAC 2.0 x264</p>
+</div>
+
+  <tr>
+   <td><a href="#Dragon" rel="modal:open"><span style="display: none;">Firedrake the Silver Dragon</span>Dragon Rider (2021)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Dragon" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2798', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Firedrake the Silver Dragon a.k.a Dragon Rider (2021) 480p NF HDRip Dual Audio (Hindi +English) x264 MSub [File_Size: 327MB]</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2799', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Firedrake the Silver Dragon a.k.a Dragon Rider (2021) 720p HEVC NF HDRip Dual Audio (Hindi +English) x265 MSub [File_Size: 517MB]</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2800', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Firedrake the Silver Dragon a.k.a Dragon Rider (2021) 720p NF HDRip Dual Audio (Hindi +English) x264 MSub [File_Size: 900MB]</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2806', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Firedrake the Silver Dragon a.k.a Dragon Rider (2020) NF BluRay 720p x265 HEVC 10bit Hindi English 5.1 ESub [File_Size: 1GB]</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2791', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Firedrake the Silver Dragon a.k.a Dragon Rider (2021) 720p NF WEB-DL Dual Audio (Hindi +English) DD5.1 x264 [File_Size: 1.6GB]</p>
+  </div>
+
+<tr>
+    <td><a href="#Drushyam" rel="modal:open">Drushyam 2 (2021)</a></td>
+    <td>Telugu</td>
+  </tr>
+  <div id="Drushyam" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5263', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Drushyam 2 (2021) 720p HEVC AMZN WEB-DL Telugu (AAC 2.0 ~ 128Kbps) x265 ESubs ~ TheDNK <span class="File">[File_Size: 687MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5264', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Drushyam 2 (2021) 720p HEVC AMZN WEB-DL Telugu (DDP5.1 ~ 192Kbps & AAC 2.0) x265 ESubs ~ TheDNK <span class="File">[File_Size: 828MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5265', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Drushyam 2 (2021) 1080p HEVC AMZN WEB-DL Telugu (DDP5.1 ~ 192Kbps & AAC 2.0) x265 ESubs ~ TheDNK <span class="File">[File_Size: 1.6GB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5266', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Drushyam 2 (2021) Telugu AMZN HQ HDRip MP3 x264 ESubs <span class="File">[File_Size: 407MB]</span></p>
+</div>
+
+  <tr>
+   <td><a href="#Dry" rel="modal:open">The Dry (2020)</a></td>
+   <td>English</td>
+  </tr>
+  <div id="Dry" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3167', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Dry (2020) 720p10bit BluRay 6CH x265 HEVC ESubs <span class="File">[File_Size: 834MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3168', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Dry (2020) 1080p10bit BluRay 6CH x265 HEVC ESubs <span class="File">[File_Size: 1.7GB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Dug" rel="modal:open">Dug Days <b>S01</b> (2021)</a></td>
+   <td>English</td>
+  </tr>
+  <div id="Dug" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2278', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Dug Days S01E01 (2021) Squirrel 720p10bit WEBRip 2CH x265 HEVC ESubs</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2279', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Dug Days (2021) S01E02 Puppies 720p10bit WEBRip 2CH x265 ESubs</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2280', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Dug Days (2021) S01E03 Flowers 720p10bit WEBRip 2CH x265 ESubs</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2281', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Dug Days (2021) S01E04 Smell 720p10bit WEBRip 2CH x265 ESubs</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2282', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Dug Days (2021) S01E05 Science 720p10bit WEBRip 2CH x265 ESubs</p>
+  </div>
+
+  <tr>
+   <td><a href="#DUNE" rel="modal:open">DUNE (2021)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="DUNE" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4218', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Dune (2021) 720p HMAX WEBRip x264 ESub <span class="File">[File_Size: 897MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4219', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Dune (2021) 1080p HMAX WEBRip DD5.1 x264 ESubs <span class="File">[File_Size: 1.6GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4270', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Dune (2021) 720p10bit WEBRip 6CH x265 HEVC ESubs ~ PSA <span class="File">[File_Size: 776MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4310', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Dune (2021) 720p10bit HEVC WEBRip x265 Dual Audio (Hindi Cam Cleaned 2.0 +English 5.1) ESubs <span class="File">[File_Size: 995MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/5374', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Dune (2021) 480p HMAX WEB-DL Dual Audio (Hindi +English) x264 ESubs  <span class="File">[File_Size: 342MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/5375', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Dune (2021) 720p10bit HEVC HMAX WEB-DL Dual Audio (Hindi 5.1 +English) AAC x265 ESubs  <span class="File">[File_Size: 904MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/5376', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Dune (2021) 720p HMAX WEB-DL Dual Audio (Hindi +English) AAC 5.1 x264 ESubs  <span class="File">[File_Size: 1.6GB]</span></p>
+  </div>
+
+  <tr>
+   <td><a href="#Dybbuk" rel="modal:open">Dybbuk (2021)</a></td>
+   <td>Hindi</td>
+  </tr>
+  <div id="Dybbuk" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4489', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Dybbuk (2021) 720p Hindi AMZN WEB-DL x265 DDP5.1 HEVC (Hindi +English) Sub ~ SPECT3R <span class="File">[File_Size: 1.5GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4490', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Dybbuk (2021) 720p Hindi AMZN WEB-DL x265 DDP5.1 HEVC ESubs Note - less height <span class="File">[File_Size: 1GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4491', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Dybbuk (2021) 480p Hindi AMZN HQ HDRip x264 ESub <span class="File">[File_Size: 400MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4492', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Dybbuk (2021) 1080p Hindi AMZN HDRip (DD5.1 ~ 192Kbps +AAC 2.0) ESub <span class="File">[File_Size: 1.7GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4493', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Dybbuk (2021) 720p HEVC AMZN Hindi HDRip (DD5.1 ~ 192Kbps +AAC 2.0) ESub <span class="File">[File_Size: 757MB]</span></p>
+  </div>
+`);

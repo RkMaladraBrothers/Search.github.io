@@ -1,0 +1,372 @@
+document.write(`
+  <tr>
+   <td><a href="#Call" rel="modal:open">Call My Agent Bollywood (2021)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Call" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4534', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Call My Agent Bollywood (2021) S01 <span class="E">E01_E06</span> NF WebRip 720p Dual Audio (Hindi+English) AAC 5.1 x264 MSubs</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4542', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Call My Agent Bollywood (2021) S01 <span class="E">E01_E06</span> NF 480p WebRip Dual Audio (Hindi+English) x264 MSubs</p>
+  </div>
+
+  <tr>
+    <td><a href="#Campus" rel="modal:open">Campus Diaries <b>S01</b> (2022)</a></td>
+    <td>Hindi</td>
+  </tr>
+  <div id="Campus" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5845', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Campus Diaries (2022) S01 <span class="E">E01_E12</span> 720p WebRip Hindi AAC 2.0 x264 ESub</p>
+</div>
+
+  <tr>
+   <td><a href="#Candy" rel="modal:open">Candy <b>S01</b> (2021)</a></td>
+   <td>Hindi</td>
+  </tr>
+  <div id="Candy" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3857', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Candy (2021) S01 <span class="E">E01_E08</span> Hindi Voot 720p WEB-DL x264 AAC 5.1CH ESubs</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3866', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Candy (2021) Voot 480p HEVC HDRip Hindi S01 Complete All In One x265 ESub <span class="File">[File_Size: 884MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3868', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Candy (2021)Voot 720p HEVC HDRip Hindi S01 Complete All In One x265 ESub <span class="File">[File_Size: 1.8GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3870', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Candy (2021) S01 <span class="E">E01_E08</span> Hindi 480p WEB-DL x264 AAC ESubs</p>
+  </div>
+  <tr>
+   <td><a href="#Candyman" rel="modal:open">Candyman (2021)</a></td>
+   <td>English</td>
+  </tr>
+  <div id="Candyman" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2950', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Candyman (2021) 480p WEB-DL English x264 ESub <span class="File">[File_Size: 260MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2951', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Candyman (2021) 1080p WEB-DL x264 English DD5.1 ESub <span class="File">[File_Size: 1.7GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2952', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Candyman (2021) 720p WEBRip 2CH x265 HEVC ESub <span class="File">[File_Size: 515MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2953', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Candyman (2021) 1080p WEBRip 6CH x265 HEVC ESub <span class="File">[File_Size: 1.2GB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Counter" rel="modal:open">The Card Counter (2021)</a></td>
+   <td>English</td>
+  </tr>
+  <div id="Counter" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3609', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Card Counter (2021) 720p WEBRip 2CH x265 HEVC ESubs <span class="File">[File_Size: 770MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3645', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Card Counter (2021) 1080p WEBRip 2CH x265 HEVC ESubs <span class="File">[File_Size: 1.9GB]</span></p>
+  </div>
+
+<tr>
+    <td><a href="#Cash" rel="modal:open">Cash (2021)</a></td>
+    <td>Hindi</td>
+  </tr>
+  <div id="Cash" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5092', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Cash (2021) 720p DSNP WEB-DL x264 Hindi (DD+ 5.1 - 192Kbps & AAC 2.0) ESubs ~ TheDNK <span class="File">[File_Size: 1.3GB]</span></p>
+<p class="Box" onclick="window.open('https://t.me/c/1501644510/5093', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Cash (2021) 1080p DSNP WEB-DL x265 Hindi (DD+ 5.1 - 192Kbps & AAC 2.0) ESubs ~ TheDNK <span class="File">[File_Size: 1.7GB]</span></p>
+<p class="Box" onclick="window.open('https://t.me/c/1501644510/5100', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Cash (2021) 480p DSNP Hindi WEB-DL x264 ESubs <span class="File">[File_Size: 382MB]</span></p>
+<p class="Box" onclick="window.open('https://t.me/c/1501644510/5102', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Cash (2021) 720p HEVC DSNP HDRip Hindi x265 ESubs <span class="File">[File_Size: 617MB]</span></p>
+</div>
+
+  <tr>
+   <td><a href="#Catching" rel="modal:open">Catching Killers (2021)</a></td>
+   <td>English</td>
+  </tr>
+  <div id="Catching" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4659', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Catching Killers (2021) S01 <span class="E">E01_E04</span> 720p NF WEB-DL ENGLISH DDP5.1 x264 ESub ~ REVOLT</p>
+  </div>
+  <tr>
+   <td><a href="#Cinderella" rel="modal:open">Cinderella (2021)</a></td>
+   <td>English</td>
+  </tr>
+  <div id="Cinderella" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2336', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Cinderella (2021) 720p AMZN WEBRip x264 MSubs [File_Size: 801MB]</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2337', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Cinderella (2021) 1080p AMZN WEBRip DD5.1 x264 MSubs</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2392', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Cinderella (2021) 720p.10bit WEBRip 6CH x265 HEVC ESubs [File_Size: 971MB]</p>
+  </div>
+
+  <tr>
+   <td><a href="#cinderella" rel="modal:open">Cinderella (2021)</a></td>
+   <td>Tamil</td>
+  </tr>
+  <div id="cinderella" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4458', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Cinderella (2021) 480p Tamil TRUE- HDRip x264 ESub <span class="File">[File_Size: 406MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4459', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Cinderella (2021) 720p Tamil TRUE- HDRip HEVC x265 (HE-AAC 2.0 +DD5.1 ~192kbps) Esub <span class="File">[File_Size: 799MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4460', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Cinderella (2021) 720p Tamil TRUE- HDRip x264 (HE-AAC 2.0 +DD5.1 ~192kbps) ESub <span class="File">[File_Size: 1.4GB]</span></p>
+  </div>
+
+<tr>
+    <td><a href="#Cinemaa" rel="modal:open">Cinemaa Zindabad (2021)</a></td>
+    <td>Hindi</td>
+  </tr>
+  <div id="Cinemaa" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('Cinemaa Zindabad (2022) 480p WebRip Hindi x264', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Cinemaa Zindabad (2022) 480p WebRip Hindi x264 <span class="File">[File_Size: 329MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5919', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Cinemaa Zindabad (2022) 720p WebRip Hindi AAC 2.0 x264 <span class="File">[File_Size: 1.1GB]</span></p>
+</div>
+
+<tr>
+    <td><a href="#Chandigarh" rel="modal:open">Chandigarh Kare Aashiqui (2021)</a></td>
+    <td>Hindi</td>
+  </tr>
+  <div id="Chandigarh" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5831', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Chandigarh Kare Aashiqui (2021) 720p 10bit HEVC NF WEBRip Hindi AAC 5.1 x265 ESub <span class="File">[File_Size: 977MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5839', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Chandigarh Kare Aashiqui (2021) 720p NF WEB-DL Hindi AAC2.0 x264 ESubs <span class="File">[File_Size: 1.8GB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5840', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Chandigarh Kare Aashiqui (2021) 480p NF WEB-DL Hindi AAC2.0 x264 ESubs <span class="File">[File_Size: 541MB]</span></p>
+</div>
+
+  <tr>
+    <td><a href="#Check" rel="modal:open">Check (2021)</a></td>
+    <td>Hindi</td>
+  </tr>
+  <div id="Check" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5920', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Check (2021) 480p SONY WEB-DL HINDI AAC2.0 x264 <span class="File">[File_Size: 605MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5921', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Check (2021) 720p SONY WEB-DL HINDI AAC2.0 x264 <span class="File">[File_Size: 1.2GB]</span></p>
+</div>
+
+  <tr>
+   <td><a href="#Chehre" rel="modal:open">Chehre (2021)</a></td>
+   <td>Hindi</td>
+  </tr>
+  <div id="Chehre" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2870', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Chehre (2021) PreDvd Hindi 480p <span class="File">[File_Size: 401MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2869', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Chehre (2021) 720p CAMRip HINDI (ads included) <span class="File">[File_Size: 1GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3612', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Chehre (2021) 720p AMZN Hindi WEB-DL x265 DDP5.1 HEVC ESub <span class="File">[File_Size: 1.6GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3613', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Chehre (2021) 720p AMZN WEB-DL x265 DDP.5.1 Hindi ESubs <span class="File">[File_Size: 1.2GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3614', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Chehre (2021) 720p AMZN WEB-DL x265 DD+5.1 Hindi ESubs <span class="File">[File_Size: 768MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3615', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Chehre (2021) 480p AMZN WEB-DL x265 AAC 2.0 Hindi ESub <span class="File">[File_Size: 292MB]</span></p>
+  </div>
+
+  <tr>
+   <td><a href="#Chestnut" rel="modal:open">The Chestnut Man <b>S01</b> (2021)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Chestnut" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3518', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Chestnut Man (2021) S01 <span class="E">E01_E06</span> WebRip Dual Audio (Hindi +English) 480p MSubs</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3532', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Chestnut Man (2021) S01 <span class="E">E01_E06</span> NF WebRip 720p Dual Audio (Hindi +English) AAC 5.1 x264 MSubs</p>
+  </div>
+
+<tr>
+    <td><a href="#Chhorii" rel="modal:open">Chhorii (2021)</a></td>
+    <td>Hindi</td>
+  </tr>
+  <div id="Chhorii" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5295', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Chhorii (2021) 720p AMZN HEVC WEB-DL Hindi (DD+ 5.1 - 192Kbps & AAC 2.0) x265 ESubs ~ TheDNK <span class="File">[File_Size: 722MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5296', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Chhorii (2021) 1080p HEVC AMZN WEB-DL Hindi (DDP5.1 - 192Kbps & AAC 2.0) x265 ESubs ~ TheDNK <span class="File">[File_Size: 1.4GB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5310', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Chhorii (2021) 480p AMZN WEB-DL Hindi AAC2.0 x264 ESubs <span class="File">[File_Size: 389MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5311', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Chhorii (2021) 720p HEVC AMZN WEB-DL Hindi AAC2.0 x265 ESubs <span class="File">[File_Size: 605MB]</span></p>
+</div>
+
+<tr>
+    <td><a href="#Christmas" rel="modal:open">8-Bit Christmas (2021)</a></td>
+    <td>English</td>
+  </tr>
+  <div id="Christmas" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5271', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> 8-Bit Christmas (2021) 720p10bit HEVC HMAX WEBRip 6CH x265 ESubs <span class="File">[File_Size: 667MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5272', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> 8-Bit Christmas (2021) 1080p10bit HEVC HMAX WEBRip 6CH x265 ESubs <span class="File">[File_Size: 1.2GB]</span></p>
+</div>
+
+  <tr>
+   <td><a href="#Chumbak" rel="modal:open">Chumbak (2021)</a></td>
+   <td>Hindi/Malayalam, Telugu/Tamil/Kannada, Marathi/Bengali</td>
+  </tr>
+  <div id="Chumbak" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4857', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Chumbak (2018) 720p SONYLIV WEB-DL x264 (AAC 2.0) [Telugu + Tamil + Malayalam + Kannada + Marathi Org. + Bengali ] ESubs ~ TheDNK
+    'critically acclaimed national awardee <span class="File">[File_Size: 1GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/5194', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Chumbak (2018) 720p SONYLIV WEB-DL Multi [Telugu + Tamil + Hindi + Malayalam + Kannada + Marathi + Bengali ] AAC2.0 x264 ESubs ~ TheDNK <span class="File">[File_Size: 1GB]</span></p>
+  </div>
+
+<tr>
+    <td><a href="#Churuli" rel="modal:open">Churuli (2021)</a></td>
+    <td>Malayalam</td>
+  </tr>
+  <div id="Churuli" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5078', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Churuli (2021) Malayalam - HQ HDRip - x264 - AAC - ESub <span class="File">[File_Size: 398MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5079', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Churuli (2021) Malayalam 720p HQ HDRip HEVC  x265 AAC ESub <span class="File">[File_Size: 693MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5080', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Churuli (2021) Malayalam 720p HQ HDRip x264 AAC ESub <span class="File">[File_Size: 1.3GB]</span></p>
+</div>
+
+<tr>
+    <td><a href="#City" rel="modal:open">City of Dreams <b>S02</b> (2021)</a></td>
+    <td>Hindi</td>
+  </tr>
+  <div id="City" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/4993', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> City of Dreams S02 <span class="E">E01_E10</span> WebRip 720p Hindi AAC 5.1 x264 ESub .mkv</p>
+</div>
+
+  <tr>
+   <td><a href="#CLASS" rel="modal:open">CLASS OF 2020 (2020)</a></td>
+   <td>Hindi</td>
+  </tr>
+  <div id="CLASS" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3777', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> CLASS OF 2020 (2020) <span class="E">E01_E32</span> WebRip Hindi 720p x264</p>
+  </div>
+
+  <tr>
+    <td><a href="#Cobra" rel="modal:open">Cobra Kai (2021)</a></td>
+    <td>Hindi/English</td>
+  </tr>
+  <div id="Cobra" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5741', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Cobra Kai (2021) S04 <span class="E">E01_E10</span> Begin 720p NF WEB-DL x264 (DD+ 5.1 - 192Kbps) [Hindi + English] MSub ~ TheDNK</p>
+</div>
+
+  <tr>
+   <td><a href="#College" rel="modal:open">College Romance <b>S02</b> (2021)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="College" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3714', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> College Romance (2021) S02 Complete WebRip ×265 HEVC 480p Hindi (ESub) <span class="File">[File_Size: 475MB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Colony" rel="modal:open">The Colony (2021) <span style="display: none;">Tides</span></a></td>
+   <td>English</td>
+  </tr>
+  <div id="Colony" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4461', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Colony a.k.a Tides (2021) 720p10bit BluRay 6CH x265 HEVC ESubs ~ PSA <span class="File">[File_Size: 641MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4462', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Colony a.k.a Tides (2021) 1080p10bit BluRay 6CH x265 HEVC ESubs ~ PSA <span class="File">[File_Size: 1.4GB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#colony" rel="modal:open">The Colony (2015) <span style="display: none;">Colonia</span></a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="colony" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/5061', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Colonia a.k.a The Colony (2015) 480p BluRay Dual Audio (Hindi +English) x264 ESub <span class="File">[File_Size: 333MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/5062', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Colonia a.k.a The Colony (2015) 720p BluRay Dual Audio (Hindi +English) AAC5.1 x264 ESub <span class="File">[File_Size: 1.1GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/5063', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Colonia a.k.a The Colony (2015) 720p10bit BluRay HEVC Dual Audio [Org NF Hindi DDP5.1 ~ 640Kbps + English AAC 5.1] x265 ESub <span class="File">[File_Size: 1.3GB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#coma" rel="modal:open">Coma (2020)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="coma" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4202', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Coma (2020) BluRay ×264 720p ORG [Hindi + English], (ESub) <span class="File">[File_Size: 981MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4203', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Coma (2019) Dual Audio [Hindi + English] 480p BluRay x264 ESubs <span class="File">[File_Size: 336MB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Confessions" rel="modal:open">Confessions of an Invisible Girl (2021)</a></td>
+   <td>PORTUGUESE</td>
+  </tr>
+  <div id="Confessions" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4562', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Confessions of an Invisible Girl a.k.a Confissões de uma Garota Excluída (2021) 480p BRAZILIAN PORTUGUESE NF WEBRip x264 ESubs <span class="File">[File_Size: 274MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4563', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Confessions of an Invisible Girl a.k.a Confissões de uma Garota Excluída (2021) 720p10bit BRAZILIAN PORTUGUESE NF WEBRip AAC 5.1 HEVC x265 ESubs <span class="File">[File_Size: 656MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4564', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Confessions of an Invisible Girl a.k.a Confissões de uma Garota Excluída (2021) 1080p10bit BRAZILIAN PORTUGUESE NF WEBRip AAC 5.1 HEVC x265 ESubs <span class="File">[File_Size: 1.4GB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Conjuring" rel="modal:open">The Conjuring - The Devil Made Me Do It (2021)</a></td>
+   <td>Hindi/English, Tamil/Telugu</td>
+  </tr>
+  <div id="Conjuring" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3412', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Conjuring - The Devil Made Me Do It (2021) Blu-Ray - 720p - (DD2.0 - 192Kbps) [Tamil + Telugu +Hindi + English DDP5.1] - ESubs <span class="File">[File_Size: 1.5GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3410', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Conjuring - The Devil Made Me Do It (2021) [BDRip - Org Auds - [Tamil + Telugu + Hindi] - x264 - ESubs] <span class="File">[File_Size: 719MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3413', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Conjuring - The Devil Made Me Do It (2021) 720p BluRay ORG Dual Audio Hindi English x264 ESub <span class="File">[File_Size: 1GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3414', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Conjuring - The Devil Made Me Do It 480p BluRay ORG Dual Audio Hindi English x264 ESub <span class="File">[File_Size: 392MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3415', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Conjuring - The Devil Made Me Do It 720p HEVC BluRay ORG Dual Audio Hindi English x265 ESub <span class="File">[File_Size: 632MB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Convergence" rel="modal:open">Convergence Courage in a Crisis (2021)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Convergence" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3912', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Convergence Courage in a Crisis (2021) 480p NF WEB-DL Dual Audio (English +Hindi) x264 MSubs <span class="File">[File_Size: 610MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3913', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Convergence Courage in a Crisis (2021) 720p NF WEB-DL Dual Audio (English +Hindi) AAC 5.1 x264 MSubs <span class="File">[File_Size: 1.7MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3937', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Convergence Courage in a Crisis (2021) NF WebRip 720p x265 10Bit Dual Audio (Hindi +English) 5.1 MSubs <span class="File">[File_Size: 957MB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Copshop" rel="modal:open">Copshop (2021)</a></td>
+   <td>English</td>
+  </tr>
+  <div id="Copshop" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4069', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Copshop (2021) 720p WEBRip 2CH x265 HEVC ESubs <span class="File">[File_Size: 696MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4073', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Copshop (2021) 1080p WEBRip 6CH x265 HEVC ESubs <span class="File">[File_Size: 1.6GB]</span></p>
+  </div>
+
+  <tr>
+   <td><a href="#Courier" rel="modal:open">The Courier (2021)</a></td>
+   <td>English</td>
+  </tr>
+  <div id="Courier" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2292', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Courier (2021) 720p WEBRip 800MB x264 ESubs .mkv</p>
+  </div>
+
+  <tr>
+   <td><a href="#Confessions" rel="modal:open">Crimes and Confessions <b>S01</b> (2021)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Confessions" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3070', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Crimes and Confessions S01 <span class="E">E01_E06</span> 720p ALT WEB-DL AAC2.0 x265 HEVC.mkv</p>
+  </div>
+
+<tr>
+    <td><a href="#Cowboy" rel="modal:open">Cowboy Bebop (2021)</a></td>
+    <td>Hindi/English</td>
+  </tr>
+  <div id="Cowboy" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5123', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Cowboy Bebop (2021) S01 <span class="E">E01_E10</span> 720p NF WEB-DL Dual Audio (Hindi +English) DDP5.1 Atmos x264 MSubs</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5173', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Cowboy Bebop (2021) S01 <span class="E">E01_E10</span>480p NF WEB-DL Dual Audio (Hindi +English) x264 ESubs</p>
+  </div>
+
+  <tr>
+   <td><a href="#Crime_Stories" rel="modal:open">Crime Stories India Detectives <b>S01</b> (2021)</a></td>
+   <td>Hindi/English, Tamil/Telugu/Kannada</td>
+  </tr>
+  <div id="Crime_Stories" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3231', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Crime Stories India Detectives (2021) NF S01 <span class="E">E01_E04</span> Hindi 720p WEB-DL ESub</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3236', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Crime Stories - India Detectives (2021) S01 <span class="E">E01_E04</span> 720p NF HDRipx264 Multi (Tamil +Telugu +Hindi) ESub</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3241', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Crime Stories - India Detectives (2021) S01 <span class="E">E01_E04</span> 480p NF HDRipx264 Multi (Tamil +Telugu +Hindi ) ESub</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3246', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Crime Stories India Detectives (2021) S01 <span class="E">E01_E04</span> 1080p NF WEB-DL x264 Hindi DD5.1 ESub</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3285', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Crime Stories - India Detectives (2021) S01 <span class="E">E01_E04</span> 480p NF HDRip Multi (Tamil +Telugu +Kannada +Hindi + English) ESubs</p>
+  </div>
+  <tr>
+   <td><a href="#Croods" rel="modal:open">The Croods 2 A New Age (2020)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Croods" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4154', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Croods 2 A New Age (2020) 480p BluRay x264 Dual Audio (Hindi Cam +English) ESubs <span class="File">[File_Size: 344MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4155', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Croods 2 A New Age (2020) 720p10bit HEVC BluRay x265 Dual Audio (Hindi Cam +English) ESubs <span class="File">[File_Size: 721MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4156', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Croods 2 A New Age (2020) 1080p BluRay x264 Dual Audio (Hindi Cam +English 5.1 ) ESubs <span class="File">[File_Size: 1.9GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4896', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Croods 2 A New Age(2020) 480p BluRay Dual Audio (Hindi +English) x264 ESubs <span class="File">[File_Size: 305MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4897', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Croods 2 A New Age(2020) 720p BluRay Dual Audio (Hindi +English) x264 ESubs <span class="File">[File_Size: 1GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4900', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Croods 2 A New Age(2020) 720p10bit HEVC BluRay Dual Audio (Hindi +English) x264 ESubs <span class="File">[File_Size: 713MB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Cry" rel="modal:open">Cry Macho (2021)</a></td>
+   <td>English</td>
+  </tr>
+  <div id="Cry" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3023', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Cry Macho (2021) 720p HMAX WEBRip x264 ESub <span class="File">[File_Size: 793MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3024', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Cry Macho (2021) 1080p HMAX WEBRip DD5.1 x264 ESubs <span class="File">[File_Size: 1.4GB]</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3035', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Cry Macho (2021) HMAX 720p10bit WEBRip 6CH x265 HEVC ESubs <span class="File">[File_Size: 685MB]</p>
+  </div>
+
+  <tr>
+    <td><a href="#Cubicles" rel="modal:open">Cubicles <b>S02</b> (2022)</a></td>
+    <td>Hindi</td>
+  </tr>
+  <div id="Cubicles" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5903', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Cubicles (2022) S02 <span class="E">E01_E05</span> 480p WebRip Hindi x264 ESub</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5909', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Cubicles (2022) S02 <span class="E">E01_E05</span> 720p WebRip Hindi AAC2.0 x264 ESub</p>
+</div>
+`);

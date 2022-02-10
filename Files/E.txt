@@ -1,0 +1,141 @@
+document.write(`
+<tr>
+   <td><a href="#Begum" rel="modal:open">Ek Thi Begum <b>S02</b> (2021)</a></td>
+   <td>&nbsp;&nbsp;&nbsp;Hindi</td>
+  </tr>
+  <div id="Begum" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3551', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Ek Thi Begum (2021) S02 <span class="E">E01_E12</span> Hindi 720p MX HDRip x264 ESub</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3564', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Ek Thi Begum (2021) S02 <span class="E">E01_E12</span> MX WebRip Hindi 480p ESub</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3577', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Ek Thi Begum (2021) S02 <span class="E">E01_E12</span> Re-Birth 1080p MX WEB-DL AAC2.0 x265 ESub</p>
+  </div>
+  <tr>
+   <td><a href="#Electrical" rel="modal:open">The Electrical Life Of Louis Wain (2021)</a></td>
+   <td>English</td>
+  </tr>
+  <div id="Electrical" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4741', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Electrical Life Of Louis Wain (2021) 480p ENGLISH WebRip x264 ESubs <span class="File">[File_Size: 333MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4742', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Electrical Life Of Louis Wain (2021) 720p10bit ENGLISH WEBRip 6CH x265 HEVC ESubs <span class="File">[File_Size: 891MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4743', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Electrical Life Of Louis Wain (2021) 1080p10bit ENGLISH WEBRip 6CH x265 HEVC ESubs <span class="File">[File_Size: 1.8GB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Elite" rel="modal:open">Elite (2021)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Elite" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4261', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Elite S04 <span class="E">E01_E08</span> 720p10bit WEB-DL Dual Audio (Hindi 5.1+English) HEVCx265 ESubs</p>
+  </div>
+
+<tr>
+    <td><a href="#Elite1" rel="modal:open">Elite Short Stories <b>S01</b> (2021)</a></td>
+    <td>Hindi/English</td>
+  </tr>
+  <div id="Elite1" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5732', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Elite Short Stories Phillipe Caye Felipe (2021) S01 <span class="E">E01_E03</span> NF WebRip 720p (Hindi + English) AAC 5.1 x264 MSubs</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5735', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Elite Short Stories Samuel Omar (2021) S01 <span class="E">E01_E03</span> NF WebRip 720p ( Hindi + English) AAC 5.1 x264 MSubs</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5738', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Elite Short Stories Patrick (2021) S01 <span class="E">E01_E</span> NF WebRip 720p ( Hindi + English) AAC 5.1 x264 MSubs</p>
+</div>
+
+<tr>
+    <td><a href="#Emily" rel="modal:open">Emily in Paris <b>S02</b> (2021)</a></td>
+    <td>Hindi/English</td>
+  </tr>
+  <div id="Emily" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5648', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Emily in Paris (2021) S02 <span class="E">E01_E10</span> 720p NF WEBRip x265 HEVC [Org Hindi DDP5.1 ~ 640Kbps + English AAC 2.0] Esub ~ PSA</p>
+</div>
+
+<tr>
+    <td><a href="#Encanto" rel="modal:open">Encanto (2021)</a></td>
+    <td>Hindi/English, Telugu/Tamil</td>
+  </tr>
+  <div id="Encanto" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5666', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Encanto (2021) 720p DSNP WEB-DL [Telugu + Tamil + Hindi + English ] (DD+ 5.1 - 192Kbps) x264 MSub ~ TheDNK <span class="File">[File_Size: 1.5GB]</span></p>
+</div>
+
+<tr>
+    <td><a href="#Enemy" rel="modal:open">Enemy (2021)</a></td>
+    <td>Tamil</td>
+  </tr>
+  <div id="Enemy" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/4848', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Enemy (2021) Tamil 720p V2 HQ REAL Proper PreDVDRip AAC x264 <span class="File">[File_Size: 1.5GB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/4849', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Enemy (2021) Tamil V2 HQ REAL Proper PreDVDRip XviD MP3 Original Audio <span class="File">[File_Size: 759MB]</span></p>
+</div>
+
+  <tr>
+   <td><a href="#Escape" rel="modal:open">Escape Room Tournament of Champions (2021)</a></td>
+   <td>English</td>
+  </tr>
+  <div id="Escape" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2536', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Escape Room Tournament of Champions (2021) English 480p WEB-DL x264 ESubs</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2535', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Escape Room Tournament of Champions (2021) English 720p x264 WEB-DL DD5.1 ESub [File_Size: 992MB]</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2537', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Escape Room Tournament of Champions (2021) English 720p WEB-DL x264 ESubs [File_Size: 829MB]</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2684', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Escape Room Tournament of Champions (2021) 720p WEB-DL x265 10bit ESubs [File_Size: 590MB]</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2548', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Escape Room Tournament of Champions (2021) English 1080p WEB-HD x264 ESubs</p>
+  </div>
+  <tr>
+   <td><a href="#Escape1" rel="modal:open">Escape The Undertaker (2021)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Escape1" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3709', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Escape The Undertaker (2021) NF WEB-DL 720p Dual Audio (Hindi +English) DD+5.1 H.264 ESubs <span class="File">[File_Size: 1.9GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3710', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Escape The Undertaker (2021) NF WEB-DL 480p Dual Audio (Hindi +English) H.264 ESubs <span class="File">[File_Size: 652MB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Eternals" rel="modal:open">Eternals (2021)</a></td>
+   <td>Hindi/English/Kannada, Malayalam/Tamil/Telugu</td>
+  </tr>
+  <div id="Eternals" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4673', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Eternals (2021) 480p CAMRip Dual Audio [Hindi+English] x264 <span class="File">[File_Size: 472MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4674', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Eternals (2021) 720p CAMRip Dual Audio [Hindi+English] x264 <span class="File">[File_Size: 1.3GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4901', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Eternals (2021) 480p CAMRip Version 2 Dual Audio (Hindi +English) x264 <span class="File">[File_Size: 462MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4902', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Eternals (2021) 720p CAMRip Version 2 Dual Audio (Hindi +English) x264 <span class="File">[File_Size: 1.3GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/5930', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Eternals (2021) 720p WEBRip ENGLISH x264 <span class="File">[File_Size: 897MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/5931', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Eternals (2021) 1080p WEBRip English DD5.1 x264 <span class="File">[File_Size: 1.6GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/5932', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Eternals (2021) 720p10bit HEVC WEBRip ENGLISH 6CH x265 ESubs <span class="File">[File_Size: 1GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/5942', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Eternals (2021) 720p 10bit iTunes WEBRip x265 HEVC [Org DSNP HINDI DDP 5.1 ~192Kbps + ENGLISH DDP 5.1] <span class="File">[File_Size: 1.1GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/5944', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Eternals (2021) 720p DSNP WEB-DL Multi (Hindi +English +Kannada +Malayalam +Tamil +Telugu) AAC2.0 x264 ESubs <span class="File">[File_Size: 1.7GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/5945', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Eternals (2021) 480p WEB-DL ( Hindi +English) x264 ESubs <span class="File">[File_Size: 520MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/5946', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Eternals (2021) 720p HEVC WEB-DL ( Hindi +English) AAC2.0 x265 ESubs <span class="File">[File_Size: 886MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/5949', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Eternals (2021) IMAX 720p WEB-DL  [DDP5.1 Hindi + DDP5.1 English] x264 MSubs (GalaxyRG~UHDMovies) <span class="File">[File_Size: 1.1GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/5950', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Eternals (2021)  720p WEB-DL 10bit HEVC [DDP 5.1 Hindi + DDP 5.1 English] x265 Msubs (PSA~UHDMovies) <span class="File">[File_Size: 1.2GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/5951', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Eternals (2021) 480p IMAX WEB-DL (Hindi +English) 2CH x264 MSubs <span class="File">[File_Size: 501MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/5952', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Eternals (2021) 720p IMAX WEB-DL (Hindi +English) 2CH x264 MSubs <span class="File">[File_Size: 1.4GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/5953', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Eternals (2021) 720p IMAX WEBRip x265 10bit [Hindi (Org DSNP DD+ 5.1 - 192Kbps) + English] ESubs ~TheDNK <span class="File">[File_Size: 1.4GB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Jamie" rel="modal:open">Everybodys Talking About Jamie (2021)</a></td>
+   <td>Hindi/English, Tamil/Telugu</td>
+  </tr>
+  <div id="Jamie" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2993', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Everybody's Talking About Jamie (2021) AMZN HDRip x264 Multi [Tamil +Telugu +Hindi ] ESub [File_Size: 480MB]</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2966', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Everybody's Talking About Jamie (2021) 720p AMZN WEB-DL x265 DD5.1 Multi [Telugu + Tamil + Hindi + English] MSub [File_Size: 1.2Gb]</p>
+  </div>
+  <tr>
+   <td><a href="#Every" rel="modal:open">Every Last One of Them (2021)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Every" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4364', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Every Last One of Them (2021) 720p WEBRip ENGLISH 2CH x265 HEVC ESubs <span class="File">[File_Size: 621MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4412', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Every Last One of Them (2021) 1080p10bit WEBRip x265 HEVC AAC5.1 Esub ~ RARBG <span class="File">[File_Size: 1.3GB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Eyes" rel="modal:open">The Eyes of Tammy Faye (2021)</a></td>
+   <td>English</td>
+  </tr>
+  <div id="Eyes" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4745', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Eyes of Tammy Faye (2021) 480p ENGLISH WebRip x264 ESubs <span class="File">[File_Size: 450MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4746', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Eyes of Tammy Faye (2021) 720p ENGLISH WebRip x264 ESubs <span class="File">[File_Size: 950MB]</span></p>
+  </div>
+  `);

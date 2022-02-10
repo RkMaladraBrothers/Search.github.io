@@ -1,0 +1,112 @@
+document.write(`
+  <tr>
+    <td><a href="#Yaadon" rel="modal:open">Yaadon Ni Safar <b>S01</b> (2021)</a></td>
+    <td>Hindi/English</td>
+  </tr>
+  <div id="Yaadon" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/4944', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Yaadon Ni Safar (2021) S01 <span class="E">E01_E05</span> 720p ShemarooMe WEB-DL Gujarati AAC2.0 x264 ESubs ~ HemSid(GameData)</p>
+ </div>
+  
+  <tr>
+   <td><a href="#Anmulle" rel="modal:open">Yaar Anmulle Returns (2021)</a></td>
+   <td>Punjabi</td>
+  </tr>
+  <div id="Anmulle" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3489', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Yaar Anmulle Returns (2021) Punjabi 720p PreDvDRip x264 <span class="File">[File_Size: 1.5GB]</span></p>
+  </div>
+
+<tr>
+    <td><a href="#Yaari" rel="modal:open">Yaari Ho Toh Aisi Friendship (2021)</a></td>
+    <td>Hindi</td>
+  </tr>
+  <div id="Yaari" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/4990', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Yaari Ho Toh Aisi Friendship (2021) 720p AMZN WEB-DL Hindi DDP2.0 HEVC ESubs ~ REVOLT <span class="File">[File_Size: 1.3GB]</span></p>
+</div>
+
+<tr>
+    <td><a href="#Yamraj" rel="modal:open">Yamraj Calling <b>S01</b> (2021)</a></td>
+    <td>Gujarati</td>
+  </tr>
+  <div id="Yamraj" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5072', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Yamraj Calling (2021) S01 <span class="E">E01_E06</span> 720p ShemarooMe WEB-DL Gujarati AAC2.0 ~128Kbps x264 ESub ~ LOGiC</p>
+</div>
+
+  <tr>
+   <td><a href="#Yara" rel="modal:open">Yara (2021)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Yara" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4678', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Yara (2021) 480p NF WEB-DL Dual Audio (Hindi +English) AAC2.0 x264 MSubs <span class="File">[File_Size: 320MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4679', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Yara (2021) 720p NF WEB-DL Dual Audio (Hindi +English) AAC2.0 x264 MSubs <span class="File">[File_Size: 990MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4680', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Yara (2021) 720p NF WEB-DL Dual Audio (Hindi +English) DDP5.1 x264 <span class="File">[File_Size: 1.5GB]</span></p>
+  </div>
+
+  <tr>
+    <td><a href="#Yeh" rel="modal:open">Yeh Kaali Kaali Ankhein <b>S01</b> (2022)</a></td>
+    <td>Hindi/Tamil/Telugu</td>
+  </tr>
+  <div id="Yeh" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/6043', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Yeh Kaali Kaali Ankhein (2022) S01 <span class="E">E01_E08</span> 480p NF WEB-DL (Hindi +Tamil +Telugu) AAC2.0 x264 MSubs</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/6052', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Yeh Kaali Kaali Ankhein (2022) S01 <span class="E">E01_E08</span> 720p NF WEB-DL (Hindi +Tamil +Telugu) AAC5.1 x264 MSubs</p>
+</div>
+
+  <tr>
+   <td><a href="#You" rel="modal:open">You <b>S02</b></a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="You" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3975', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> You S02 <span class="E">E01_E10</span> WebRip Dual Audio (Hindi+English) 480p MSubs </p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3957', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> You S02 <span class="E">E01_E10</span> WebRip Dual Audio (Hindi+ English) AAC 5.1 720p x264 ESub</p>
+  </div>
+  <tr>
+   <td><a href="#You3" rel="modal:open">You <b>S03</b> (2021)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="You3" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4038', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> You (2021) S03 <span class="E">E01_E10</span> 720p10bit Hindi NF WEB-DL AAC2.0 HEVC ESubs ~DARKNESS</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4059', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> You (2021) S03 <span class="E">E01_E10</span> 720p NF WEB-DL ENGLISH DDP5.1 x264 ESub</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4074', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> You (2021) S03 <span class="E">E01_E10</span> 720p10bit HEVC WEBRip x265 Dual Audio (Hindi +English) ESubs</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4085', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> You (2021) S03 <span class="E">E01_E10</span> 480p WEBRip Dual Audio (Hindi+English) x264 MSubs</p>
+  </div>
+  <tr>
+   <td><a href="#Wild" rel="modal:open">You vs. Wild: Out Cold (2021)</a></td>
+   <td>Hindi</td>
+  </tr>
+  <div id="Wild" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2925', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> You vs Wild : Out Cold (2021) 720p HEVC NF HDRip Hindi x264 AAC <span class="File">[File_Size: 581MB]</span></p>
+  </div>
+
+<tr>
+    <td><a href="#Your" rel="modal:open">Your Honor <b>S02</b> (2021)</a></td>
+    <td>Hindi</td>
+  </tr>
+  <div id="Your" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5066', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Your Honor (2021) S02 <span class="E">E01_E05</span> 1080p Sonyliv WEB-DL Hindi AAC2.0 x264 ESubs</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5081', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Your Honor (2021) S02 <span class="E">E01_E05</span> 720p Sonyliv HDRip Hindi x264 ESubs</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5305', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Your Honor (2021) S02 <span class="E">E06_E10</span> 1080p SONY WEB-DL HINDI AAC2.0 x264 ESubs</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5346', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Your Honor (2021) S02 <span class="E">E06_E10</span> 720p SONY WEB-DL HINDI AAC2.0 x264 ESubs</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5352', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Your Honor (2021) S02 <span class="E">E06_E10</span> 480p SONY WEB-DL HINDI x264 ESubs</p>
+</div>
+
+  <tr>
+   <td><a href="#Yuvarathnaa" rel="modal:open">Yuvarathnaa (2021)</a></td>
+   <td>Hindi/Telugu/Kannada</td>
+  </tr>
+  <div id="Yuvarathnaa" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3724', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Yuvarathnaa (2021) Kannada [WEB-HDRip x264 - MP3 - Esub].mkv <span class="File">[File_Size: 755MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3725', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Yuvarathnaa (2021) Kannada [720p WEB-HDRip x265 - HEVC - DDP5.1 - Esub].mkv <span class="File">[File_Size: 1.2GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3726', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Yuvarathnaa (2021) UNCUT 720p HDRip South Movie [Dual Audio] [Hindi + Telugu] x264 AAC ESub <span class="File">[File_Size: 1.3GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3727', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Yuvarathnaa (2021) Hindi (Org Vers) HDRip - 400MB - x264 - AAC - ESub.mkv <span class="File">[File_Size: 386MB]</span></p>
+  </div>
+  `);

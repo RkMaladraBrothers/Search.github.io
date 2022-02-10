@@ -1,0 +1,73 @@
+document.write(`
+  <tr>
+   <td><a href="#V" rel="modal:open">V (2020)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="V" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2957', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> V (2020) 720p HEVC WEB-DL Hindi-Telugu ESub x265 <span class="File">[File_Size: 752MB]</span></p>
+  </div>
+
+  <tr>
+   <td><a href="#Vigil" rel="modal:open">Vigil <b>S01</b> (2021)</a></td>
+   <td>English</td>
+  </tr>
+  <div id="Vigil" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3468', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Vigil (2021) S01 <span class="E">E01_E06</span> 720p AMZN WEBRip x264 ESub</p>
+  </div>
+
+<tr>
+    <td><a href="#Vincenzo" rel="modal:open">Vincenzo <b>S01</b> (2021)</a></td>
+    <td>Hindi/English</td>
+  </tr>
+  <div id="Vincenzo" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/4961', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Vincenzo (2021) S01 <span class="E">E01_E20</span> 720p 10bit WEBDL Dual Audio (Hindi+English) HEVC x265.mkv</p>
+</div>
+
+<tr>
+    <td><a href="#Velle" rel="modal:open">Velle (2021)</a></td>
+    <td>Hindi</td>
+  </tr>
+  <div id="Velle" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5832', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Velle (2021) 720p 10bit AMZN WEBRip x265 HEVC Hindi AAC 5.1 ESub <span class="File">[File_Size: 1GB]</span></p>
+</div>
+
+  <tr>
+   <td><a href="#Venky" rel="modal:open">Venky Mama (2019)</a></td>
+   <td>Hindi/Telugu</td>
+  </tr>
+  <div id="Venky" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2879', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Venky Mama (2019) UNCUT 480p HDRip South Movie [Dual Audio] [Hindi+ Telugu] x264 AAC ESubs <span class="File">[File_Size: 487MB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Venom" rel="modal:open">Venom 2 (2021)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Venom" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4723', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Venom 2 Let There Be Carnage (2021) 480p WebRip Dual Audio (Hindi Cleaned +English) x264
+    Note : Leaked HD print, includes ads & post credit is in Hindi only <span class="File">[File_Size: 323MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4724', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Venom 2 Let There Be Carnage (2021) 720p WebRip Dual Audio (Hindi Cleaned +English) x264
+    Note : Leaked HD print, includes ads & post credit is in Hindi only <span class="File">[File_Size: 886MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4725', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Venom 2 Let There Be Carnage (2021) 1080p WebRip Dual Audio (Hindi Cleaned +English) x264
+    Note : Leaked HD print, includes ads & post credit is in Hindi only <span class="File">[File_Size: 1.9GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/5206', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Venom 2 Let There Be Carnage (2021) 720p AMZN WEB-DL DDP5.1 HEVC ESubs <span class="File">[File_Size: 1.2GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/5207', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Venom 2 Let There Be Carnage (2021) 720p10bit HEVC WEBRip 6CH x265 ESubs <span class="File">[File_Size: 718MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/5208', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Venom 2 Let There Be Carnage (2021) 480p AMZN WEB-DL x264 ESubs <span class="File">[File_Size: 432MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/5209', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Venom 2 Let There Be Carnage (2021) 1080p10bit HEVC WEBRip 6CH x265 ESubs <span class="File">[File_Size: 1.4GB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Voyeurs" rel="modal:open">The Voyeurs (2021)</a></td>
+   <td>English</td>
+  </tr>
+  <div id="Voyeurs" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2794', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Voyeurs (2021) English 720p AMZN WEB-DL x265 HEVC ESubs <span class="File">[File_Size: 603MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2795', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Voyeurs (2021) 720p10bit WEBRip 6CH x265 HEVC ESubs <span class="File">[File_Size: 825MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2805', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Voyeurs (2021) AMZN 1080p10bit WEBRip 6CH x265 HEVC ESubs <span class="File">[File_Size: 1.9GB]</span></p>
+  </div>
+  `);

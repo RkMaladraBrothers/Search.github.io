@@ -1,0 +1,305 @@
+document.write(`
+<tr>
+    <td><a href="#Baaghi" rel="modal:open">Baaghi 3 (2021)</a></td>
+    <td>Hindi</td>
+  </tr>
+  <div id="Baaghi" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5389', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Baaghi 3 (2020) Hindi HDRip 720p HEVC AAC ESub[MB] <span class="File">[File_Size: 894MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5390', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Baaghi 3 (2020) Web-Rip ORG Hindi 480p <span class="File">[File_Size: 461MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5391', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Baaghi 3 (2020) Hindi 720p WEBRip x264 AAC ESubs <span class="File">[File_Size: 1.3GB]</span></p>
+</div>
+
+<tr>
+    <td><a href="#Bahut" rel="modal:open">Bahut Hua Sammaan (2021)</a></td>
+    <td>Hindi/English</td>
+  </tr>
+  <div id="Bahut" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/4958', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Bahut Hua Sammaan (2020) 480p HS-DSNP WEBRip x264 ESubs <span class="File">[File_Size: 335MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/4959', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Bahut Hua Sammaan (2020) 720p HS-DSNP Hindi WEBRip AAC5.1 x264 ESubs <span class="File">[File_Size: 1.1GB]</span></p>
+</div>
+
+  <tr>
+   <td><a href="#Band" rel="modal:open">Band of Brothers (2001)</a></td>
+   <td>English</td>
+  </tr>
+  <div id="Band" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2428', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Band of Brothers S01 <span class="E">E01_E10</span> BluRay 720p English AAC 5.1 x264 ESubs.mkv</p>
+  </div>
+  <tr>
+   <td><a href="#Being" rel="modal:open">Being James Bond The Daniel Craig Story (2021)</a></td>
+   <td>English</td>
+  </tr>
+  <div id="Being" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2681', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Being James Bond The Daniel Craig Story (2021) APTV 720p WEBRip x264 AAC</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2682', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Being James Bond The Daniel Craig Story (2021) APTV 1080p WEBRip x264 AAC</p>
+  </div>
+
+<tr>
+    <td><a href="#Bandish" rel="modal:open">Bandish Bandits <b>S01</b> (2021)</a></td>
+    <td>English</td>
+  </tr>
+  <div id="Bandish" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5698', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Bandish.Bandits.S01 <span class="E">E01_E10</span> .Blue.Bandit.720p.10bit.WEB-DL.2CH.x265.HEVC-Streamion.mkv</p>
+</div>
+
+<tr>
+    <td><a href="#Bekhudi" rel="modal:open">Bekhudi (2021)</a></td>
+    <td>Hindi</td>
+  </tr>
+  <div id="Bekhudi" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5916', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Bekhudi (2021) 480p WebRip Hindi x264 ESub <span class="File">[File_Size: 319MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5917', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Bekhudi (2021) 720p WebRip Hindi AAC 2.0 x264 ESub <span class="File">[File_Size: 1.1GB]</span></p>
+</div>
+
+  <tr>
+   <td><a href="#Bell" rel="modal:open">Bell Bottom (2021)</a></td>
+   <td>Hindi</td>
+  </tr>
+  <div id="Bell" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2931', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Bell Bottom (2021) 480p Hindi WEB-DL x264 ESub</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2932', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Bell Bottom (2021) 720p Hindi WEB-DL HEVC x265 ESub [File_Size: 624MB]</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2928', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Bell Bottom (2021) 720p HEVC AMZN WEB-DL AAC2.0 x265 ESub [File_Size: 1GB]</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2929', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Bell Bottom (2021) 1080p HEVC AMZN WEB-DL AAC2.0 x265 ESub</p>
+  </div>
+  <tr>
+   <td><a href="#Sellers" rel="modal:open">Best Sellers (2021)</a></td>
+   <td>English</td>
+  </tr>
+  <div id="Sellers" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2874', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Best Sellers (2021) 720p WEBRip 2CH x265 HEVC ESubs</p>
+  </div>
+  <tr>
+   <td><a href="#Bhavai" rel="modal:open">Raavan Leela <span style="display: none;">Bhavai</span> (2021)</a></td>
+   <td>Hindi</td>
+  </tr>
+  <div id="Bhavai" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4446', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Bhavai a.k.a Raavan Leela (2021) 720p Hindi CAMRip x264 Note : Print Has watermark sometimes , check sample video before downloading <span class="File">[File_Size: 907MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4448', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Bhavai a.k.a Raavan Leela (2021) 480p Hindi CAMRip x264 <span class="File">[File_Size: 404MB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Bhoot" rel="modal:open">Bhoot Police (2021)</a></td>
+   <td>Hindi</td>
+  </tr>
+  <div id="Bhoot" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2707', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Bhoot Police (2021) Hindi 480p WEB-DLx264 ESubs</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2708', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Bhoot Police (2021) Hindi 720p HEVC WEB-DLx265 ESubs [File_Size: 651MB]</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2710', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Bhoot Police (2021) 720p DSNP WEB-DL x265 DD5.1 Hindi MSubs [File_Size: 1GB]</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2711', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Bhoot Police (2021) 720p DSNP WEB-DL x264 DD5.1 Hindi MSubs [File_Size: 1.3GB]</p>
+  </div>
+  <tr>
+   <td><a href="#Bhramam" rel="modal:open">Bhramam (2021)</a></td>
+   <td>Malayalam/Hindi</td>
+  </tr>
+  <div id="Bhramam" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3735', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Bhramam (2021) Malayalam 720p TRUE-HDRip x264 HE-AAC 2.0 AC3 DD5.1 Esub <span class="File">[File_Size: 1.3GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3736', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> BHRAMAM (2021) Malayalam 480p HDRip x264 ESub <span class="File">[File_Size: 387MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4312', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Bhramam (2021) UNCUT Hindi 480p WEB-DL x264 ESub <span class="File">[File_Size: 454MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4313', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Bhraman (2021) UNCUT Hindi 720p WEB-DL DD5.1 HEVC x265 ESub <span class="File">[File_Size: 807MB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Bhuj" rel="modal:open">Bhuj The Pride Of India (2021)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Bhuj" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3540', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Bhuj The Pride Of India 2021 720p DSNP WEB-DL DDP5.1x264 MSubs <span class="File">[File_Size: 1.2GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3541', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> BHUJ - THE PRIDE OF INDIA (2021) Hindi TRUE WEB-DL - 1080p - AVC - (DD5.1 - 192Kbps AAC 2.0) - ESub <span class="File">[File_Size: 1.7GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3542', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> BHUJ - THE PRIDE OF INDIA (2021) Hindi TRUE WEB-DL - 720p - HEVC - (DD5.1 - 192Kbps AAC 2.0) - ESub <span class="File">[File_Size: 882MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3543', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Bhuj - The Pride of India (2021) 480p DSNP WEB-DL x264 AAC 2.0 MSubs <span class="File">[File_Size: 534MB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Bicchoo" rel="modal:open">Bicchoo Ka Khel (2021)</a></td>
+   <td>Hindi</td>
+  </tr>
+  <div id="Bicchoo" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4393', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Bicchoo Ka Khel (2020) S01 <span class="E">E01_E09</span> WebRip 720p Hindi AAC x264 ESub</p>
+  </div>
+  <tr>
+   <td><a href="#Bingo" rel="modal:open">Bingo Hell (2021)</a></td>
+   <td>English</td>
+  </tr>
+  <div id="Bingo" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3699', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Bingo Hell (2021) 480p AMZN WEBRip x264 ESub <span class="File">[File_Size: 256MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3700', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Bingo Hell (2021) 720p AMZN WEBRip x264 MSubs <span class="File">[File_Size: 798MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3703', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Bingo Hell (2021) 1080p DD5.1 AMZN WEBRip x264 MSubs <span class="File">[File_Size: 1.4GB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Birds" rel="modal:open">Birds of Paradise (2021)</a></td>
+   <td>English</td>
+  </tr>
+  <div id="Birds" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3346', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Birds of Paradise (2021) 1080p AMZN WEBRip DD5.1 x264 MSubs <span class="File">[File_Size: 1.4GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3347', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Birds of Paradise (2021) 720p AMZN WEBRip x264 MSubs <span class="File">[File_Size: 799MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3361', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Birds of Paradise (2021) 480p AMZN WEBRip x264 ESubs <span class="File">[File_Size: 308MB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Black_As_Night" rel="modal:open">Black As Night (2021)</a></td>
+   <td>English</td>
+  </tr>
+  <div id="Black_As_Night" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3696', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Black As Night (2021) 480p AMZN WEB-DL x264 ESubs <span class="File">[File_Size: 285MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3697', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Black As Night (2021) 720p AMZN WEBRip x264 MSubs <span class="File">[File_Size: 399MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3698', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Black As Night (2021) 1080p DD5.1 AMZN WEBRip x264 MSubs <span class="File">[File_Size: 1.4GB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Widow" rel="modal:open">Black Widow (2021)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Widow" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2372', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Black Widow (2021) WebRip Dual Audio (Hindi+English) 480p MSubs</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2373', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Black Widow 2021 WebRip 720p Dual Audio (Hindi+English) AAC 5.1 x264 MSubs [File_Size: 1.3GB]</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2350', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Black Widow (2021) 720p DSNP WEB-DL x265 DD+ 5.1 Multi [Telugu + Tamil + Hindi + English] MSubs [File_Size: 1.6GB]</p>
+  </div>
+  <tr>
+   <td><a href="#Blood" rel="modal:open">Blood Red Sky (2021)</a></td>
+   <td>German/English</td>
+  </tr>
+  <div id="Blood" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4404', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Blood Red Sky (2021) Dual Audio ( German +English Dubbed) 720p10bit WEBRip 6CH x265 HEVC ESubs <span class="File">[File_Size: 933MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4405', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Blood Red Sky (2021) Dual Audio ( German +English Dubbed) 1080p10bit WEBRip 6CH x265 HEVC ESubs <span class="File">[File_Size: 1.6GB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Blush" rel="modal:open">Blush (2021)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Blush" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3747', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Blush (2021) ATVP WebRip Dual Audio (Hindi+English) 480p MSubs <span class="File">[File_Size: 32MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3748', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Blush (2021) ATVP WebRip 720p Dual Audio (Hindi+English) AAC5.1 x264 MSubs <span class="File">[File_Size: 112MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3749', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Blush (2021) 1080p ATVP WEB-DL Dual Audio (Hindi +English) DD+5.1 Atmos H.264 MSubs <span class="File">[File_Size: 852MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3750', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Blush (2021) 2160p ATVP WEB-DL Dual Audio (Hindi +English) DD+5.1 Atmos HDR HEVC ESubs <span class="File">[File_Size: 1.8GB]</span></p>
+  </div>
+
+<tr>
+    <td><a href="#Brazen" rel="modal:open">Brazen (2021)</a></td>
+    <td>Hindi/English</td>
+  </tr>
+  <div id="Brazen" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5966', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Brazen (2022) 480p WebRip (Hindi +English) x264 MSubs <span class="File">[File_Size: 294MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5967', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Brazen (2022) 1080p10bit HEVC WEB-DL (Hindi +English) DDP5.1 Atmos x265 MSubs <span class="File">[File_Size: 1.7GB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5989', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Brazen (2022) 720p NF WEB-DL (Hindi +English) AAC5.1 x264 MSubs <span class="File">[File_Size: 637MB]</span></p>
+</div>
+
+  <tr>
+   <td><a href="#Break" rel="modal:open">Break Point <b>S01</b> (2021)</a></td>
+   <td>Hindi/English, Tamil/Telugu</td>
+  </tr>
+  <div id="Break" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3622', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Break Point (2021) Zee5 720p HDRip x264 S01 <span class="E">E01_E07</span> Multi (Tamil +Telugu +Hindi +English) ESub</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3631', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Break Point (2021) Zee5 1080p HDRip x264 S01 <span class="E">E01_E07</span> Multi (Tamil +Telugu +Hindi +English) ESub </p>
+  </div>
+  <tr>
+   <td><a href="#Breathe" rel="modal:open">Breathe Into the Shadows</a></td>
+   <td>Hindi</td>
+  </tr>
+  <div id="Breathe" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4799', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Breathe Into the Shadows S01 <span class="E">E01_E12</span> WebRip 720p Hindi AAC 5.1 x264 ESub - mkvCinemas.mkv</p>
+  </div>
+  <tr>
+   <td><a href="#Bridges" rel="modal:open">21 Bridges (2019)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Bridges" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3640', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> 21 Bridges (2019) 480p BluRay Dual Audio (Hindi+English) x264 ESub <span class="File">[File_Size: 328MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3641', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> 21 Bridges (2019) 720p10bit HEVC BluRay Dual Audio (Hindi+English) x265 ESub <span class="File">[File_Size: 656MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3642', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> 21 Bridges (2019) 1080p10bit BluRay Dual Audio (Hindi 2.0 +English 5.1 ) HEVC x265 ESub <span class="File">[File_Size: 1.5GB]</span></p>
+  </div>
+
+  <tr>
+   <td><a href="#Bright" rel="modal:open">Bright Samurai Soul (2021)</a></td>
+   <td>Japanese/English</td>
+  </tr>
+  <div id="Bright" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4577', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Bright Samurai Soul (2021) 480p NF WEBRip x264 Dual Audio (English+Japanese) ESubs <span class="File">[File_Size: 238MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4578', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Bright Samurai Soul (2021) 720p10bit HEVC NF WEBRip x265 Dual Audio (English+Japanese) AAC 5.1 ESubs <span class="File">[File_Size: 673MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4579', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Bright Samurai Soul (2021) 1080p10bit HEVC NF WEBRip x265 Dual Audio (English+Japanese) AAC 5.1 ESubs <span class="File">[File_Size: 1.3GB]</span></p>
+  </div>
+
+<tr>
+    <td><a href="#Bruised" rel="modal:open">Bruised (2021)</a></td>
+    <td>Hindi/English</td>
+  </tr>
+  <div id="Bruised" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5240', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Bruised (2021) 480p NF WebRip Dual Audio (Hindi +English) x264 MSubs <span class="File">[File_Size: 404MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5241', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Bruised (2021) 720p NF WebRip Dual Audio (Hindi +English) AAC 5.1 x264 MSubs <span class="File">[File_Size: 1.4GB]</span></p>
+</div>
+
+<tr>
+    <td><a href="#Bob" rel="modal:open">Bob Biswas (2021)</a></td>
+    <td>English</td>
+  </tr>
+  <div id="Bob" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5368', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Bob Biswas (2021) 480p ZEE5 WEB-DL AAC2.0 x264 ESubs <span class="File">[File_Size: 277MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5369', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Bob Biswas (2021) LQ 720p ZEE5 WEB-DL AAC2.0 x264 ESubs <span class="File">[File_Size: 474MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5370', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Bob Biswas (2021) 720p ZEE5 WEB-DL AAC2.0 x264 ESubs <span class="File">[File_Size: 847MB]</span></p>
+</div>
+
+  <tr>
+    <td><a href="#Border" rel="modal:open">Border (1997)</a></td>
+    <td>Hindi</td>
+  </tr>
+  <div id="Border" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5771', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Border (1997) 480p Hindi WebRip x264 <span class="File">[File_Size: 456MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5772', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Border (1997) 720p Hindi WebRip AAC 2.0 x264 <span class="File">[File_Size: 1.5GB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5773', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Border (1997) 720p HEVC AMZN WEB-DL Hindi  DDP2.0 ESubs <span class="File">[File_Size: 1.8GB]</span></p>
+</div>
+
+<tr>
+    <td><a href="#Boy" rel="modal:open">A Boy Called Christmas (2021)</a></td>
+    <td>Hindi/English</td>
+  </tr>
+  <div id="Boy" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5238', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> A Boy Called Christmas (2021) 480p NF WebRip Dual Audio (Hindi +English) x264 MSubs <span class="File">[File_Size: 326MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5239', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> A Boy Called Christmas (2021) 720p NF WebRip Dual Audio (Hindi +English) AAC 5.1 x264 MSubs <span class="File">[File_Size: 1.1GB]</span></p>
+</div>
+
+  <tr>
+   <td><a href="#bf" rel="modal:open">Boyfriends and Girlfriends <b>S01</b> (2021)</a></td>
+   <td>Hindi</td>
+  </tr>
+  <div id="bf" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3098', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Boyfriends and Girlfriends (2021) Hoichoi S01 <span class="E">E01_E05</span> WebRip 720p Hindi Dubbed AAC 2.0 x264</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3105', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Boyfriends and Girlfriends (2021) Hoichoi S01 <span class="E">E01_E05</span> WebRip 480p MX Hindi Dubbed x264 </p>
+  </div>
+
+<tr>
+    <td><a href="#Bunty" rel="modal:open">Bunty Aur Babli 2 (2021)</a></td>
+    <td>Hindi/English</td>
+  </tr>
+  <div id="Bunty" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5183', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Bunty Aur Babli 2 (2021) 480p Hindi CAMRip x264 <span class="File">[File_Size: 430MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5184', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Bunty Aur Babli 2 (2021) 720p Hindi CAMRip x264 <span class="File">[File_Size: 1.1GB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5552', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Bunty Aur Babli 2 (2021) 480p AMZN WEB-DL x264 ESubs <span class="File">[File_Size: 406MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5553', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Bunty Aur Babli 2 (2021) 720p AMZN WEB-DL AAC2.0 H.264 ESubs <span class="File">[File_Size: 730MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5554', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Bunty Aur Babli 2 (2021) 720p HEVC AMZN WEB-DL AAC2.0 ESubs <span class="File">[File_Size: 1.3GB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5555', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Bunty Aur Babli 2 (2021) 720p HEVC AMZN WEB-DL DDP5.1 x265 ESubs <span class="File">[File_Size: 1.9MB]</span></p>
+</div>
+`);

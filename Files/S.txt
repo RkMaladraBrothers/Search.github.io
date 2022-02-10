@@ -1,0 +1,593 @@
+document.write(`
+  <tr>
+   <td><a href="#Sabka" rel="modal:open">Sabka Sai <b>S01</b> (2021)</a></td>
+   <td>Hindi</td>
+  </tr>
+  <div id="Sabka" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3154', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Sabka Sai (2021) 480p HEVC HDRip Hindi S01 E01_E05 x265 ESub <span class="File">[File_Size: 519MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3155', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Sabka Sai (2021) 480p HEVC HDRip Hindi S01 E06_E10 x265 ESub <span class="File">[File_Size: 499MB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Sanak" rel="modal:open">Sanak (2021)</a></td>
+   <td>Hindi</td>
+  </tr>
+  <div id="Sanak" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3992', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Sanak (2021) 480p Hindi DSNP - HS WEB-DL x264 ESubs <span class="File">[File_Size: 353MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3993', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Sanak (2021) 720p HEVC Hindi DSNP - HS WEB-DL x265 ESubs <span class="File">[File_Size: 580MB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Sanak1" rel="modal:open">Sanak Ek Junoon <b>S01</b> (2021)</a></td>
+   <td>Hindi</td>
+  </tr>
+  <div id="Sanak1" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4100', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Sanak Ek Junoon (2021) 480p HEVC HDRip Hindi S01 E(01-10) Complete x265 ESub <span class="File">[File_Size: 674MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4101', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Sanak Ek Junoon (2021) 720p HEVC HDRip Hindi S01 E(01-10) Complete x265 ESub <span class="File">[File_Size: 1.4GB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Sandeep" rel="modal:open">Sandeep Aur Pinky Faraar (2021)</a></td>
+   <td>Hindi</td>
+  </tr>
+  <div id="Sandeep" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3686', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Sandeep Aur Pinky Faraar (2021) [Hindi - HDRip - x264 - AAC - ESubs] <span class="File">[File_Size: 387MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3687', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Sandeep Aur Pinky Faraar (2021) Hindi HDRip - 1080p - HEVC - (DD5.1 - 192Kbps AAC) - ESub.mkv <span class="File">[File_Size: 1.4GB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Sardar" rel="modal:open">Sardar Udham (2021)</a></td>
+   <td>Hindi</td>
+  </tr>
+  <div id="Sardar" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4096', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Sardar Udham (2021) 720p AMZN WEB-DL x265 Hindi AAC 2.0 MSub <span class="File">[File_Size: 719MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4097', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Sardar Udham (2021) 1080p HEVC AMZN WEB-DL x265 [Hindi (DDP5.1 - 192Kbps & AAC 2.0)] MSub <span class="File">[File_Size: 1.9GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4098', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Sardar Udham (2021) 720p HEVC AMZN WEB-DL Hindi DDP5.1 ESubs ~ SPECT3R <span class="File">[File_Size: 1.7GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4099', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Sardar Udham (2021) 480p Hindi AMZN WEB-DL x264 ESub <span class="File">[File_Size: 796MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4115', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Sardar Udham (2021) HINDI 720p10bit WEBRip 6CH x265 HEVC ESubs ~ Streamion <span class="File">[File_Size: 882MB]</span></p>
+  </div>
+
+<tr>
+    <td><a href="#Satyameva" rel="modal:open">Satyameva Jayate 2 (2021)</a></td>
+    <td>Hindi</td>
+  </tr>
+  <div id="Satyameva" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5292', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Satyameva Jayate 2 (2021)  720p Hindi HQ PreDVDRip x264 <span class="File">[File_Size: 1.1GB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5293', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Satyameva Jayate 2 (2021) Hindi HQ PreDVD Rip x264 <span class="File">[File_Size: 703MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5294', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Satyameva Jayate 2 (2021) 480p Hindi HQ PreDVD Rip x264 <span class="File">[File_Size: 406MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5647', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Satyameva Jayate 2 (2021) 720p HEVC AMZN WEB-DL HINDI DDP5.1 x265 ESubs ~ REVOLT <span class="File">[File_Size: 1.9GB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5663', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Satyameva Jayate 2 (2021) 480p AMZN WEB-DL H.264 ESubs <span class="File">[File_Size: 378MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5664', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Satyameva Jayate 2 (2021) 720p HEVC AMZN WEB-DL AAC5.1 x265 ESubs <span class="File">[File_Size: 1.4GB]</span></p>
+</div>
+
+  <tr>
+   <td><a href="#Sayonee" rel="modal:open">Sayonee (2020)</a></td>
+   <td>Hindi</td>
+  </tr>
+  <div id="Sayonee" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4567', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Title : Sayonee (2020)<br />
+    🔊 Language : Hindi <br />
+    💿 Quality : 720p HDRip <br />
+    ⭐️ Rating : 3.3/10 <span class="File">[File_Size: 877MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4568', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Title : Sayonee (2020)<br />
+    🔊 Language : Hindi <br />
+    💿 Quality : 480p HDRip <br />
+    ⭐️ Rating : 3.3/10 <span class="File">[File_Size: 410MB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Scaredy" rel="modal:open">Scaredy Cats <b>S01</b> (2021)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Scaredy" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3664', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Scaredy Cats (2021) S01 <span class="E">E01_E09</span> NF WebRip 720p Dual Audio (Hindi+English) AAC 5.1 x264 MSubs</p>
+  </div>
+  <tr>
+   <td><a href="#Scenes" rel="modal:open">Scenes From A Marriage (2021)</a></td>
+   <td>English</td>
+  </tr>
+  <div id="Scenes" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4176', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Scenes From A Marriage (2021) US S01 <span class="E">E01_E05</span> HMAX 1080p10bit DDP5.1 x265 HEVC ESubs</p>
+  </div>
+  <tr>
+   <td><a href="#Schumacher" rel="modal:open">Schumacher (2021)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Schumacher" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Schumacher (2021) WebRip 720p x265 HEVC 10Bit Dual Audio (Hindi+English) 5.1 MSubs <span class="File">[File_Size: 1.2GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2924', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Schumacher (2021) WebRip Dual Audio (Hindi+English) 480p MSubs <span class="File">[File_Size: 344MB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Searching" rel="modal:open">Searching for Sheela (2021)</a></td>
+   <td>Hindi</td>
+  </tr>
+  <div id="Searching" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4140', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Searching for Sheela (2021) NF WebRip Hindi 480p MSubs <span class="File">[File_Size: 158MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4141', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Searching for Sheela (2021) NF WebRip 720p Hindi AAC 5.1 x264 MSubs <span class="File">[File_Size: 520MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4142', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Searching for Sheela (2021) 1080p NF WEB-DL Hindi DD+5.1 x264 MSubs <span class="File">[File_Size: 1.5GB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Seberg" rel="modal:open">Seberg (2021) <span style="display: none;">Against All Enemies</span></a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Seberg" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4481', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Seberg a.k.a Against All Enemies (2019) 480p BluRay Dual Audio (Hindi +English) x264 ESubs <span class="File">[File_Size: 342MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4482', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Seberg a.k.a Against All Enemies (2019) 720p BluRay Dual Audio (Hindi 5.1 +English 2.0 ) AAC x264 ESubs <span class="File">[File_Size: 939MB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Seetimaarr" rel="modal:open">Seetimaarr (2021)</a></td>
+   <td>Telugu</td>
+  </tr>
+  <div id="Seetimaarr" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4001', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Seetimaarr (2021) DSNP-HS Telugu 720p TRUE-HD HEVC x265 UNTOUCHED HE-AAC 2.0 DDP5.1(192kbps) ESubs <span class="File">[File_Size: 1.4GB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Sex_3" rel="modal:open">Sex Education <b>S03</b> (2021)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Sex_3" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3078', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Sex Education (2021) 480p HEVC NF S03 <span class="E">E01_E04</span> x265 MSub <span class="File">[File_Size: 644MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3079', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Sex Education (2021) 480p HEVC NF S03 <span class="E">E05_E04</span> x265 MSub <span class="File">[File_Size: 665MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3081', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Sex Education (2021) 720p HEVC NF S03 <span class="E">E01_E04</span> x265 MSub<span class="File">[File_Size: 1.2GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3082', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Sex Education (2021) 720p HEVC NF S03 <span class="E">E05_E08</span> x265 MSub <span class="File">[File_Size: 1.1GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2994', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Sex Education (2021) S03 <span class="E">E01_E08</span> 720p NF WEB-DL x264 DD5.1 [Hindi + English] MSub</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3013', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Sex Education (2021) S03 <span class="E">E01_E08</span> 480p WEB-DL Dual Audio (Hindi+English) Esubs </p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3046', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Sex Education (2021) S03 <span class="E">E01_E08</span> NF WebRip 720p HEVC 10Bit Dual Audio (Hindi +English) 5.1 MSubs </p>
+  </div>
+
+  <tr>
+   <td><a href="#Sex_Life" rel="modal:open">Sex Life <b>S01</b> (2021)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Sex_Life" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> <a href="#Sex_Life1" rel="modal:open" style="background: white;"> Sex Life (2021) S01 WebRip Dual Audio (Hindi+English) 480p MSubs</a></p>
+   <p class="Box"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> <a href="#Sex_Life2" rel="modal:open" style="background: white;"> Sex Life (2021) S01 720p 10bit NF WEBRip x265 HEVC Dual Audio (Hindi DDP5.1 +English AAC5.1) Esub</a></p>
+  </div>
+  <div id="Sex_Life1" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2480', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Sex Life (2021) S01 E01 WebRip Dual Audio (Hindi+English) 480p MSubs <span class="File">[File_Size: 139MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2481', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Sex Life (2021) S01 E02 WebRip Dual Audio (Hindi+English) 480p MSubs <span class="File">[File_Size: 134MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2482', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Sex Life (2021) S01 E03 WebRip Dual Audio (Hindi+English) 480p MSubs <span class="File">[File_Size: 158MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2483', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Sex Life (2021) S01 E04 WebRip Dual Audio (Hindi+English) 480p MSubs <span class="File">[File_Size: 131MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2484', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Sex Life (2021) S01 E05 WebRip Dual Audio (Hindi+English) 480p MSubs <span class="File">[File_Size: 142MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2485', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Sex Life (2021) S01 E06 WebRip Dual Audio (Hindi+English) 480p MSubs <span class="File">[File_Size: 145MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2486', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Sex Life (2021) S01 E07 WebRip Dual Audio (Hindi+English) 480p MSubs <span class="File">[File_Size: 157MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2487', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Sex Life (2021) S01 E08 WebRip Dual Audio (Hindi+English) 480p MSubs <span class="File">[File_Size: 159MB]</span></p>
+  </div>
+  <div id="Sex_Life2" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2489', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Sex Life (2021) S01E01 720p 10bit NF WEBRip x265 HEVC Dual Audio (Hindi DDP5.1 +English AAC5.1) Esub <span class="File">[File_Size: 521MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2490', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Sex Life (2021) S01E02 720p 10bit NF WEBRip x265 HEVC Dual Audio (Hindi DDP5.1 +English AAC5.1) Esub <span class="File">[File_Size: 500MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2491', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Sex Life (2021) S01E03 720p 10bit NF WEBRip x265 HEVC Dual Audio (Hindi DDP5.1 +English AAC5.1) Esub <span class="File">[File_Size: 590MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2492', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Sex Life (2021) S01E04 720p 10bit NF WEBRip x265 HEVC Dual Audio (Hindi DDP5.1 +English AAC5.1) Esub <span class="File">[File_Size: 487MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2493', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Sex Life (2021) S01E05 720p 10bit NF WEBRip x265 HEVC Dual Audio (Hindi DDP5.1 +English AAC5.1) Esub <span class="File">[File_Size: 535MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2494', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Sex Life (2021) S01E06 720p 10bit NF WEBRip x265 HEVC Dual Audio (Hindi DDP5.1 +English AAC5.1) Esub <span class="File">[File_Size: 544MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2495', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Sex Life (2021) S01E07 720p 10bit NF WEBRip x265 HEVC Dual Audio (Hindi DDP5.1 +English AAC5.1) Esub <span class="File">[File_Size: 592MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2496', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Sex Life (2021) S01E08 720p 10bit NF WEBRip x265 HEVC Dual Audio (Hindi DDP5.1 +English AAC5.1) Esub <span class="File">[File_Size: 595MB]</span></p>
+  </div>
+
+<tr>
+    <td><a href="#Sex_L" rel="modal:open">The Sex Lives of College Girls <b>S01</b> (2021)</a></td>
+    <td>English</td>
+  </tr>
+  <div id="Sex_L" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5637', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> The Sex Lives of College Girls (2021) S01 <span class="E">E01_E10</span> 720p HMAX WEBRip x264 ESubs</p>
+</div>
+
+  <tr>
+   <td><a href="#Sex_Love" rel="modal:open">Sex Love and Goop <b>S01</b> (2021)</a></td>
+   <td>English</td>
+  </tr>
+  <div id="Sex_Love" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4241', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Sex Love and Goop (2021) S01 <span class="E">E01_E06</span> 480p NF WEB-DL x264 MSubs</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4248', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Sex Love and Goop (2021) S01 <span class="E">E01_E06</span> 720p NF WEB-DL AAC 5.1 x264 MSubs</p>
+  </div>
+  <tr>
+   <td><a href="#Shang" rel="modal:open">Shang Chi The Legend Of Ten Rings (2021)</a></td>
+   <td>English/Hindi/Tamil, Telugu/Kannada/Malayalam</td>
+  </tr>
+  <div id="Shang" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4836', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Shang Chi And The Legend Of The Ten Rings (2021) 480p BluRay Dual Audio (Hindi Cam Cleaned +English) x264 ESubs <span class="File">[File_Size: 437MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4838', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Shang Chi And The Legend Of The Ten Rings (2021) 720p10bit HEVC BluRay Dual Audio (Hindi Cam Cleaned +English) AAC2.0 x265 ESubs <span class="File">[File_Size: 834MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4841', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Shang Chi And the Legend of the Ten Rings (2021) 720p10bit BluRay ENGLISH 6CH x265 HEVC ESubs <span class="File">[File_Size: 1.1GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4887', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Shang-Chi and The Legend of The Ten Rings (2021) 720p HEVC DSNP WEB-DL (DD+ 5.1 - 192Kbps) Multi [Telugu + Tamil + Hindi + Malayalam + Kannada + English ] x265 MSubs ~ TheDNK <span class="File">[File_Size: 1.8GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4889', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Shang-Chi and The Legend of The Ten Rings (2021) IMAX 720p HEVC DSNP WEB-DL Dual Audio (Hindi +English) DDP5.1 x265 MSubs ~ DARKNESS <span class="File">[File_Size: 1.1GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4890', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Shang-Chi and The Legend of The Ten Rings (2021) 720p10bit HEVC BluRay Dual Audio (Hindi +English) x265 ESubs <span class="File">[File_Size: 818MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4891', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Shang-Chi and The Legend of The Ten Rings (2021) 480p BluRay Dual Audio (Hindi +English) x264 ESubs <span class="File">[File_Size: 456MB]</span></p>
+  </div>
+
+  <tr>
+    <td><a href="#Shark" rel="modal:open">Shark Beach with Chris Hemsworth (2021)</a></td>
+    <td>Hindi/English/Bengali, Tamil/Telugu/Kannada</td>
+  </tr>
+  <div id="Shark" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5923', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Shark Beach with Chris Hemsworth (2021) 1080p HQ DSNP WEB-DL x264 (AAC 2.0 - 128Kbps) [Telugu + Tamil + Hindi + Kannada + Bengali + English ] ESubs ~ TheDNK <span class="File">[File_Size: 1.3GB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5924', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Shark Beach with Chris Hemsworth (2021) 720p DSNP WEB-DL x264 (AAC 2.0 - 128Kbps) [Telugu + Tamil + Hindi + Kannada + Bengali + English ] ESubs ~ TheDNK <span class="File">[File_Size: 653MB]</span></p>
+</div>
+
+  <tr>
+    <td><a href="#shark" rel="modal:open">Shark Tank India <b>S01</b> (2021)</a></td>
+    <td>Hindi</td>
+  </tr>
+  <div id="shark" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5996', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Shark Tank India (2021) S01 <span class="E">E01_E11</span> 720p WebRip Hindi AAC 2.0 x264</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/6009', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Shark Tank India (2021) S01 <span class="E">E12_E18</span> 720p HDRip Hindi x264</p>
+</div>
+
+  <tr>
+   <td><a href="#She" rel="modal:open">She (2020)</a></td>
+   <td>Hindi/English, Tamil/Telugu</td>
+  </tr>
+  <div id="She" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4821', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> She (2020) NF S01 <span class="E">E01_E07</span> 720p WEBRip Multi Audio [Hindi+English+Tamil+Telegu] DD-5.1 ESub x264</p>
+  </div>
+  <tr>
+   <td><a href="#Shershaah" rel="modal:open">Shershaah (2021)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Shershaah" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4759', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Shershaah 2021 480p x264 <span class="File">[File_Size: 343MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4760', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Shershaah 2021 720p HEVC <span class="File">[File_Size: 659MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4761', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Shershaah 2021 720p <span class="File">[File_Size: 1.1MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4762', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Shershaah (2021) HINDI 1080p 10bit DS4K WEBRip 6CH x265 HEVC <span class="File">[File_Size: 1.6GB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Shimmy" rel="modal:open">Shimmy (2021)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Shimmy" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3007', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Shimmy (2021) 720p HEVC HDRip Hindi x265 AAC <span class="File">[File_Size: 275MB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Shiddat" rel="modal:open">Shiddat (2021)</a></td>
+   <td>Hindi</td>
+  </tr>
+  <div id="Shiddat" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3619', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Shiddat (2021) DSNP 480p HDRip Hindi x264 ESub <span class="File">[File_Size: 471MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3620', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Shiddat (2021) DSNP 720p HEVC HDRip Hindi x265 ESub <span class="File">[File_Size: 777MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3621', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Shiddat (2021) DSNP 720p HDRip Hindi x264 ESub <span class="File">[File_Size: 1.3GB]</span></p>
+  </div>
+
+<tr>
+    <td><a href="#Shu" rel="modal:open">Shu Thayu (2021)</a></td>
+    <td>Gujarati</td>
+  </tr>
+  <div id="Shu" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5144', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Shu Thayu 2018 720p SM WEB-DL Gujarati AAC2.0 ESub x265 HEVC.mkv <span class="File">[File_Size: 1.1GB]</span></p>
+</div>
+
+<tr>
+    <td><a href="#Silent" rel="modal:open">The Silent Sea (2021)</a></td>
+    <td>Hindi/English/Korean</td>
+  </tr>
+  <div id="Silent" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5667', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> The Silent Sea (2021) S01 <span class="E">E01_E08</span> 720p NF WEB-DL Multi (Hindi +Korean +English) DDP5.1 Atmos x264 ESubs</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5689', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> The Silent Sea (2021) S01 <span class="E">E01_E08</span> 720p10bit HEVC NF WEBRip Multi [Hindi DDP5.1 ~ 640Kbps + Korean AAC 2.0 + English AAC 2.0] x265 Msubs ~ PSA</p>
+</div>
+
+<tr>
+    <td><a href="#Sing" rel="modal:open">Sing 2 (2021)</a></td>
+    <td>English</td>
+  </tr>
+  <div id="Sing" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5898', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Sing 2 (2021) 480p WebRip English x264 ESub <span class="File">[File_Size: 294MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5899', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Sing 2 (2021) 720p10bit HEVC WEBRip ENGLISH 6CH x265 ESubs <span class="File">[File_Size: 893MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5900', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Sing 2 (2021) 1080p10bit HEVC WEBRip ENGLISH 6CH x265 ESubs <span class="File">[File_Size: 1.9GB]</span></p>
+</div>
+
+  <tr>
+   <td><a href="#Shivaji" rel="modal:open">Detective Shivaji (2020) <span style="display: none">Shivaji Surathkal</span></a></td>
+   <td>Hindi/Kannada</td>
+  </tr>
+  <div id="Shivaji" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4213', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Shivaji Surathkal a.k.a Detective Shivaji (2020) UNCUT 720p HDRip [Dual Audio] [Hindi + Kannada] x264 ESubs <span class="File">[File_Size: 1GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4214', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Shivaji Surathkal a.k.a Detective Shivaji (2020) UNCUT 720p HEVC HDRip [Dual Audio] [Hindi + Kannada] x265 ESubs <span class="File">[File_Size: 683MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4215', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Shivaji Surathkal a.k.a Detective Shivaji (2020) UNCUT 480p HDRip [Dual Audio] [Hindi + Kannada] x264 ESubs <span class="File">[File_Size: 436MB]</span></p>
+  </div>
+
+<tr>
+    <td><a href="#Skylab" rel="modal:open">Skylab (2022)</a></td>
+    <td>Telugu/Tamil, Malayalam/Kannada</td>
+  </tr>
+  <div id="Skylab" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/6103', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Skylab (2022) 480p SONY WEB-DL Multi (Telugu +Tamil +Malayalam +Kannada) AAC2.0 x264 ESubs <span class="File">[File_Size: 463MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/6104', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Skylab (2022) 720p SONYLIV WEB-DL [Telugu + Tamil + Malayalam + Kannada ] AAC2.0 x264 ESubs <span class="File">[File_Size: 998MB]</span></p>
+</div>
+
+  <tr>
+   <td><a href="#Snake" rel="modal:open">Snake Eyes (2021)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Snake" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3513', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Snake Eyes (2021) HDRip x264 720p DD5.1 Multi [Tamil + Telugu +Hindi +English ] ESub <span class="File">[File_Size: 1.6GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3514', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Snake Eyes (2021) HDRip x265 720p HEVC Multi [Tamil+Telugu+Hindi+ English] ESub <span class="File">[File_Size: 748MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3516', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Snake Eyes G.I. Joe Origins (2021) WebRip Dual Audio (Hindi+English) 480p ESub <span class="File">[File_Size: 367MB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Someone" rel="modal:open">There's Someone Inside Your House (2021)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Someone" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3732', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> There's Someone Inside Your House (2021) 480p NF WEB-DL x264 Dual Audio (Hindi +English) ESubs <span class="File">[File_Size: 316MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3733', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> There's Someone Inside Your House (2021) 720p NF WEB-DL x264 Dual Audio (Hindi DD5.1 +English AAC 2.0 ) ESubs <span class="File">[File_Size: 857MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3734', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> There's Someone Inside Your House (2021) 1080p NF WEB-DL x264 Dual Audio [Hindi +English](DD5.1) ESubs <span class="File">[File_Size: 1.8GB]</span></p>
+  </div>
+
+  <tr>
+   <td><a href="#Sooryavshi" rel="modal:open">Sooryavshi (2021)</a></td>
+   <td>Hindi/English, Tamil/Telugu/Malayalam</td>
+  </tr>
+  <div id="Sooryavshi" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4681', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Sooryavanshi (2021) Hindi 480p HQ PreDVDRip x264
+    Note :contains betting ads, obviously <span class="File">[File_Size: 423MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4682', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Sooryavanshi (2021) Hindi 720p Real PreDVDRip x264
+    Note :contains betting ads, obviously <span class="File">[File_Size: 1.2GB]</span></p>
+    <p class="Box" onclick="window.open('https://t.me/c/1501644510/5371', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Sooryavanshi (2021) 480p NF WEB-DL Multi (Hindi +Tamil +Telugu +English +Malayalam) x264 ESubs <span class="File">[File_Size: 358MB]</span></p>
+    <p class="Box" onclick="window.open('https://t.me/c/1501644510/5372', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Sooryavanshi (2021) 720p NF WEB-DL Multi (Hindi +Tamil +Telugu +English +Malayalam) AAC2.0 x264 ESubs <span class="File">[File_Size: 1.5GB]</span></p>
+    <p class="Box" onclick="window.open('https://t.me/c/1501644510/5373', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Sooryavanshi (2021) 720p NF WEB-DL Multi (Hindi +Tamil +Telugu +English +Malayalam) AAC5.1 x264 ESubs <span class="File">[File_Size: 1.8GB]</span></p>
+    <p class="Box" onclick="window.open('https://t.me/c/1501644510/5377', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Sooryavanshi (2021) 720p NF WEB-DL x264 [Telugu + Tamil + Hindi + English ] AAC2.0 MSub ~ TheDNK <span class="File">[File_Size: 950MB]</span></p>
+  </div>
+
+  <tr>
+   <td><a href="#Sounds" rel="modal:open">Sounds Like Love (2021) <span style="display: none;">Fuimos canciones</span></a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Sounds" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3529', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Fuimos canciones a.k.a Sounds Like Love (2021) 720p 10bit NF WEBRip Dual Audio (Hindi+English) AAC 5.1 x264 ESub <span class="File">[File_Size: 937MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3530', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Fuimos canciones a.k.a Sounds Like Love (2021) 1080p NF 10bit HEVC Dual Audio (English +Spanish) DDP.5.1 x265 MSubs <span class="File">[File_Size: 1.9GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3531', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Fuimos canciones a.k.a Sounds Like Love (2021) SPANISH 1080p NF WEBRip DD5.1 x264 MSubs <span class="File">[File_Size: 1.4GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3538', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Fuimos canciones a.k.a Sounds Like Love (2021) SPANISH 720p NF WEBRip x264 MSubs <span class="File">[File_Size: 800MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3539', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Fuimos canciones a.k.a Sounds Like Love (2021) 480p NF HDRip Dual Audio (Hindi +English) x264 MSub <span class="File">[File_Size: 393MB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Legacy" rel="modal:open">Space Jam a New Legacy (2021)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Legacy" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3267', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Space Jam a New Legacy 2021 720p 10Bit WEB-DL (Hindi+English) HEVC x265 ESubs <span class="File">[File_Size: 806MB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Spider" rel="modal:open">Spider man <span style="display: none">Spider-man Spiderman</span><b>1 2 3</b></a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Spider" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4195', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Spider - Man (2002) 720p HEVC BluRay Dual Audio(Hindi +English) x265 ESub <span class="File">[File_Size: 668MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4196', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Spider - Man 2 (2004) 720p HEVC BluRay Dual Audio (Hindi +English) x265 ESub <span class="File">[File_Size: 749MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4197', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Spider - Man 3 (2007) 720p HEVC BluRay Dual Audio (Hindi +English) x265 ESub <span class="File">[File_Size: 752MB]</span></p>
+  </div>
+
+<tr>
+    <td><a href="#Spider1" rel="modal:open">Spider-man No Way Home (2021)</a></td>
+    <td>Hindi/English</td>
+  </tr>
+  <div id="Spider1" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5549', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Spider-Man No Way Home (2021) 480p V2 HQ HD-CAM (Hindi +English) x264 AAC <span class="File">[File_Size: 552MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5550', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Spider-Man No Way Home (2021) 720p V2 HQ HD-CAM (Hindi +English) x264 AAC <span class="File">[File_Size: 1.2GB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5551', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Spider-Man No Way Home Hindi +English. <span style="background: yellow; color: red;">Sample video. 30s</span> from 0:03:26 <span class="File">[File_Size: 3MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5625', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Spider - Man No Way Home (2021) V3 480p HDCAM Dual Audio (Hindi +English) x264 <br />👉🏻 {Note :Includes both post credit scenes with Teaser of DOCTOR STRANGE :MULTIVERSE OF MADNESS} <span class="File">[File_Size: 459MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5626', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Spider - Man No Way Home (2021) V3 720p HDCAM Dual Audio (Hindi +English) x264 <br />👉🏻 {Note :Includes both post credit scenes with Teaser of DOCTOR STRANGE :MULTIVERSE OF MADNESS} <span class="File">[File_Size: 1.4GB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5627', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Spider-Man No Way Home V3 <span style="background: yellow; color: red;">Sample video. 30s</span> from 1:10:39 <span class="File">[File_Size: 3.9MB]</span></p>
+</div>
+
+  <tr>
+   <td><a href="#Special" rel="modal:open">Special Ops 1.5 (2021)</a></td>
+   <td>Hindi</td>
+  </tr>
+  <div id="Special" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4862', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Special Ops 1.5 (2021) S01 <span class="E">E01_E04</span> 480p HS - DSNP Hindi WEB-DL x264 ESub</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4904', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Special Ops 1.5 (2021) S01 <span class="E">E01_E04</span> HINDI 720p10bit HS-DSNP WEBRip 6CH x265 HEVC ESubs ~ Streamion</p>
+  </div>
+
+<tr>
+    <td><a href="#Spencer" rel="modal:open">Spencer (2021)</a></td>
+    <td>English</td>
+  </tr>
+  <div id="Spencer" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5218', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Spencer (2021) 720p WEBRip 2CH x265 HEVC ESubs <span class="File">[File_Size: 585MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5219', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Spencer (2021) 1080p WEBRip 6CH x265 HEVC ESubs <span class="File">[File_Size: 1.3GB]</span></p>
+</div>
+
+  <tr>
+   <td><a href="#Spider1" rel="modal:open"> The amazing Spider-Man <b>1 2</b></a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Spider1" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4198', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Amazing Spider - Man (2012) BluRay 480p Dual Audio (Hindi +English) ESub <span class="File">[File_Size: 411MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4199', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Amazing Spider - Man (2012) BluRay 720p Dual Audio (Hindi+English) AAC 5.1 x264 ESub <span class="File">[File_Size: 1.4GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4200', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Amazing Spider - Man 2 (2014) 720p HEVC BluRay Dual Audio (Hindi +English) x265 ESub <span class="File">[File_Size: 760MB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Squad" rel="modal:open">Squad (2021)</a></td>
+   <td>Hindi</td>
+  </tr>
+  <div id="Squad" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4860', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Squad (2021) 480p ZEE5 Hindi WEB-DL x264 <span class="File">[File_Size: 375MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4861', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Squad (2021) 720p Zee5 Hindi WEB-DL DD 2.0 x264 <span class="File">[File_Size: 948MB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Squid" rel="modal:open">Squid Game <b>S01</b> (2021)</a></td>
+   <td>Hindi/English/Korean</td>
+  </tr>
+  <div id="Squid" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3025', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Squid Game (2021) S01 <span class="E">E01_E09</span> 720p NF WEB-DL Dual Audio (Korean +English) DDP5.1 Atmos x264 MSubs </p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3036', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Squid Game (2021) S01 <span class="E">E01_E09</span> NF 480p WEB-DL x264 Dual Audio (Hindi +English) ESub </p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3056', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Squid Game (2021) S01 <span class="E">E01_E09</span> 720p WEB-DL x264 Dual Audio (Hindi 5.1 + English) ESub </p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3088', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Squid Game (2021) S01 <span class="E">E01_E09</span> NF WEBRip 720p 10bit HEVC x265 Dual Audio (Hindi +English) 5.1 MSubs </p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3112', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Squid Game (2021) S01 <span class="E">E01_E09</span> 720p NF WEB-DL DD+5.1 Atmos x264 Multi (Hindi +English +Korean) MSubs </p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3210', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Squid Game (2021) S01 <span class="E">E01_E09</span> NF WebRip 720p10bit 2CH HEVC Multi (Hindi +Korean +English) x265 MSub </p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3715', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Squid Game (2021) S01 <span class="E">E01_E09</span> Multi (Hindi +Korean +English) 1080p10bit WEBRip 6CH x265 HEVC MSubs</p>
+  </div>
+  <tr>
+   <td><a href="#Sridevi" rel="modal:open">Sridevi Soda Center (2021)</a></td>
+   <td>Telugu</td>
+  </tr>
+  <div id="Sridevi" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4631', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Sridevi Soda Center (2021) 720p ZEE5 WEB-DL x264 Telugu AAC2.0 ESubs <span class="File">[File_Size: 1.4GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4637', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Sridevi Soda Center (2021) Telugu Zee5 HDRip x264 400MB ESubs <span class="File">[File_Size: 409MB]</span></p>
+  </div>
+
+<tr>
+    <td><a href="#Stand" rel="modal:open">Stand By Me Doraemon 2 (2020)</a></td>
+    <td>Hindi/Japanese</td>
+  </tr>
+  <div id="Stand" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5425', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Stand By Me Doraemon 2 (2020) 1080p 10bit HEVC BluRay HEVC [DDP 5.1 Hindi + DD 5.1 Japanese] x265 <span class="File">[File_Size: 1.9GB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5426', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Stand By Me Doraemon 2 (2020) 720p 10bit HEVC BluRay [Hindi AAC5.1 + Japanese AAC5.1] MSubs x265 ~ TsS <span class="File">[File_Size: 1.7GB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5438', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Stand by Me Doraemon 2 (2020) 480p BluRay Hindi x264 ESubs <span class="File">[File_Size: 308MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5439', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Stand by Me Doraemon 2 (2020) 720p BluRay Hindi DD5.1 x264 ESubs <span class="File">[File_Size: 823MB]</span></p>
+</div>
+
+  <tr>
+   <td><a href="#Starling" rel="modal:open">The Starling (2021)</a></td>
+   <td>English</td>
+  </tr>
+  <div id="Starling" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3380', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Starling (2021) 720p10bit WEBRip 6CH x265 HEVC ESubs <span class="File">[File_Size: 801MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3381', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Starling (2021) 1080p10bit WEBRip 6CH x265 HEVC ESubs <span class="File">[File_Size: 1.6GB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Star" rel="modal:open">Star vs Food (2021)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Star" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2662', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Star vs Food (2021) 720p HEVC HDRip S01E01 Kareena Kapoor Dual Audio (Hindi +English) x265 ESub <span class="File">[File_Size: 195MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2663', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Star vs Food (2021) 720p HEVC HDRip S01 E(02-04) Combined - Karan Johar, Arjun Kapoor, Malaika Arora Dual Audio (Hindi +English) x265 ESub <span class="File">[File_Size: 440MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2664', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Star vs Food (2021) 720p HEVC HDRip S01E05 Pratik Gandhi Dual Audio (Hindi +English) x265 ESub <span class="File">[File_Size: 189MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2665', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Star vs Food (2021) 720p HEVC HDRip S02E01 Janhvi Kapoor Dual Audio (Hindi +English) x265 AAC <span class="File">[File_Size: 188MB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Visions" rel="modal:open">Star Wars Visions <b>S01</b> (2021)</a></td>
+   <td>English</td>
+  </tr>
+  <div id="Visions" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3271', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Star Wars Visions (2021) S01 <span class="E">E01_E09</span> 720p WEB-DL x264 ESub</p>
+  </div>
+
+  <tr>
+   <td><a href="#Siege" rel="modal:open">State of Siege Temple Attack (2021)</a></td>
+   <td>Hindi</td>
+  </tr>
+  <div id="Siege" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2265', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> State of Siege Temple Attack 2021 Hindi.720p.HEVC.WEB-DL.ESub.x265 .mkv <span class="File">[File_Size: 538MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3789', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> State of Siege Temple Attack 2021 Hindi 1080p.WEB-DL.ESub.x264 .mkv <span class="File">[File_Size: 1.9GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3790', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> State of Siege Temple Attack 2021 Hindi 720p.WEB-DL.ESub.x264 .mkv <span class="File">[File_Size: 901MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3791', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> State of Siege Temple Attack 2021 Hindi.720p.HEVC.WEB-DL.ESub.x265 .mkv <span class="File">[File_Size: 538MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3792', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> State of Siege Temple Attack 2021 Hindi.480p.WEB-DL.ESub.x264 .mkv <span class="File">[File_Size: 350MB]</span></p>
+  </div>
+
+  <tr>
+   <td><a href="#State" rel="modal:open">State Of Siege 26/11 <b>S01</b> (2021)</a></td>
+   <td>Hindi</td>
+  </tr>
+  <div id="State" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3793', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> State Of Siege 26/11 (2020) 480p HEVC Hindi S01 Complete x265 ESub <span class="File">[File_Size: 748MB]</span></p>
+  </div>
+
+  <tr>
+    <td><a href="#Stay" rel="modal:open">Stay Close <b>S01</b> (2021)</a></td>
+    <td>Hindi/English</td>
+  </tr>
+  <div id="Stay" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5779', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Stay Close (2021) S01 <span class="E">E01_E08</span> 720p 10bit NF WEBRip x265 HEVC [Hindi AAC 5.1 + English AAC 5.1] Esub</p>
+</div>
+
+  <tr>
+   <td><a href="#Stealing" rel="modal:open">Stealing Chaplin (2021)</a></td>
+   <td>English</td>
+  </tr>
+  <div id="Stealing" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3907', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Stealing Chaplin (2021) 720p WEBRip x264 <span class="File">[File_Size: 797MB]</span></p>
+  </div>
+  
+ <tr>
+   <td><a href="#Straight" rel="modal:open">Straight Outta Nowhere Scooby-Doo Meets Courage the Cowardly Dog (2021)</a></td>
+   <td>English</td>
+  </tr>
+  <div id="Straight" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2875', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Straight Outta Nowhere Scooby-Doo Meets Courage the Cowardly Dog (2021) 720p WEBRip 2CH x265 HEVC ESubs <span class="File">[File_Size: 396MB]</span></p>
+  </div>
+  
+  <tr>
+   <td><a href="#Suicide" rel="modal:open">The Suicide Squad (2021)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Suicide" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3525', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Suicide Squad (2021) WebRip Dual Audio (Hindi +English) 480p ESub <span class="File">[File_Size: 400MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3526', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Suicide Squad (2021) WebRip 720p x265 HEVC 10Bit Dual Audio (Hindi +English) AAC 5.1 ESub <span class="File">[File_Size: 1.1GB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#SunFlower" rel="modal:open">SunFlower <b>S01</b> (2021)</a></td>
+   <td>Hindi</td>
+  </tr>
+  <div id="SunFlower" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3849', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> SunFlower S01 <span class="E">E01_E08</span> 720p Hindi WEB-DL ESub x264</p>
+  </div>
+  <tr>
+   <td><a href="#Sweet" rel="modal:open">Sweet Girl (2021)</a></td>
+   <td>Hindi/English</td>
+  </tr>
+  <div id="Sweet" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3501', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Sweet Girl (2021) 720p WEB-DL x264 Dual Audio [ Hindi AAC5.1 + English AAC5.1 ] MSubs <span class="File">[File_Size: 1.2GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3502', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Sweet Girl (2021) NF 480p WEBRip Dual Audio (English+Hindi) x264 ESubs <span class="File">[File_Size: 329MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3503', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Sweet Girl (2021) 720p10bit WEBRip Dual Audio (English+Hindi) AAC 5.1 x265 ESubs <span class="File">[File_Size: 926MB]</span></p>
+  </div>
+
+  <tr>
+    <td><a href="#Switchh" rel="modal:open">Switchh (2021)</a></td>
+    <td>Hindi/English</td>
+  </tr>
+  <div id="Switchh" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5681', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Switchh (2021) 480p Hindi EROS WebRip x264 <span class="File">[File_Size: 347MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5682', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Switchh (2021) 720p Hindi EROS WebRip AAC2.0 x264 <span class="File">[File_Size: 1.2GB]</span></p>
+</div>
+  `);

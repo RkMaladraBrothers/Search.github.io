@@ -1,0 +1,162 @@
+document.write(`
+  <tr>
+   <td><a href="#Rang" rel="modal:open">Rang Panjab (2018)</a></td>
+   <td>Punjabi</td>
+  </tr>
+  <div id="Rang" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4184', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Rang Panjab (2018) Punjabi 480p WEB HDRip ESub x264 <span class="File">[File_Size: 373MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4185', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Rang Panjab (2018) Punjabi 720p 5.1 WEB HDRip ESub x264 <span class="File">[File_Size: 961MB]</span></p>
+  </div>
+
+<tr>
+    <td><a href="#Ranjish" rel="modal:open">Ranjish Hi Sahi <b>S01</b> (2021)</a></td>
+    <td>Hindi</td>
+  </tr>
+  <div id="Ranjish" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5972', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Ranjish Hi Sahi (2022) S01 <span class="E">E01_E12</span> 720p WebRip Hindi AAC 5.1 x264</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5981', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Ranjish Hi Sahi (2022) S01 <span class="E">E01_E12</span> 480p WebRip Hindi x264</p>
+</div>
+
+  <tr>
+   <td><a href="#Rashmi" rel="modal:open">Rashmi Rocket (2021)</a></td>
+   <td>Hindi</td>
+  </tr>
+  <div id="Rashmi" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3990', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Rashmi Rocket (2021) 480p Hindi Zee5 WEB-DL x264 ESub <span class="File">[File_Size: 390MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3991', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Rashmi Rocket (2021) Hindi Zee5 720p10bit WEBRip 2CH x265 HEVC ESubs <span class="File">[File_Size: 743MB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Rathnan" rel="modal:open">Rathnan Prapancha (2021)</a></td>
+   <td>KANNADA</td>
+  </tr>
+  <div id="Rathnan" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4207', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Rathnan Prapancha (2021) 720p KANNADA AMZN WEB-DL DDP5.1 (640kbps) HEVC ESubs ~ REVOLT <span class="File">[File_Size: 1.9GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4216', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Rathnan Prapancha (2021) Kannada AMZN HDRip x264 ESub <span class="File">[File_Size: 438MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4217', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Rathnan Prapancha (2021) Kannada 720p AMZN HDRip x264 DD5.1(192Kbps) ESub <span class="File">[File_Size: 1.4GB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Rawkto" rel="modal:open">Rawkto Rawhoshyo (2021)</a></td>
+   <td>Bengali</td>
+  </tr>
+  <div id="Rawkto" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3898', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Rawkto Rawhoshyo 720p HoiChoi BENGALI WEB-DL AAC H.264 ESubs ~ NEW1ON <span class="File">[File_Size: 931MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3899', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Rawkto Rawhoshyo (1080p) HoiChoi BENGALI WEB-DL AAC H.264 ESub ~NEW1ON <span class="File">[File_Size: 1.9GB]</span></p>
+  </div>
+
+  <tr>
+    <td><a href="#Ray" rel="modal:open">Ray Donovan - The Movie (2022)</a></td>
+    <td>English</td>
+  </tr>
+  <div id="Ray" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/6109', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Ray Donovan - The Movie (2022) 720p10bit HEVC WEBRip 6CH x265 ESubs <br />👉🏻 NOTE :  That's a finale movie of 7 season series with same name. Watch only after watching all seasons <span class="File">[File_Size: 642MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/6110', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Ray Donovan - The Movie (2022) 1080p10bit HEVC WEBRip 6CH x265 ESubs <br />👉🏻 NOTE :  That's a finale movie of 7 season series with same name. Watch only after watching all seasons<span class="File">[File_Size: 1.3GB]</span></p>
+</div>
+
+  <tr>
+   <td><a href="#Red" rel="modal:open">Red Notice (2021)</a></td>
+   <td>Hindi/English, Tamil/Telugu</td>
+  </tr>
+  <div id="Red" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4886', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Red Notice (2021) 1080p NF WEB-DL (DD+ 5.1 - 192Kbps) Multi [Telugu + Tamil + Hindi + English ] x264 MSubs ~ TheDNK <span class="File">[File_Size: 1.8GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4888', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Red Notice (2021) 720p NF WEB-DL (DD+ 5.1 - 192Kbps) Multi [Telugu + Tamil + Hindi + English ] x264 MSub ~ TheDNK <span class="File">[File_Size: 1GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4892', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Red Notice (2021) 480p NF WEB-DL Dual Audio (Hindi + English) x264 ESubs <span class="File">[File_Size: 415MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4893', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Red Notice (2021) 720p10bit HEVC WEB-DL Dual Audio (Hindi 5.1 +English) x265 ESubs <span class="File">[File_Size: 847MB]</span></p>
+  </div>
+
+<tr>
+    <td><a href="#Republic" rel="modal:open">Republic (2021)</a></td>
+    <td>Telugu</td>
+  </tr>
+  <div id="Republic" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5344', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Republic (2021) 480p ZEE5 WEB-DL Telugu AAC2.0 H.264 ESubs <span class="File">[File_Size: 359MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5345', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Republic (2021) 720p ZEE5 WEB-DL Telugu AAC2.0 H.264 ESubs <span class="File">[File_Size: 1.2GB]</span></p>
+</div>
+
+<tr>
+    <td><a href="#Resident" rel="modal:open">Resident Evil Welcome to Raccoon City (2021)</a></td>
+    <td>English</td>
+  </tr>
+  <div id="Resident" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5628', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Resident Evil Welcome to Raccoon City (2021) 480p AMZN HDRip ENGLISH x264 MSub <span class="File">[File_Size: ]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5629', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Resident Evil Welcome to Raccoon City (2021) 720p10bit HEVC AMZN WEBRip ENGLISH 6CH x265 ESubs  <span class="File">[File_Size: 713MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5630', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Resident Evil Welcome to Raccoon City (2021) 1080p10bit HEVC AMZN WEBRip ENGLISH 6CH x265 ESubs <span class="File">[File_Size: 1.3GB]</span></p>
+</div>
+
+  <tr>
+   <td><a href="#Robbery" rel="modal:open">This is a Robbery the Worlds Biggest Art heist <b>S01</b> (2021)</a></td>
+   <td>English</td>
+  </tr>
+  <div id="Robbery" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3491', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> This is a Robbery the Worlds Biggest Art heist (2021) S01 <span class="E">E01_E04</span> 720p 10bit NF WEBRip ESubs x265</p>
+  </div>
+
+<tr>
+    <td><a href="#Robin" rel="modal:open">Robin Robin (2021)</a></td>
+    <td>Hindi/English</td>
+  </tr>
+  <div id="Robin" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5226', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Robin Robin (2021) 720p NF WEB-DL Dual Audio (English +Hindi) DDP5.1 Atmos x264 ESubs ~ REVOLT <span class="File">[File_Size: 778MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5227', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Robin Robin (2021) 1080p10bit HEVC NF WEB-DL Dual Audio (Hindi +English) DDP5.1 Atmos x265 ESubs ~ Saon <span class="File">[File_Size: 1.4GB]</span></p>
+</div>
+
+<tr>
+    <td><a href="#Romantic" rel="modal:open">Romantic (2021)</a></td>
+    <td>Telugu</td>
+  </tr>
+  <div id="Romantic" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5341', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Romantic (2021) 480p AHA WEB-DL Telugu AAC2.0 H.264 ESubs <span class="File">[File_Size: 353MB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5342', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Romantic (2021) 720p AHA WEB-DL Telugu AAC2.0 H.264 ESubs <span class="File">[File_Size: 1GB]</span></p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5343', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Romantic (2021) 720p HEVC AHA WEB-DL Telugu (DD+5.1 - 192Kbps & AAC 2.0) x265 ESubs ~ TheDNK <span class="File">[File_Size: 1.2GB]</span></p>
+</div>
+
+  <tr>
+   <td><a href="#Roohi" rel="modal:open">Roohi (2021)</a></td>
+   <td>Hindi</td>
+  </tr>
+  <div id="Roohi" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2954', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Roohi (2021) [Hindi - HDRip - x264 - MP3 - 700MB - ESubs] <span class="File">[File_Size: 685MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2955', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Roohi (2021) [Hindi - 720p HD AVC x264 - UNTOUCHED - AAC - 1.2GB - ESubs] <span class="File">[File_Size: 1.2GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/2956', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Roohi (2021) [Hindi - HDRip - x264 - MP3 - 400MB - ESubs] <span class="File">[File_Size: 391MB]</span></p>
+  </div>
+  <tr>
+   <td><a href="#Rose" rel="modal:open">The Rose Villa (2021)</a></td>
+   <td>Hindi/Kannada/Telugu</td>
+  </tr>
+  <div id="Rose" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/4884', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> The Rose Villa (2021) 720p HEVC AMZN WEB-DL Multi (Hindi + Kannada +Telugu Org) DDP5.1 x265 ESubs <span class="File">[File_Size: 1.2GB]</span></p>
+  </div>
+
+  <tr>
+    <td><a href="#Rudrabinar" rel="modal:open">Rudrabinar Obhishaap <b>S01</b> (2021)</a></td>
+    <td>Bengali</td>
+  </tr>
+  <div id="Rudrabinar" class="modal">
+  <p class="Title">👇🏻Click Here👇🏻</p>
+  <p class="Box" onclick="window.open('https://t.me/c/1501644510/5857', '_blank');"><i class="fa fa-download" style="background: white; color: red; font-size: 4vw;"></i> Rudrabinar Obhishaap (2021) S01 <span class="E">E01_E09</span> 720p Hoichoi WEB-DL Bengali AAC2.0 x264 ESubs</p>
+</div>
+
+  <tr>
+   <td><a href="#Run_Hide" rel="modal:open">Run Hide Fight (2020)</a></td>
+   <td>Hindi/English, Tamil/Telugu</td>
+  </tr>
+  <div id="Run_Hide" class="modal">
+   <p class="Title">👇🏻Click Here👇🏻</p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3511', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Run Hide Fight (2021) 720p BMS WEB-DL Multi (Hindi +English +Tamil +Telugu) AAC2.0 x264 ESub <span class="File">[File_Size: 1.9GB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3527', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Run Hide Fight (2020) BluRay Dual Audio (Hindi+English) 480p ESub <span class="File">[File_Size: 331MB]</span></p>
+   <p class="Box" onclick="window.open('https://t.me/c/1501644510/3528', '_blank');"><i class="fa fa-download" style="background: white; color: lime; font-size: 4vw;"></i> Run Hide Fight (2020) BluRay 720p Dual Audio (Hindi 2.0 +English 5.1) AAC x264 ESub <span class="File">[File_Size: 1.1GB]</span></p>
+  </div>
+  `);
